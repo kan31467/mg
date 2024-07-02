@@ -1,0 +1,1581 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="001" tvg-name="BBC One" tvg-logo="http://live.9528.eu.org/logo/BBC One" group-title="英國",BBC One
+http://149.88.65.214:88/v2/play/001?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="002" tvg-name="BBC Two" tvg-logo="http://live.9528.eu.org/logo/BBC Two" group-title="英國",BBC Two
+http://149.88.65.214:88/v2/play/002?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="003" tvg-name="BBC Three" tvg-logo="http://live.9528.eu.org/logo/BBC Three" group-title="英國",BBC Three
+http://149.88.65.214:88/v2/play/003?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="004" tvg-name="BBC Tour" tvg-logo="http://live.9528.eu.org/logo/BBC Tour" group-title="英國",BBC Tour
+http://149.88.65.214:88/v2/play/004?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="008" tvg-name="BBC News" tvg-logo="http://live.9528.eu.org/logo/BBC News" group-title="英國",BBC News
+http://149.88.65.214:88/v2/play/008?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="011" tvg-name="Sky Sports News HQ" tvg-logo="http://live.9528.eu.org/logo/Sky Sports News HQ" group-title="英國",Sky Sports News HQ
+http://149.88.65.214:88/v2/play/011?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="012" tvg-name="Sky Sports Main Event" tvg-logo="http://live.9528.eu.org/logo/Sky Sports Main Event" group-title="英國",Sky Sports Main Event
+http://149.88.65.214:88/v2/play/012?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="013" tvg-name="Sky Sports Premier League" tvg-logo="http://live.9528.eu.org/logo/Sky Sports Premier League" group-title="英國",Sky Sports Premier League
+http://149.88.65.214:88/v2/play/013?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="014" tvg-name="Sky Sports Football" tvg-logo="http://live.9528.eu.org/logo/Sky Sports Football" group-title="英國",Sky Sports Football
+http://149.88.65.214:88/v2/play/014?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="015" tvg-name="Sky Sports Cricket" tvg-logo="http://live.9528.eu.org/logo/Sky Sports Cricket" group-title="英國",Sky Sports Cricket
+http://149.88.65.214:88/v2/play/015?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="016" tvg-name="Sky Sports Golf" tvg-logo="http://live.9528.eu.org/logo/Sky Sports Golf" group-title="英國",Sky Sports Golf
+http://149.88.65.214:88/v2/play/016?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="017" tvg-name="Sky Sports F1" tvg-logo="http://live.9528.eu.org/logo/Sky Sports F1" group-title="英國",Sky Sports F1
+http://149.88.65.214:88/v2/play/017?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="018" tvg-name="Sky Sports Action" tvg-logo="http://live.9528.eu.org/logo/Sky Sports Action" group-title="英國",Sky Sports Action
+http://149.88.65.214:88/v2/play/018?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="019" tvg-name="Sky Sports Arena" tvg-logo="http://live.9528.eu.org/logo/Sky Sports Arena" group-title="英國",Sky Sports Arena
+http://149.88.65.214:88/v2/play/019?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="110" tvg-name="Sky Sports Racing" tvg-logo="http://live.9528.eu.org/logo/Sky Sports Racing" group-title="英國",Sky Sports Racing
+http://149.88.65.214:88/v2/play/110?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="111" tvg-name="Sky Sports Mix" tvg-logo="http://live.9528.eu.org/logo/Sky Sports Mix" group-title="英國",Sky Sports Mix
+http://149.88.65.214:88/v2/play/111?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="112" tvg-name="Sky Cinema Premiere" tvg-logo="http://live.9528.eu.org/logo/Sky Cinema Premiere" group-title="英國",Sky Cinema Premiere
+http://149.88.65.214:88/v2/play/112?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="113" tvg-name="Sky Heroines" tvg-logo="http://live.9528.eu.org/logo/Sky Heroines" group-title="英國",Sky Heroines
+http://149.88.65.214:88/v2/play/113?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="114" tvg-name="Sky Bourne" tvg-logo="http://live.9528.eu.org/logo/Sky Bourne" group-title="英國",Sky Bourne
+http://149.88.65.214:88/v2/play/114?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="115" tvg-name="Sky Action" tvg-logo="http://live.9528.eu.org/logo/Sky Action" group-title="英國",Sky Action
+http://149.88.65.214:88/v2/play/115?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="116" tvg-name="Sky Animation" tvg-logo="http://live.9528.eu.org/logo/Sky Animation" group-title="英國",Sky Animation
+http://149.88.65.214:88/v2/play/116?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="117" tvg-name="Sky Adventure" tvg-logo="http://live.9528.eu.org/logo/Sky Adventure" group-title="英國",Sky Adventure
+http://149.88.65.214:88/v2/play/117?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="118" tvg-name="Sky Comedy" tvg-logo="http://live.9528.eu.org/logo/Sky Comedy" group-title="英國",Sky Comedy
+http://149.88.65.214:88/v2/play/118?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="119" tvg-name="Sky ScFi/Horror" tvg-logo="http://live.9528.eu.org/logo/Sky ScFi/Horror" group-title="英國",Sky ScFi/Horror
+http://149.88.65.214:88/v2/play/119?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="120" tvg-name="Sky Thriller" tvg-logo="http://live.9528.eu.org/logo/Sky Thriller" group-title="英國",Sky Thriller
+http://149.88.65.214:88/v2/play/120?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="121" tvg-name="Sky Greats" tvg-logo="http://live.9528.eu.org/logo/Sky Greats" group-title="英國",Sky Greats
+http://149.88.65.214:88/v2/play/121?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="122" tvg-name="Sky Drama" tvg-logo="http://live.9528.eu.org/logo/Sky Drama" group-title="英國",Sky Drama
+http://149.88.65.214:88/v2/play/122?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="123" tvg-name="Sky Showcase" tvg-logo="http://live.9528.eu.org/logo/Sky Showcase" group-title="英國",Sky Showcase
+http://149.88.65.214:88/v2/play/123?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="124" tvg-name="Sky Atlantic" tvg-logo="http://live.9528.eu.org/logo/Sky Atlantic" group-title="英國",Sky Atlantic
+http://149.88.65.214:88/v2/play/124?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="125" tvg-name="Sky Max" tvg-logo="http://live.9528.eu.org/logo/Sky Max" group-title="英國",Sky Max
+http://149.88.65.214:88/v2/play/125?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="126" tvg-name="Sky Witness" tvg-logo="http://live.9528.eu.org/logo/Sky Witness" group-title="英國",Sky Witness
+http://149.88.65.214:88/v2/play/126?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="127" tvg-name="Alibi" tvg-logo="http://live.9528.eu.org/logo/Alibi" group-title="英國",Alibi
+http://149.88.65.214:88/v2/play/127?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="128" tvg-name="GOLD" tvg-logo="http://live.9528.eu.org/logo/GOLD" group-title="英國",GOLD
+http://149.88.65.214:88/v2/play/128?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="129" tvg-name="Sky Comedy" tvg-logo="http://live.9528.eu.org/logo/Sky Comedy" group-title="英國",Sky Comedy
+http://149.88.65.214:88/v2/play/129?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="130" tvg-name="Comedy Central" tvg-logo="http://live.9528.eu.org/logo/Comedy Central" group-title="英國",Comedy Central
+http://149.88.65.214:88/v2/play/130?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="131" tvg-name="MTV" tvg-logo="http://live.9528.eu.org/logo/MTV" group-title="英國",MTV
+http://149.88.65.214:88/v2/play/131?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="132" tvg-name="Sky Documentaries" tvg-logo="http://live.9528.eu.org/logo/Sky Documentaries" group-title="英國",Sky Documentaries
+http://149.88.65.214:88/v2/play/132?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="133" tvg-name="Sky Crime" tvg-logo="http://live.9528.eu.org/logo/Sky Crime" group-title="英國",Sky Crime
+http://149.88.65.214:88/v2/play/133?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="134" tvg-name="Sky Nature" tvg-logo="http://live.9528.eu.org/logo/Sky Nature" group-title="英國",Sky Nature
+http://149.88.65.214:88/v2/play/134?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="135" tvg-name="Sky History" tvg-logo="http://live.9528.eu.org/logo/Sky History" group-title="英國",Sky History
+http://149.88.65.214:88/v2/play/135?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="136" tvg-name="Sky Sci-fi" tvg-logo="http://live.9528.eu.org/logo/Sky Sci-fi" group-title="英國",Sky Sci-fi
+http://149.88.65.214:88/v2/play/136?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="137" tvg-name="NBC News NOW" tvg-logo="http://live.9528.eu.org/logo/NBC News NOW" group-title="英國",NBC News NOW
+http://149.88.65.214:88/v2/play/137?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="138" tvg-name="Sky Arts 1" tvg-logo="http://live.9528.eu.org/logo/Sky Arts 1" group-title="英國",Sky Arts 1
+http://149.88.65.214:88/v2/play/138?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="139" tvg-name="Sky Kids" tvg-logo="http://live.9528.eu.org/logo/Sky Kids" group-title="英國",Sky Kids
+http://149.88.65.214:88/v2/play/139?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="140" tvg-name="Cartoon Network" tvg-logo="http://live.9528.eu.org/logo/Cartoon Network" group-title="英國",Cartoon Network
+http://149.88.65.214:88/v2/play/140?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="141" tvg-name="Boomerang" tvg-logo="http://live.9528.eu.org/logo/Boomerang" group-title="英國",Boomerang
+http://149.88.65.214:88/v2/play/141?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="142" tvg-name="Nickelodeon" tvg-logo="http://live.9528.eu.org/logo/Nickelodeon" group-title="英國",Nickelodeon
+http://149.88.65.214:88/v2/play/142?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="143" tvg-name="NickSpongeBob" tvg-logo="http://live.9528.eu.org/logo/NickSpongeBob" group-title="英國",NickSpongeBob
+http://149.88.65.214:88/v2/play/143?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="144" tvg-name="Nick Jr" tvg-logo="http://live.9528.eu.org/logo/Nick Jr" group-title="英國",Nick Jr
+http://149.88.65.214:88/v2/play/144?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="145" tvg-name="Cartoonito" tvg-logo="http://live.9528.eu.org/logo/Cartoonito" group-title="英國",Cartoonito
+http://149.88.65.214:88/v2/play/145?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="146" tvg-name="Sky Sports Tennis" tvg-logo="http://live.9528.eu.org/logo/Sky Sports Tennis" group-title="英國",Sky Sports Tennis
+http://149.88.65.214:88/v2/play/146?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="153" tvg-name="TNT Sport1" tvg-logo="http://live.9528.eu.org/logo/TNT Sport1" group-title="英國",TNT Sport1
+http://149.88.65.214:88/v2/play/153?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="154" tvg-name="TNT Sport2" tvg-logo="http://live.9528.eu.org/logo/TNT Sport2" group-title="英國",TNT Sport2
+http://149.88.65.214:88/v2/play/154?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="155" tvg-name="TNT Sport3" tvg-logo="http://live.9528.eu.org/logo/TNT Sport3" group-title="英國",TNT Sport3
+http://149.88.65.214:88/v2/play/155?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="156" tvg-name="TNT Sport4" tvg-logo="http://live.9528.eu.org/logo/TNT Sport4" group-title="英國",TNT Sport4
+http://149.88.65.214:88/v2/play/156?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="157" tvg-name="TNT Premier1" tvg-logo="http://live.9528.eu.org/logo/TNT Premier1" group-title="英國",TNT Premier1
+http://149.88.65.214:88/v2/play/157?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="158" tvg-name="TNT Premier2" tvg-logo="http://live.9528.eu.org/logo/TNT Premier2" group-title="英國",TNT Premier2
+http://149.88.65.214:88/v2/play/158?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="201" tvg-name="ITV1" tvg-logo="http://live.9528.eu.org/logo/ITV1" group-title="英國",ITV1
+http://149.88.65.214:88/v2/play/201?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="203" tvg-name="ITV UEFA Euro 2024 24/7 Channel" tvg-logo="http://live.9528.eu.org/logo/ITV UEFA Euro 2024 24/7 Channel" group-title="英國",ITV UEFA Euro 2024 24/7 Channel
+http://149.88.65.214:88/v2/play/203?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1001" tvg-name="TaiwanPlus" tvg-logo="http://live.9528.eu.org/logo/TaiwanPlus" group-title="台灣",TaiwanPlus
+http://149.88.65.214:88/v2/play/1001?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1003" tvg-name="大愛二台" tvg-logo="http://live.9528.eu.org/logo/大愛二台" group-title="台灣",大愛二台
+http://149.88.65.214:88/v2/play/1003?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1005" tvg-name="CNN" tvg-logo="http://live.9528.eu.org/logo/CNN" group-title="台灣",CNN
+http://149.88.65.214:88/v2/play/1005?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1006" tvg-name="民視" tvg-logo="http://live.9528.eu.org/logo/民視" group-title="台灣",民視
+http://149.88.65.214:88/v2/play/1006?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1007" tvg-name="人間衛視" tvg-logo="http://live.9528.eu.org/logo/人間衛視" group-title="台灣",人間衛視
+http://149.88.65.214:88/v2/play/1007?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1008" tvg-name="台視" tvg-logo="http://live.9528.eu.org/logo/台視" group-title="台灣",台視
+http://149.88.65.214:88/v2/play/1008?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1009" tvg-name="大愛一台" tvg-logo="http://live.9528.eu.org/logo/大愛一台" group-title="台灣",大愛一台
+http://149.88.65.214:88/v2/play/1009?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1010" tvg-name="中視" tvg-logo="http://live.9528.eu.org/logo/中視" group-title="台灣",中視
+http://149.88.65.214:88/v2/play/1010?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1011" tvg-name="霹靂台灣台" tvg-logo="http://live.9528.eu.org/logo/霹靂台灣台" group-title="台灣",霹靂台灣台
+http://149.88.65.214:88/v2/play/1011?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1012" tvg-name="華視" tvg-logo="http://live.9528.eu.org/logo/華視" group-title="台灣",華視
+http://149.88.65.214:88/v2/play/1012?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1013" tvg-name="公視" tvg-logo="http://live.9528.eu.org/logo/公視" group-title="台灣",公視
+http://149.88.65.214:88/v2/play/1013?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1014" tvg-name="公視台語台" tvg-logo="http://live.9528.eu.org/logo/公視台語台" group-title="台灣",公視台語台
+http://149.88.65.214:88/v2/play/1014?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1015" tvg-name="好消息" tvg-logo="http://live.9528.eu.org/logo/好消息" group-title="台灣",好消息
+http://149.88.65.214:88/v2/play/1015?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1016" tvg-name="原住民族電視台" tvg-logo="http://live.9528.eu.org/logo/原住民族電視台" group-title="台灣",原住民族電視台
+http://149.88.65.214:88/v2/play/1016?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1017" tvg-name="客家電視台" tvg-logo="http://live.9528.eu.org/logo/客家電視台" group-title="台灣",客家電視台
+http://149.88.65.214:88/v2/play/1017?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1018" tvg-name="BBC News" tvg-logo="http://live.9528.eu.org/logo/BBC News" group-title="台灣",BBC News
+http://149.88.65.214:88/v2/play/1018?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1019" tvg-name="Discovery" tvg-logo="http://live.9528.eu.org/logo/Discovery" group-title="台灣",Discovery
+http://149.88.65.214:88/v2/play/1019?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1020" tvg-name="TLC旅遊生活" tvg-logo="http://live.9528.eu.org/logo/TLC旅遊生活" group-title="台灣",TLC旅遊生活
+http://149.88.65.214:88/v2/play/1020?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1021" tvg-name="動物星球" tvg-logo="http://live.9528.eu.org/logo/動物星球" group-title="台灣",動物星球
+http://149.88.65.214:88/v2/play/1021?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1022" tvg-name="CN卡通" tvg-logo="http://live.9528.eu.org/logo/CN卡通" group-title="台灣",CN卡通
+http://149.88.65.214:88/v2/play/1022?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1023" tvg-name="尼克兒童頻道" tvg-logo="http://live.9528.eu.org/logo/尼克兒童頻道" group-title="台灣",尼克兒童頻道
+http://149.88.65.214:88/v2/play/1023?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1024" tvg-name="MOMO親子台" tvg-logo="http://live.9528.eu.org/logo/MOMO親子台" group-title="台灣",MOMO親子台
+http://149.88.65.214:88/v2/play/1024?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1025" tvg-name="東森幼幼台" tvg-logo="http://live.9528.eu.org/logo/東森幼幼台" group-title="台灣",東森幼幼台
+http://149.88.65.214:88/v2/play/1025?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1026" tvg-name="緯來綜合台" tvg-logo="http://live.9528.eu.org/logo/緯來綜合台" group-title="台灣",緯來綜合台
+http://149.88.65.214:88/v2/play/1026?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1027" tvg-name="八大第一台" tvg-logo="http://live.9528.eu.org/logo/八大第一台" group-title="台灣",八大第一台
+http://149.88.65.214:88/v2/play/1027?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1028" tvg-name="八大綜合台" tvg-logo="http://live.9528.eu.org/logo/八大綜合台" group-title="台灣",八大綜合台
+http://149.88.65.214:88/v2/play/1028?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1029" tvg-name="三立台灣台" tvg-logo="http://live.9528.eu.org/logo/三立台灣台" group-title="台灣",三立台灣台
+http://149.88.65.214:88/v2/play/1029?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1030" tvg-name="三立都會台" tvg-logo="http://live.9528.eu.org/logo/三立都會台" group-title="台灣",三立都會台
+http://149.88.65.214:88/v2/play/1030?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1031" tvg-name="華藝MBC綜合台" tvg-logo="http://live.9528.eu.org/logo/華藝MBC綜合台" group-title="台灣",華藝MBC綜合台
+http://149.88.65.214:88/v2/play/1031?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1032" tvg-name="東森綜合台" tvg-logo="http://live.9528.eu.org/logo/東森綜合台" group-title="台灣",東森綜合台
+http://149.88.65.214:88/v2/play/1032?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1033" tvg-name="東森超視" tvg-logo="http://live.9528.eu.org/logo/東森超視" group-title="台灣",東森超視
+http://149.88.65.214:88/v2/play/1033?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1034" tvg-name="東森購物2台" tvg-logo="http://live.9528.eu.org/logo/東森購物2台" group-title="台灣",東森購物2台
+http://149.88.65.214:88/v2/play/1034?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1036" tvg-name="中天綜合台" tvg-logo="http://live.9528.eu.org/logo/中天綜合台" group-title="台灣",中天綜合台
+http://149.88.65.214:88/v2/play/1036?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1037" tvg-name="東風衛視台" tvg-logo="http://live.9528.eu.org/logo/東風衛視台" group-title="台灣",東風衛視台
+http://149.88.65.214:88/v2/play/1037?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1038" tvg-name="年代MUCH台" tvg-logo="http://live.9528.eu.org/logo/年代MUCH台" group-title="台灣",年代MUCH台
+http://149.88.65.214:88/v2/play/1038?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1039" tvg-name="中天娛樂台" tvg-logo="http://live.9528.eu.org/logo/中天娛樂台" group-title="台灣",中天娛樂台
+http://149.88.65.214:88/v2/play/1039?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1040" tvg-name="東森戲劇台" tvg-logo="http://live.9528.eu.org/logo/東森戲劇台" group-title="台灣",東森戲劇台
+http://149.88.65.214:88/v2/play/1040?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1041" tvg-name="八大戲劇台" tvg-logo="http://live.9528.eu.org/logo/八大戲劇台" group-title="台灣",八大戲劇台
+http://149.88.65.214:88/v2/play/1041?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1042" tvg-name="TVBS歡樂台" tvg-logo="http://live.9528.eu.org/logo/TVBS歡樂台" group-title="台灣",TVBS歡樂台
+http://149.88.65.214:88/v2/play/1042?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1043" tvg-name="緯來戲劇台" tvg-logo="http://live.9528.eu.org/logo/緯來戲劇台" group-title="台灣",緯來戲劇台
+http://149.88.65.214:88/v2/play/1043?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1044" tvg-name="高點電視台" tvg-logo="http://live.9528.eu.org/logo/高點電視台" group-title="台灣",高點電視台
+http://149.88.65.214:88/v2/play/1044?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1045" tvg-name="東森購物3台" tvg-logo="http://live.9528.eu.org/logo/東森購物3台" group-title="台灣",東森購物3台
+http://149.88.65.214:88/v2/play/1045?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1046" tvg-name="東森購物1台" tvg-logo="http://live.9528.eu.org/logo/東森購物1台" group-title="台灣",東森購物1台
+http://149.88.65.214:88/v2/play/1046?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1048" tvg-name="三立iNEWS新聞台" tvg-logo="http://live.9528.eu.org/logo/三立iNEWS新聞台" group-title="台灣",三立iNEWS新聞台
+http://149.88.65.214:88/v2/play/1048?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1049" tvg-name="壹電視新聞" tvg-logo="http://live.9528.eu.org/logo/壹電視新聞" group-title="台灣",壹電視新聞
+http://149.88.65.214:88/v2/play/1049?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1050" tvg-name="年代新聞" tvg-logo="http://live.9528.eu.org/logo/年代新聞" group-title="台灣",年代新聞
+http://149.88.65.214:88/v2/play/1050?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1051" tvg-name="東森新聞" tvg-logo="http://live.9528.eu.org/logo/東森新聞" group-title="台灣",東森新聞
+http://149.88.65.214:88/v2/play/1051?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1052" tvg-name="中天新聞" tvg-logo="http://live.9528.eu.org/logo/中天新聞" group-title="台灣",中天新聞
+http://149.88.65.214:88/v2/play/1052?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1053" tvg-name="民視新聞" tvg-logo="http://live.9528.eu.org/logo/民視新聞" group-title="台灣",民視新聞
+http://149.88.65.214:88/v2/play/1053?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1054" tvg-name="三立新聞" tvg-logo="http://live.9528.eu.org/logo/三立新聞" group-title="台灣",三立新聞
+http://149.88.65.214:88/v2/play/1054?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1055" tvg-name="TVBS 新聞台" tvg-logo="http://live.9528.eu.org/logo/TVBS 新聞台" group-title="台灣",TVBS 新聞台
+http://149.88.65.214:88/v2/play/1055?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1056" tvg-name="TVBS" tvg-logo="http://live.9528.eu.org/logo/TVBS" group-title="台灣",TVBS
+http://149.88.65.214:88/v2/play/1056?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1057" tvg-name="東森財經新聞" tvg-logo="http://live.9528.eu.org/logo/東森財經新聞" group-title="台灣",東森財經新聞
+http://149.88.65.214:88/v2/play/1057?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1058" tvg-name="非凡新聞" tvg-logo="http://live.9528.eu.org/logo/非凡新聞" group-title="台灣",非凡新聞
+http://149.88.65.214:88/v2/play/1058?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1061" tvg-name="CATCHPLAY電影台" tvg-logo="http://live.9528.eu.org/logo/CATCHPLAY電影台" group-title="台灣",CATCHPLAY電影台
+http://149.88.65.214:88/v2/play/1061?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1062" tvg-name="東森電影台" tvg-logo="http://live.9528.eu.org/logo/東森電影台" group-title="台灣",東森電影台
+http://149.88.65.214:88/v2/play/1062?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1063" tvg-name="緯來電影台" tvg-logo="http://live.9528.eu.org/logo/緯來電影台" group-title="台灣",緯來電影台
+http://149.88.65.214:88/v2/play/1063?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1064" tvg-name="LS龍祥電影台" tvg-logo="http://live.9528.eu.org/logo/LS龍祥電影台" group-title="台灣",LS龍祥電影台
+http://149.88.65.214:88/v2/play/1064?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1065" tvg-name="HBO" tvg-logo="http://live.9528.eu.org/logo/HBO" group-title="台灣",HBO
+http://149.88.65.214:88/v2/play/1065?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1066" tvg-name="東森洋片台" tvg-logo="http://live.9528.eu.org/logo/東森洋片台" group-title="台灣",東森洋片台
+http://149.88.65.214:88/v2/play/1066?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1067" tvg-name="AXN" tvg-logo="http://live.9528.eu.org/logo/AXN" group-title="台灣",AXN
+http://149.88.65.214:88/v2/play/1067?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1068" tvg-name="好萊塢電影台" tvg-logo="http://live.9528.eu.org/logo/好萊塢電影台" group-title="台灣",好萊塢電影台
+http://149.88.65.214:88/v2/play/1068?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1069" tvg-name="amc電影台HD" tvg-logo="http://live.9528.eu.org/logo/amc電影台HD" group-title="台灣",amc電影台HD
+http://149.88.65.214:88/v2/play/1069?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1070" tvg-name="CINEMAX" tvg-logo="http://live.9528.eu.org/logo/CINEMAX" group-title="台灣",CINEMAX
+http://149.88.65.214:88/v2/play/1070?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1071" tvg-name="緯來育樂台" tvg-logo="http://live.9528.eu.org/logo/緯來育樂台" group-title="台灣",緯來育樂台
+http://149.88.65.214:88/v2/play/1071?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1072" tvg-name="緯來體育台" tvg-logo="http://live.9528.eu.org/logo/緯來體育台" group-title="台灣",緯來體育台
+http://149.88.65.214:88/v2/play/1072?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1073" tvg-name="DAZN 1" tvg-logo="http://live.9528.eu.org/logo/DAZN 1" group-title="台灣",DAZN 1
+http://149.88.65.214:88/v2/play/1073?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1074" tvg-name="DAZN 2" tvg-logo="http://live.9528.eu.org/logo/DAZN 2" group-title="台灣",DAZN 2
+http://149.88.65.214:88/v2/play/1074?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1075" tvg-name="MOMO綜合台" tvg-logo="http://live.9528.eu.org/logo/MOMO綜合台" group-title="台灣",MOMO綜合台
+http://149.88.65.214:88/v2/play/1075?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1077" tvg-name="緯來日本台" tvg-logo="http://live.9528.eu.org/logo/緯來日本台" group-title="台灣",緯來日本台
+http://149.88.65.214:88/v2/play/1077?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1078" tvg-name="國興衛視" tvg-logo="http://live.9528.eu.org/logo/國興衛視" group-title="台灣",國興衛視
+http://149.88.65.214:88/v2/play/1078?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1081" tvg-name="Animax" tvg-logo="http://live.9528.eu.org/logo/Animax" group-title="台灣",Animax
+http://149.88.65.214:88/v2/play/1081?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1083" tvg-name="JET" tvg-logo="http://live.9528.eu.org/logo/JET" group-title="台灣",JET
+http://149.88.65.214:88/v2/play/1083?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1085" tvg-name="寰宇新聞台" tvg-logo="http://live.9528.eu.org/logo/寰宇新聞台" group-title="台灣",寰宇新聞台
+http://149.88.65.214:88/v2/play/1085?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1086" tvg-name="mnews‧鏡新聞" tvg-logo="http://live.9528.eu.org/logo/mnews‧鏡新聞" group-title="台灣",mnews‧鏡新聞
+http://149.88.65.214:88/v2/play/1086?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1088" tvg-name="Z頻道" tvg-logo="http://live.9528.eu.org/logo/Z頻道" group-title="台灣",Z頻道
+http://149.88.65.214:88/v2/play/1088?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1090" tvg-name="非凡商業台" tvg-logo="http://live.9528.eu.org/logo/非凡商業台" group-title="台灣",非凡商業台
+http://149.88.65.214:88/v2/play/1090?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1091" tvg-name="八大娛樂台" tvg-logo="http://live.9528.eu.org/logo/八大娛樂台" group-title="台灣",八大娛樂台
+http://149.88.65.214:88/v2/play/1091?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="1900" tvg-name="好消息2台" tvg-logo="http://live.9528.eu.org/logo/好消息2台" group-title="台灣",好消息2台
+http://149.88.65.214:88/v2/play/1900?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2001" tvg-name="SUPER FREE" tvg-logo="http://live.9528.eu.org/logo/SUPER FREE" group-title="香港",SUPER FREE
+http://149.88.65.214:88/v2/play/2001?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2018" tvg-name="myTV SUPER 18台" tvg-logo="http://live.9528.eu.org/logo/myTV SUPER 18台" group-title="香港",myTV SUPER 18台
+http://149.88.65.214:88/v2/play/2018?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2031" tvg-name="港台电视31" tvg-logo="http://live.9528.eu.org/logo/港台电视31" group-title="香港",港台电视31
+http://149.88.65.214:88/v2/play/2031?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2032" tvg-name="港台电视32" tvg-logo="http://live.9528.eu.org/logo/港台电视32" group-title="香港",港台电视32
+http://149.88.65.214:88/v2/play/2032?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2033" tvg-name="港台电视33" tvg-logo="http://live.9528.eu.org/logo/港台电视33" group-title="香港",港台电视33
+http://149.88.65.214:88/v2/play/2033?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2034" tvg-name="港台电视34" tvg-logo="http://live.9528.eu.org/logo/港台电视34" group-title="香港",港台电视34
+http://149.88.65.214:88/v2/play/2034?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2035" tvg-name="港台电视35" tvg-logo="http://live.9528.eu.org/logo/港台电视35" group-title="香港",港台电视35
+http://149.88.65.214:88/v2/play/2035?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2076" tvg-name="HKIBC 香港國際財經台" tvg-logo="http://live.9528.eu.org/logo/HKIBC 香港國際財經台" group-title="香港",HKIBC 香港國際財經台
+http://149.88.65.214:88/v2/play/2076?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2077" tvg-name="HOY 77" tvg-logo="http://live.9528.eu.org/logo/HOY 77" group-title="香港",HOY 77
+http://149.88.65.214:88/v2/play/2077?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2078" tvg-name="HOY 78" tvg-logo="http://live.9528.eu.org/logo/HOY 78" group-title="香港",HOY 78
+http://149.88.65.214:88/v2/play/2078?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2080" tvg-name="黃金華劇台" tvg-logo="http://live.9528.eu.org/logo/黃金華劇台" group-title="香港",黃金華劇台
+http://149.88.65.214:88/v2/play/2080?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2081" tvg-name="翡翠台" tvg-logo="http://live.9528.eu.org/logo/翡翠台" group-title="香港",翡翠台
+http://149.88.65.214:88/v2/play/2081?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2082" tvg-name="TVB Plus" tvg-logo="http://live.9528.eu.org/logo/TVB Plus" group-title="香港",TVB Plus
+http://149.88.65.214:88/v2/play/2082?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2083" tvg-name="無綫新聞台" tvg-logo="http://live.9528.eu.org/logo/無綫新聞台" group-title="香港",無綫新聞台
+http://149.88.65.214:88/v2/play/2083?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2084" tvg-name="明珠台" tvg-logo="http://live.9528.eu.org/logo/明珠台" group-title="香港",明珠台
+http://149.88.65.214:88/v2/play/2084?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2086" tvg-name="千禧經典台" tvg-logo="http://live.9528.eu.org/logo/千禧經典台" group-title="香港",千禧經典台
+http://149.88.65.214:88/v2/play/2086?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2087" tvg-name="亞洲劇台" tvg-logo="http://live.9528.eu.org/logo/亞洲劇台" group-title="香港",亞洲劇台
+http://149.88.65.214:88/v2/play/2087?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2089" tvg-name="華語劇台" tvg-logo="http://live.9528.eu.org/logo/華語劇台" group-title="香港",華語劇台
+http://149.88.65.214:88/v2/play/2089?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2090" tvg-name="黃金翡翠台" tvg-logo="http://live.9528.eu.org/logo/黃金翡翠台" group-title="香港",黃金翡翠台
+http://149.88.65.214:88/v2/play/2090?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2091" tvg-name="娛樂新聞台" tvg-logo="http://live.9528.eu.org/logo/娛樂新聞台" group-title="香港",娛樂新聞台
+http://149.88.65.214:88/v2/play/2091?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2096" tvg-name="ViuTVsix" tvg-logo="http://live.9528.eu.org/logo/ViuTVsix" group-title="香港",ViuTVsix
+http://149.88.65.214:88/v2/play/2096?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2098" tvg-name="戲曲台" tvg-logo="http://live.9528.eu.org/logo/戲曲台" group-title="香港",戲曲台
+http://149.88.65.214:88/v2/play/2098?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2099" tvg-name="ViuTV" tvg-logo="http://live.9528.eu.org/logo/ViuTV" group-title="香港",ViuTV
+http://149.88.65.214:88/v2/play/2099?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2100" tvg-name="兒童台" tvg-logo="http://live.9528.eu.org/logo/兒童台" group-title="香港",兒童台
+http://149.88.65.214:88/v2/play/2100?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2101" tvg-name="ZooMoo" tvg-logo="http://live.9528.eu.org/logo/ZooMoo" group-title="香港",ZooMoo
+http://149.88.65.214:88/v2/play/2101?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2102" tvg-name="Viu 頻道" tvg-logo="http://live.9528.eu.org/logo/Viu 頻道" group-title="香港",Viu 頻道
+http://149.88.65.214:88/v2/play/2102?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2104" tvg-name="Nickelodeon" tvg-logo="http://live.9528.eu.org/logo/Nickelodeon" group-title="香港",Nickelodeon
+http://149.88.65.214:88/v2/play/2104?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2105" tvg-name="Nick Jr" tvg-logo="http://live.9528.eu.org/logo/Nick Jr" group-title="香港",Nick Jr
+http://149.88.65.214:88/v2/play/2105?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2108" tvg-name="NowJelli 紫金國際台" tvg-logo="http://live.9528.eu.org/logo/NowJelli 紫金國際台" group-title="香港",NowJelli 紫金國際台
+http://149.88.65.214:88/v2/play/2108?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2111" tvg-name="HBO Hits" tvg-logo="http://live.9528.eu.org/logo/HBO Hits" group-title="香港",HBO Hits
+http://149.88.65.214:88/v2/play/2111?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2112" tvg-name="HBO Family" tvg-logo="http://live.9528.eu.org/logo/HBO Family" group-title="香港",HBO Family
+http://149.88.65.214:88/v2/play/2112?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2113" tvg-name="CINEMAX" tvg-logo="http://live.9528.eu.org/logo/CINEMAX" group-title="香港",CINEMAX
+http://149.88.65.214:88/v2/play/2113?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2114" tvg-name="HBO Signature" tvg-logo="http://live.9528.eu.org/logo/HBO Signature" group-title="香港",HBO Signature
+http://149.88.65.214:88/v2/play/2114?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2115" tvg-name="HBO" tvg-logo="http://live.9528.eu.org/logo/HBO" group-title="香港",HBO
+http://149.88.65.214:88/v2/play/2115?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2116" tvg-name="MOVIE MOVIE" tvg-logo="http://live.9528.eu.org/logo/MOVIE MOVIE" group-title="香港",MOVIE MOVIE
+http://149.88.65.214:88/v2/play/2116?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2133" tvg-name="Now爆谷台" tvg-logo="http://live.9528.eu.org/logo/Now爆谷台" group-title="香港",Now爆谷台
+http://149.88.65.214:88/v2/play/2133?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2134" tvg-name="Now爆谷台 (普)" tvg-logo="http://live.9528.eu.org/logo/Now爆谷台 (普)" group-title="香港",Now爆谷台 (普)
+http://149.88.65.214:88/v2/play/2134?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2138" tvg-name="Now爆谷星影台" tvg-logo="http://live.9528.eu.org/logo/Now爆谷星影台" group-title="香港",Now爆谷星影台
+http://149.88.65.214:88/v2/play/2138?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2139" tvg-name="Now爆谷星影台 (普)" tvg-logo="http://live.9528.eu.org/logo/Now爆谷星影台 (普)" group-title="香港",Now爆谷星影台 (普)
+http://149.88.65.214:88/v2/play/2139?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2200" tvg-name="粵語片台" tvg-logo="http://live.9528.eu.org/logo/粵語片台" group-title="香港",粵語片台
+http://149.88.65.214:88/v2/play/2200?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2201" tvg-name="美亞電影台" tvg-logo="http://live.9528.eu.org/logo/美亞電影台" group-title="香港",美亞電影台
+http://149.88.65.214:88/v2/play/2201?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2202" tvg-name="Thrill" tvg-logo="http://live.9528.eu.org/logo/Thrill" group-title="香港",Thrill
+http://149.88.65.214:88/v2/play/2202?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2203" tvg-name="天映經典頻道" tvg-logo="http://live.9528.eu.org/logo/天映經典頻道" group-title="香港",天映經典頻道
+http://149.88.65.214:88/v2/play/2203?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2205" tvg-name="ROCK Action" tvg-logo="http://live.9528.eu.org/logo/ROCK Action" group-title="香港",ROCK Action
+http://149.88.65.214:88/v2/play/2205?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2206" tvg-name="PopC" tvg-logo="http://live.9528.eu.org/logo/PopC" group-title="香港",PopC
+http://149.88.65.214:88/v2/play/2206?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2304" tvg-name="KIX" tvg-logo="http://live.9528.eu.org/logo/KIX" group-title="香港",KIX
+http://149.88.65.214:88/v2/play/2304?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2331" tvg-name="Now Direct 直播台" tvg-logo="http://live.9528.eu.org/logo/Now Direct 直播台" group-title="香港",Now Direct 直播台
+http://149.88.65.214:88/v2/play/2331?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2332" tvg-name="Now News 新聞台" tvg-logo="http://live.9528.eu.org/logo/Now News 新聞台" group-title="香港",Now News 新聞台
+http://149.88.65.214:88/v2/play/2332?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2333" tvg-name="Now BNC 財經台" tvg-logo="http://live.9528.eu.org/logo/Now BNC 財經台" group-title="香港",Now BNC 財經台
+http://149.88.65.214:88/v2/play/2333?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2402" tvg-name="Love Nature HD" tvg-logo="http://live.9528.eu.org/logo/Love Nature HD" group-title="香港",Love Nature HD
+http://149.88.65.214:88/v2/play/2402?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2407" tvg-name="Global Trekker" tvg-logo="http://live.9528.eu.org/logo/Global Trekker" group-title="香港",Global Trekker
+http://149.88.65.214:88/v2/play/2407?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2460" tvg-name="Da Vinci" tvg-logo="http://live.9528.eu.org/logo/Da Vinci" group-title="香港",Da Vinci
+http://149.88.65.214:88/v2/play/2460?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2501" tvg-name="ROCK綜藝娛樂" tvg-logo="http://live.9528.eu.org/logo/ROCK綜藝娛樂" group-title="香港",ROCK綜藝娛樂
+http://149.88.65.214:88/v2/play/2501?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2502" tvg-name="AXN" tvg-logo="http://live.9528.eu.org/logo/AXN" group-title="香港",AXN
+http://149.88.65.214:88/v2/play/2502?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2504" tvg-name="Animax" tvg-logo="http://live.9528.eu.org/logo/Animax" group-title="香港",Animax
+http://149.88.65.214:88/v2/play/2504?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2505" tvg-name="tvN" tvg-logo="http://live.9528.eu.org/logo/tvN" group-title="香港",tvN
+http://149.88.65.214:88/v2/play/2505?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2543" tvg-name="大灣區衛視" tvg-logo="http://live.9528.eu.org/logo/大灣區衛視" group-title="香港",大灣區衛視
+http://149.88.65.214:88/v2/play/2543?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2552" tvg-name="OneTV 綜合頻道" tvg-logo="http://live.9528.eu.org/logo/OneTV 綜合頻道" group-title="香港",OneTV 綜合頻道
+http://149.88.65.214:88/v2/play/2552?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2590" tvg-name="鳳凰衛視中文台" tvg-logo="http://live.9528.eu.org/logo/鳳凰衛視中文台" group-title="香港",鳳凰衛視中文台
+http://149.88.65.214:88/v2/play/2590?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2591" tvg-name="鳳凰衛視資訊台" tvg-logo="http://live.9528.eu.org/logo/鳳凰衛視資訊台" group-title="香港",鳳凰衛視資訊台
+http://149.88.65.214:88/v2/play/2591?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2592" tvg-name="鳳凰衛視香港台" tvg-logo="http://live.9528.eu.org/logo/鳳凰衛視香港台" group-title="香港",鳳凰衛視香港台
+http://149.88.65.214:88/v2/play/2592?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2603" tvg-name="FashionBox" tvg-logo="http://live.9528.eu.org/logo/FashionBox" group-title="香港",FashionBox
+http://149.88.65.214:88/v2/play/2603?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2604" tvg-name="Mezzo Live HD" tvg-logo="http://live.9528.eu.org/logo/Mezzo Live HD" group-title="香港",Mezzo Live HD
+http://149.88.65.214:88/v2/play/2604?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2621" tvg-name="Now Sports 英超1台" tvg-logo="http://live.9528.eu.org/logo/Now Sports 英超1台" group-title="香港",Now Sports 英超1台
+http://149.88.65.214:88/v2/play/2621?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2622" tvg-name="Now Sports 英超2台" tvg-logo="http://live.9528.eu.org/logo/Now Sports 英超2台" group-title="香港",Now Sports 英超2台
+http://149.88.65.214:88/v2/play/2622?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2623" tvg-name="Now Sports 英超3台" tvg-logo="http://live.9528.eu.org/logo/Now Sports 英超3台" group-title="香港",Now Sports 英超3台
+http://149.88.65.214:88/v2/play/2623?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2624" tvg-name="Now Sports 英超4台" tvg-logo="http://live.9528.eu.org/logo/Now Sports 英超4台" group-title="香港",Now Sports 英超4台
+http://149.88.65.214:88/v2/play/2624?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2625" tvg-name="Now Sports 英超5台" tvg-logo="http://live.9528.eu.org/logo/Now Sports 英超5台" group-title="香港",Now Sports 英超5台
+http://149.88.65.214:88/v2/play/2625?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2626" tvg-name="Now Sports 英超6台" tvg-logo="http://live.9528.eu.org/logo/Now Sports 英超6台" group-title="香港",Now Sports 英超6台
+http://149.88.65.214:88/v2/play/2626?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2627" tvg-name="Now Sports 英超7台" tvg-logo="http://live.9528.eu.org/logo/Now Sports 英超7台" group-title="香港",Now Sports 英超7台
+http://149.88.65.214:88/v2/play/2627?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2630" tvg-name="Now Sports Prime 精選" tvg-logo="http://live.9528.eu.org/logo/Now Sports Prime 精選" group-title="香港",Now Sports Prime 精選
+http://149.88.65.214:88/v2/play/2630?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2631" tvg-name="Now Sports 1" tvg-logo="http://live.9528.eu.org/logo/Now Sports 1" group-title="香港",Now Sports 1
+http://149.88.65.214:88/v2/play/2631?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2633" tvg-name="Now Sports 2" tvg-logo="http://live.9528.eu.org/logo/Now Sports 2" group-title="香港",Now Sports 2
+http://149.88.65.214:88/v2/play/2633?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2634" tvg-name="Now Sports 3" tvg-logo="http://live.9528.eu.org/logo/Now Sports 3" group-title="香港",Now Sports 3
+http://149.88.65.214:88/v2/play/2634?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2635" tvg-name="Now Sports 5" tvg-logo="http://live.9528.eu.org/logo/Now Sports 5" group-title="香港",Now Sports 5
+http://149.88.65.214:88/v2/play/2635?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2636" tvg-name="Now Sports 6" tvg-logo="http://live.9528.eu.org/logo/Now Sports 6" group-title="香港",Now Sports 6
+http://149.88.65.214:88/v2/play/2636?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2637" tvg-name="Now Sports 7" tvg-logo="http://live.9528.eu.org/logo/Now Sports 7" group-title="香港",Now Sports 7
+http://149.88.65.214:88/v2/play/2637?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2638" tvg-name="beIN SPORTS 1" tvg-logo="http://live.9528.eu.org/logo/beIN SPORTS 1" group-title="香港",beIN SPORTS 1
+http://149.88.65.214:88/v2/play/2638?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2639" tvg-name="beIN SPORTS 2" tvg-logo="http://live.9528.eu.org/logo/beIN SPORTS 2" group-title="香港",beIN SPORTS 2
+http://149.88.65.214:88/v2/play/2639?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2641" tvg-name="Now Sports 641" tvg-logo="http://live.9528.eu.org/logo/Now Sports 641" group-title="香港",Now Sports 641
+http://149.88.65.214:88/v2/play/2641?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2642" tvg-name="NBA TV" tvg-logo="http://live.9528.eu.org/logo/NBA TV" group-title="香港",NBA TV
+http://149.88.65.214:88/v2/play/2642?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2643" tvg-name="beIN SPORTS 3" tvg-logo="http://live.9528.eu.org/logo/beIN SPORTS 3" group-title="香港",beIN SPORTS 3
+http://149.88.65.214:88/v2/play/2643?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2644" tvg-name="beIN SPORTS 4" tvg-logo="http://live.9528.eu.org/logo/beIN SPORTS 4" group-title="香港",beIN SPORTS 4
+http://149.88.65.214:88/v2/play/2644?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2645" tvg-name="beIN SPORTS 5" tvg-logo="http://live.9528.eu.org/logo/beIN SPORTS 5" group-title="香港",beIN SPORTS 5
+http://149.88.65.214:88/v2/play/2645?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2646" tvg-name="beIN SPORTS 6" tvg-logo="http://live.9528.eu.org/logo/beIN SPORTS 6" group-title="香港",beIN SPORTS 6
+http://149.88.65.214:88/v2/play/2646?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2668" tvg-name="Now668" tvg-logo="http://live.9528.eu.org/logo/Now668" group-title="香港",Now668
+http://149.88.65.214:88/v2/play/2668?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2670" tvg-name="SPOTV" tvg-logo="http://live.9528.eu.org/logo/SPOTV" group-title="香港",SPOTV
+http://149.88.65.214:88/v2/play/2670?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2671" tvg-name="SPOTV2" tvg-logo="http://live.9528.eu.org/logo/SPOTV2" group-title="香港",SPOTV2
+http://149.88.65.214:88/v2/play/2671?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2680" tvg-name="Now Sports Plus" tvg-logo="http://live.9528.eu.org/logo/Now Sports Plus" group-title="香港",Now Sports Plus
+http://149.88.65.214:88/v2/play/2680?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2681" tvg-name="Now Sports 681" tvg-logo="http://live.9528.eu.org/logo/Now Sports 681" group-title="香港",Now Sports 681
+http://149.88.65.214:88/v2/play/2681?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2683" tvg-name="Now Golf 2" tvg-logo="http://live.9528.eu.org/logo/Now Golf 2" group-title="香港",Now Golf 2
+http://149.88.65.214:88/v2/play/2683?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2684" tvg-name="Now Golf 3" tvg-logo="http://live.9528.eu.org/logo/Now Golf 3" group-title="香港",Now Golf 3
+http://149.88.65.214:88/v2/play/2684?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2701" tvg-name="神州新聞台" tvg-logo="http://live.9528.eu.org/logo/神州新聞台" group-title="香港",神州新聞台
+http://149.88.65.214:88/v2/play/2701?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2800" tvg-name="星河台 (粵)" tvg-logo="http://live.9528.eu.org/logo/星河台 (粵)" group-title="香港",星河台 (粵)
+http://149.88.65.214:88/v2/play/2800?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2801" tvg-name="星河台 (普)" tvg-logo="http://live.9528.eu.org/logo/星河台 (普)" group-title="香港",星河台 (普)
+http://149.88.65.214:88/v2/play/2801?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2802" tvg-name="88台" tvg-logo="http://live.9528.eu.org/logo/88台" group-title="香港",88台
+http://149.88.65.214:88/v2/play/2802?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2803" tvg-name="功夫台 (粵)" tvg-logo="http://live.9528.eu.org/logo/功夫台 (粵)" group-title="香港",功夫台 (粵)
+http://149.88.65.214:88/v2/play/2803?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2804" tvg-name="功夫台 (普)" tvg-logo="http://live.9528.eu.org/logo/功夫台 (普)" group-title="香港",功夫台 (普)
+http://149.88.65.214:88/v2/play/2804?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2805" tvg-name="粤语片台" tvg-logo="http://live.9528.eu.org/logo/粤语片台" group-title="香港",粤语片台
+http://149.88.65.214:88/v2/play/2805?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2806" tvg-name="TVB生活台" tvg-logo="http://live.9528.eu.org/logo/TVB生活台" group-title="香港",TVB生活台
+http://149.88.65.214:88/v2/play/2806?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2900" tvg-name="直播足球1台" tvg-logo="http://live.9528.eu.org/logo/直播足球1台" group-title="香港",直播足球1台
+http://149.88.65.214:88/v2/play/2900?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2901" tvg-name="直播足球2台" tvg-logo="http://live.9528.eu.org/logo/直播足球2台" group-title="香港",直播足球2台
+http://149.88.65.214:88/v2/play/2901?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2902" tvg-name="直播足球3台" tvg-logo="http://live.9528.eu.org/logo/直播足球3台" group-title="香港",直播足球3台
+http://149.88.65.214:88/v2/play/2902?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2903" tvg-name="直播足球4台" tvg-logo="http://live.9528.eu.org/logo/直播足球4台" group-title="香港",直播足球4台
+http://149.88.65.214:88/v2/play/2903?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2904" tvg-name="直播足球5台" tvg-logo="http://live.9528.eu.org/logo/直播足球5台" group-title="香港",直播足球5台
+http://149.88.65.214:88/v2/play/2904?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2905" tvg-name="直播足球6台" tvg-logo="http://live.9528.eu.org/logo/直播足球6台" group-title="香港",直播足球6台
+http://149.88.65.214:88/v2/play/2905?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2981" tvg-name="翡翠台 4K" tvg-logo="http://live.9528.eu.org/logo/翡翠台 4K" group-title="香港",翡翠台 4K
+http://149.88.65.214:88/v2/play/2981?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2990" tvg-name="C++" tvg-logo="http://live.9528.eu.org/logo/C++" group-title="香港",C++
+http://149.88.65.214:88/v2/play/2990?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="2991" tvg-name="面包台" tvg-logo="http://live.9528.eu.org/logo/面包台" group-title="香港",面包台
+http://149.88.65.214:88/v2/play/2991?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3101" tvg-name="TV1" tvg-logo="http://live.9528.eu.org/logo/TV1" group-title="馬來西亞",TV1
+http://149.88.65.214:88/v2/play/3101?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3102" tvg-name="TV2" tvg-logo="http://live.9528.eu.org/logo/TV2" group-title="馬來西亞",TV2
+http://149.88.65.214:88/v2/play/3102?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3103" tvg-name="TV3" tvg-logo="http://live.9528.eu.org/logo/TV3" group-title="馬來西亞",TV3
+http://149.88.65.214:88/v2/play/3103?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3105" tvg-name="Astro Prima" tvg-logo="http://live.9528.eu.org/logo/Astro Prima" group-title="馬來西亞",Astro Prima
+http://149.88.65.214:88/v2/play/3105?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3106" tvg-name="Astro Oasis" tvg-logo="http://live.9528.eu.org/logo/Astro Oasis" group-title="馬來西亞",Astro Oasis
+http://149.88.65.214:88/v2/play/3106?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3112" tvg-name="Astro Rania" tvg-logo="http://live.9528.eu.org/logo/Astro Rania" group-title="馬來西亞",Astro Rania
+http://149.88.65.214:88/v2/play/3112?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3113" tvg-name="Aura HD" tvg-logo="http://live.9528.eu.org/logo/Aura HD" group-title="馬來西亞",Aura HD
+http://149.88.65.214:88/v2/play/3113?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3114" tvg-name="Al-Hijrah" tvg-logo="http://live.9528.eu.org/logo/Al-Hijrah" group-title="馬來西亞",Al-Hijrah
+http://149.88.65.214:88/v2/play/3114?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3116" tvg-name="Colors Hindi" tvg-logo="http://live.9528.eu.org/logo/Colors Hindi" group-title="馬來西亞",Colors Hindi
+http://149.88.65.214:88/v2/play/3116?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3122" tvg-name="TVS" tvg-logo="http://live.9528.eu.org/logo/TVS" group-title="馬來西亞",TVS
+http://149.88.65.214:88/v2/play/3122?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3123" tvg-name="Awesome TV" tvg-logo="http://live.9528.eu.org/logo/Awesome TV" group-title="馬來西亞",Awesome TV
+http://149.88.65.214:88/v2/play/3123?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3146" tvg-name="TV Okey" tvg-logo="http://live.9528.eu.org/logo/TV Okey" group-title="馬來西亞",TV Okey
+http://149.88.65.214:88/v2/play/3146?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3147" tvg-name="NTV7" tvg-logo="http://live.9528.eu.org/logo/NTV7" group-title="馬來西亞",NTV7
+http://149.88.65.214:88/v2/play/3147?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3148" tvg-name="8TV" tvg-logo="http://live.9528.eu.org/logo/8TV" group-title="馬來西亞",8TV
+http://149.88.65.214:88/v2/play/3148?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3149" tvg-name="TV9" tvg-logo="http://live.9528.eu.org/logo/TV9" group-title="馬來西亞",TV9
+http://149.88.65.214:88/v2/play/3149?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3201" tvg-name="Astro Vaanavil" tvg-logo="http://live.9528.eu.org/logo/Astro Vaanavil" group-title="馬來西亞",Astro Vaanavil
+http://149.88.65.214:88/v2/play/3201?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3203" tvg-name="Astro Vellithirai" tvg-logo="http://live.9528.eu.org/logo/Astro Vellithirai" group-title="馬來西亞",Astro Vellithirai
+http://149.88.65.214:88/v2/play/3203?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3211" tvg-name="SUN TV" tvg-logo="http://live.9528.eu.org/logo/SUN TV" group-title="馬來西亞",SUN TV
+http://149.88.65.214:88/v2/play/3211?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3212" tvg-name="Sun Music" tvg-logo="http://live.9528.eu.org/logo/Sun Music" group-title="馬來西亞",Sun Music
+http://149.88.65.214:88/v2/play/3212?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3214" tvg-name="Adithya" tvg-logo="http://live.9528.eu.org/logo/Adithya" group-title="馬來西亞",Adithya
+http://149.88.65.214:88/v2/play/3214?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3215" tvg-name="Sun News" tvg-logo="http://live.9528.eu.org/logo/Sun News" group-title="馬來西亞",Sun News
+http://149.88.65.214:88/v2/play/3215?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3216" tvg-name="KTV" tvg-logo="http://live.9528.eu.org/logo/KTV" group-title="馬來西亞",KTV
+http://149.88.65.214:88/v2/play/3216?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3217" tvg-name="Sun Life" tvg-logo="http://live.9528.eu.org/logo/Sun Life" group-title="馬來西亞",Sun Life
+http://149.88.65.214:88/v2/play/3217?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3221" tvg-name="Star Vijay" tvg-logo="http://live.9528.eu.org/logo/Star Vijay" group-title="馬來西亞",Star Vijay
+http://149.88.65.214:88/v2/play/3221?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3222" tvg-name="Colors Tamil" tvg-logo="http://live.9528.eu.org/logo/Colors Tamil" group-title="馬來西亞",Colors Tamil
+http://149.88.65.214:88/v2/play/3222?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3223" tvg-name="Zee Tamil" tvg-logo="http://live.9528.eu.org/logo/Zee Tamil" group-title="馬來西亞",Zee Tamil
+http://149.88.65.214:88/v2/play/3223?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3251" tvg-name="Zee Cinema" tvg-logo="http://live.9528.eu.org/logo/Zee Cinema" group-title="馬來西亞",Zee Cinema
+http://149.88.65.214:88/v2/play/3251?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3300" tvg-name="iQIYI" tvg-logo="http://live.9528.eu.org/logo/iQIYI" group-title="馬來西亞",iQIYI
+http://149.88.65.214:88/v2/play/3300?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3305" tvg-name="TVB Classic" tvg-logo="http://live.9528.eu.org/logo/TVB Classic" group-title="馬來西亞",TVB Classic
+http://149.88.65.214:88/v2/play/3305?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3306" tvg-name="Astro AEC" tvg-logo="http://live.9528.eu.org/logo/Astro AEC" group-title="馬來西亞",Astro AEC
+http://149.88.65.214:88/v2/play/3306?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3308" tvg-name="Astro QJ" tvg-logo="http://live.9528.eu.org/logo/Astro QJ" group-title="馬來西亞",Astro QJ
+http://149.88.65.214:88/v2/play/3308?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3309" tvg-name="Celestial Movies" tvg-logo="http://live.9528.eu.org/logo/Celestial Movies" group-title="馬來西亞",Celestial Movies
+http://149.88.65.214:88/v2/play/3309?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3310" tvg-name="TVB Jade" tvg-logo="http://live.9528.eu.org/logo/TVB Jade" group-title="馬來西亞",TVB Jade
+http://149.88.65.214:88/v2/play/3310?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3311" tvg-name="Astro AOD 311" tvg-logo="http://live.9528.eu.org/logo/Astro AOD 311" group-title="馬來西亞",Astro AOD 311
+http://149.88.65.214:88/v2/play/3311?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3316" tvg-name="CTI Asia" tvg-logo="http://live.9528.eu.org/logo/CTI Asia" group-title="馬來西亞",CTI Asia
+http://149.88.65.214:88/v2/play/3316?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3317" tvg-name="TVB Entertainment News" tvg-logo="http://live.9528.eu.org/logo/TVB Entertainment News" group-title="馬來西亞",TVB Entertainment News
+http://149.88.65.214:88/v2/play/3317?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3319" tvg-name="TVB Xing He" tvg-logo="http://live.9528.eu.org/logo/TVB Xing He" group-title="馬來西亞",TVB Xing He
+http://149.88.65.214:88/v2/play/3319?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3320" tvg-name="TVBS Asia" tvg-logo="http://live.9528.eu.org/logo/TVBS Asia" group-title="馬來西亞",TVBS Asia
+http://149.88.65.214:88/v2/play/3320?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3321" tvg-name="Celestial Classic Movies" tvg-logo="http://live.9528.eu.org/logo/Celestial Classic Movies" group-title="馬來西亞",Celestial Classic Movies
+http://149.88.65.214:88/v2/play/3321?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3325" tvg-name="Phoenix Chinese Channel" tvg-logo="http://live.9528.eu.org/logo/Phoenix Chinese Channel" group-title="馬來西亞",Phoenix Chinese Channel
+http://149.88.65.214:88/v2/play/3325?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3326" tvg-name="Phoenix Info News" tvg-logo="http://live.9528.eu.org/logo/Phoenix Info News" group-title="馬來西亞",Phoenix Info News
+http://149.88.65.214:88/v2/play/3326?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3333" tvg-name="Astro Hua Hee Dai" tvg-logo="http://live.9528.eu.org/logo/Astro Hua Hee Dai" group-title="馬來西亞",Astro Hua Hee Dai
+http://149.88.65.214:88/v2/play/3333?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3335" tvg-name="CCTV4 " tvg-logo="http://live.9528.eu.org/logo/CCTV4 " group-title="馬來西亞",CCTV4 
+http://149.88.65.214:88/v2/play/3335?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3392" tvg-name="KBS World" tvg-logo="http://live.9528.eu.org/logo/KBS World" group-title="馬來西亞",KBS World
+http://149.88.65.214:88/v2/play/3392?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3393" tvg-name="ONE" tvg-logo="http://live.9528.eu.org/logo/ONE" group-title="馬來西亞",ONE
+http://149.88.65.214:88/v2/play/3393?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3395" tvg-name="tvN" tvg-logo="http://live.9528.eu.org/logo/tvN" group-title="馬來西亞",tvN
+http://149.88.65.214:88/v2/play/3395?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3396" tvg-name="K-Plus" tvg-logo="http://live.9528.eu.org/logo/K-Plus" group-title="馬來西亞",K-Plus
+http://149.88.65.214:88/v2/play/3396?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3398" tvg-name="NHK World Premium" tvg-logo="http://live.9528.eu.org/logo/NHK World Premium" group-title="馬來西亞",NHK World Premium
+http://149.88.65.214:88/v2/play/3398?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3401" tvg-name="HITS Movies" tvg-logo="http://live.9528.eu.org/logo/HITS Movies" group-title="馬來西亞",HITS Movies
+http://149.88.65.214:88/v2/play/3401?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3404" tvg-name="BOO" tvg-logo="http://live.9528.eu.org/logo/BOO" group-title="馬來西亞",BOO
+http://149.88.65.214:88/v2/play/3404?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3410" tvg-name="Astro Premier" tvg-logo="http://live.9528.eu.org/logo/Astro Premier" group-title="馬來西亞",Astro Premier
+http://149.88.65.214:88/v2/play/3410?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3411" tvg-name="HBO" tvg-logo="http://live.9528.eu.org/logo/HBO" group-title="馬來西亞",HBO
+http://149.88.65.214:88/v2/play/3411?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3412" tvg-name="CINEMAX" tvg-logo="http://live.9528.eu.org/logo/CINEMAX" group-title="馬來西亞",CINEMAX
+http://149.88.65.214:88/v2/play/3412?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3413" tvg-name="SHOWCASE" tvg-logo="http://live.9528.eu.org/logo/SHOWCASE" group-title="馬來西亞",SHOWCASE
+http://149.88.65.214:88/v2/play/3413?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3414" tvg-name="HBO Family" tvg-logo="http://live.9528.eu.org/logo/HBO Family" group-title="馬來西亞",HBO Family
+http://149.88.65.214:88/v2/play/3414?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3415" tvg-name="HBO Hits" tvg-logo="http://live.9528.eu.org/logo/HBO Hits" group-title="馬來西亞",HBO Hits
+http://149.88.65.214:88/v2/play/3415?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3416" tvg-name="tvN Movies" tvg-logo="http://live.9528.eu.org/logo/tvN Movies" group-title="馬來西亞",tvN Movies
+http://149.88.65.214:88/v2/play/3416?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3501" tvg-name="Astro Awani" tvg-logo="http://live.9528.eu.org/logo/Astro Awani" group-title="馬來西亞",Astro Awani
+http://149.88.65.214:88/v2/play/3501?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3502" tvg-name="BERNAMA" tvg-logo="http://live.9528.eu.org/logo/BERNAMA" group-title="馬來西亞",BERNAMA
+http://149.88.65.214:88/v2/play/3502?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3503" tvg-name="CGTN" tvg-logo="http://live.9528.eu.org/logo/CGTN" group-title="馬來西亞",CGTN
+http://149.88.65.214:88/v2/play/3503?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3511" tvg-name="CNN" tvg-logo="http://live.9528.eu.org/logo/CNN" group-title="馬來西亞",CNN
+http://149.88.65.214:88/v2/play/3511?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3512" tvg-name="BBC News" tvg-logo="http://live.9528.eu.org/logo/BBC News" group-title="馬來西亞",BBC News
+http://149.88.65.214:88/v2/play/3512?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3513" tvg-name="Al Jazeera English" tvg-logo="http://live.9528.eu.org/logo/Al Jazeera English" group-title="馬來西亞",Al Jazeera English
+http://149.88.65.214:88/v2/play/3513?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3514" tvg-name="Sky News" tvg-logo="http://live.9528.eu.org/logo/Sky News" group-title="馬來西亞",Sky News
+http://149.88.65.214:88/v2/play/3514?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3515" tvg-name="CNA" tvg-logo="http://live.9528.eu.org/logo/CNA" group-title="馬來西亞",CNA
+http://149.88.65.214:88/v2/play/3515?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3516" tvg-name="CNBC Asia" tvg-logo="http://live.9528.eu.org/logo/CNBC Asia" group-title="馬來西亞",CNBC Asia
+http://149.88.65.214:88/v2/play/3516?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3517" tvg-name="Bloomberg TV" tvg-logo="http://live.9528.eu.org/logo/Bloomberg TV" group-title="馬來西亞",Bloomberg TV
+http://149.88.65.214:88/v2/play/3517?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3518" tvg-name="ABC Australia" tvg-logo="http://live.9528.eu.org/logo/ABC Australia" group-title="馬來西亞",ABC Australia
+http://149.88.65.214:88/v2/play/3518?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3550" tvg-name="Love Nature" tvg-logo="http://live.9528.eu.org/logo/Love Nature" group-title="馬來西亞",Love Nature
+http://149.88.65.214:88/v2/play/3550?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3551" tvg-name="Global Trekker" tvg-logo="http://live.9528.eu.org/logo/Global Trekker" group-title="馬來西亞",Global Trekker
+http://149.88.65.214:88/v2/play/3551?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3552" tvg-name="Discovery Channel" tvg-logo="http://live.9528.eu.org/logo/Discovery Channel" group-title="馬來西亞",Discovery Channel
+http://149.88.65.214:88/v2/play/3552?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3553" tvg-name="Discovery Asia" tvg-logo="http://live.9528.eu.org/logo/Discovery Asia" group-title="馬來西亞",Discovery Asia
+http://149.88.65.214:88/v2/play/3553?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3554" tvg-name="BBC Earth" tvg-logo="http://live.9528.eu.org/logo/BBC Earth" group-title="馬來西亞",BBC Earth
+http://149.88.65.214:88/v2/play/3554?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3555" tvg-name="History" tvg-logo="http://live.9528.eu.org/logo/History" group-title="馬來西亞",History
+http://149.88.65.214:88/v2/play/3555?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3556" tvg-name="Animal Planet" tvg-logo="http://live.9528.eu.org/logo/Animal Planet" group-title="馬來西亞",Animal Planet
+http://149.88.65.214:88/v2/play/3556?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3603" tvg-name="Astro Tutor TV" tvg-logo="http://live.9528.eu.org/logo/Astro Tutor TV" group-title="馬來西亞",Astro Tutor TV
+http://149.88.65.214:88/v2/play/3603?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3611" tvg-name="Astro Ceria" tvg-logo="http://live.9528.eu.org/logo/Astro Ceria" group-title="馬來西亞",Astro Ceria
+http://149.88.65.214:88/v2/play/3611?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3612" tvg-name="DreamWorks" tvg-logo="http://live.9528.eu.org/logo/DreamWorks" group-title="馬來西亞",DreamWorks
+http://149.88.65.214:88/v2/play/3612?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3615" tvg-name="Cartoon Network" tvg-logo="http://live.9528.eu.org/logo/Cartoon Network" group-title="馬來西亞",Cartoon Network
+http://149.88.65.214:88/v2/play/3615?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3616" tvg-name="Nickelodeon" tvg-logo="http://live.9528.eu.org/logo/Nickelodeon" group-title="馬來西亞",Nickelodeon
+http://149.88.65.214:88/v2/play/3616?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3617" tvg-name="Nick Jr." tvg-logo="http://live.9528.eu.org/logo/Nick Jr." group-title="馬來西亞",Nick Jr.
+http://149.88.65.214:88/v2/play/3617?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3618" tvg-name="Moonbug" tvg-logo="http://live.9528.eu.org/logo/Moonbug" group-title="馬來西亞",Moonbug
+http://149.88.65.214:88/v2/play/3618?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3620" tvg-name="CBeebies" tvg-logo="http://live.9528.eu.org/logo/CBeebies" group-title="馬來西亞",CBeebies
+http://149.88.65.214:88/v2/play/3620?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3701" tvg-name="AXN" tvg-logo="http://live.9528.eu.org/logo/AXN" group-title="馬來西亞",AXN
+http://149.88.65.214:88/v2/play/3701?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3702" tvg-name="HITS NOW" tvg-logo="http://live.9528.eu.org/logo/HITS NOW" group-title="馬來西亞",HITS NOW
+http://149.88.65.214:88/v2/play/3702?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3703" tvg-name="Lifetime" tvg-logo="http://live.9528.eu.org/logo/Lifetime" group-title="馬來西亞",Lifetime
+http://149.88.65.214:88/v2/play/3703?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3706" tvg-name="HITS" tvg-logo="http://live.9528.eu.org/logo/HITS" group-title="馬來西亞",HITS
+http://149.88.65.214:88/v2/play/3706?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3707" tvg-name="TLC" tvg-logo="http://live.9528.eu.org/logo/TLC" group-title="馬來西亞",TLC
+http://149.88.65.214:88/v2/play/3707?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3708" tvg-name="Food Network" tvg-logo="http://live.9528.eu.org/logo/Food Network" group-title="馬來西亞",Food Network
+http://149.88.65.214:88/v2/play/3708?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3709" tvg-name="Asian Food Network" tvg-logo="http://live.9528.eu.org/logo/Asian Food Network" group-title="馬來西亞",Asian Food Network
+http://149.88.65.214:88/v2/play/3709?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3712" tvg-name="Warner TV" tvg-logo="http://live.9528.eu.org/logo/Warner TV" group-title="馬來西亞",Warner TV
+http://149.88.65.214:88/v2/play/3712?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3713" tvg-name="Paramount Network" tvg-logo="http://live.9528.eu.org/logo/Paramount Network" group-title="馬來西亞",Paramount Network
+http://149.88.65.214:88/v2/play/3713?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3714" tvg-name="Crime & Investigation" tvg-logo="http://live.9528.eu.org/logo/Crime & Investigation" group-title="馬來西亞",Crime & Investigation
+http://149.88.65.214:88/v2/play/3714?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3715" tvg-name="HGTV" tvg-logo="http://live.9528.eu.org/logo/HGTV" group-title="馬來西亞",HGTV
+http://149.88.65.214:88/v2/play/3715?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3716" tvg-name="DMAX" tvg-logo="http://live.9528.eu.org/logo/DMAX" group-title="馬來西亞",DMAX
+http://149.88.65.214:88/v2/play/3716?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3717" tvg-name="BBC Lifestyle" tvg-logo="http://live.9528.eu.org/logo/BBC Lifestyle" group-title="馬來西亞",BBC Lifestyle
+http://149.88.65.214:88/v2/play/3717?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3718" tvg-name="MTV Live" tvg-logo="http://live.9528.eu.org/logo/MTV Live" group-title="馬來西亞",MTV Live
+http://149.88.65.214:88/v2/play/3718?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3801" tvg-name="Astro Arena" tvg-logo="http://live.9528.eu.org/logo/Astro Arena" group-title="馬來西亞",Astro Arena
+http://149.88.65.214:88/v2/play/3801?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3802" tvg-name="Astro Arena 2" tvg-logo="http://live.9528.eu.org/logo/Astro Arena 2" group-title="馬來西亞",Astro Arena 2
+http://149.88.65.214:88/v2/play/3802?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3803" tvg-name="Arena Bola" tvg-logo="http://live.9528.eu.org/logo/Arena Bola" group-title="馬來西亞",Arena Bola
+http://149.88.65.214:88/v2/play/3803?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3804" tvg-name="Arena Bola 2" tvg-logo="http://live.9528.eu.org/logo/Arena Bola 2" group-title="馬來西亞",Arena Bola 2
+http://149.88.65.214:88/v2/play/3804?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3808" tvg-name="SPOTV Stadia" tvg-logo="http://live.9528.eu.org/logo/SPOTV Stadia" group-title="馬來西亞",SPOTV Stadia
+http://149.88.65.214:88/v2/play/3808?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3809" tvg-name="SPOTV2 Stadia" tvg-logo="http://live.9528.eu.org/logo/SPOTV2 Stadia" group-title="馬來西亞",SPOTV2 Stadia
+http://149.88.65.214:88/v2/play/3809?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3810" tvg-name="SPOTV2" tvg-logo="http://live.9528.eu.org/logo/SPOTV2" group-title="馬來西亞",SPOTV2
+http://149.88.65.214:88/v2/play/3810?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3811" tvg-name="Astro SuperSport" tvg-logo="http://live.9528.eu.org/logo/Astro SuperSport" group-title="馬來西亞",Astro SuperSport
+http://149.88.65.214:88/v2/play/3811?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3812" tvg-name="Astro SuperSport 2" tvg-logo="http://live.9528.eu.org/logo/Astro SuperSport 2" group-title="馬來西亞",Astro SuperSport 2
+http://149.88.65.214:88/v2/play/3812?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3813" tvg-name="Astro SuperSport 3" tvg-logo="http://live.9528.eu.org/logo/Astro SuperSport 3" group-title="馬來西亞",Astro SuperSport 3
+http://149.88.65.214:88/v2/play/3813?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3814" tvg-name="Astro SuperSport 4" tvg-logo="http://live.9528.eu.org/logo/Astro SuperSport 4" group-title="馬來西亞",Astro SuperSport 4
+http://149.88.65.214:88/v2/play/3814?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3815" tvg-name="W-Sport" tvg-logo="http://live.9528.eu.org/logo/W-Sport" group-title="馬來西亞",W-Sport
+http://149.88.65.214:88/v2/play/3815?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3816" tvg-name="SPOTV" tvg-logo="http://live.9528.eu.org/logo/SPOTV" group-title="馬來西亞",SPOTV
+http://149.88.65.214:88/v2/play/3816?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3817" tvg-name="beIN Sports 2" tvg-logo="http://live.9528.eu.org/logo/beIN Sports 2" group-title="馬來西亞",beIN Sports 2
+http://149.88.65.214:88/v2/play/3817?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3818" tvg-name="beIN Sports" tvg-logo="http://live.9528.eu.org/logo/beIN Sports" group-title="馬來西亞",beIN Sports
+http://149.88.65.214:88/v2/play/3818?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3819" tvg-name="beIN Sports 3" tvg-logo="http://live.9528.eu.org/logo/beIN Sports 3" group-title="馬來西亞",beIN Sports 3
+http://149.88.65.214:88/v2/play/3819?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3820" tvg-name="Eurosport" tvg-logo="http://live.9528.eu.org/logo/Eurosport" group-title="馬來西亞",Eurosport
+http://149.88.65.214:88/v2/play/3820?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3821" tvg-name="WWE Network" tvg-logo="http://live.9528.eu.org/logo/WWE Network" group-title="馬來西亞",WWE Network
+http://149.88.65.214:88/v2/play/3821?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3822" tvg-name="Golf Channel" tvg-logo="http://live.9528.eu.org/logo/Golf Channel" group-title="馬來西亞",Golf Channel
+http://149.88.65.214:88/v2/play/3822?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3823" tvg-name="Premier Sports" tvg-logo="http://live.9528.eu.org/logo/Premier Sports" group-title="馬來西亞",Premier Sports
+http://149.88.65.214:88/v2/play/3823?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3824" tvg-name="Astro Cricket" tvg-logo="http://live.9528.eu.org/logo/Astro Cricket" group-title="馬來西亞",Astro Cricket
+http://149.88.65.214:88/v2/play/3824?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3825" tvg-name="Astro Cricket Plus" tvg-logo="http://live.9528.eu.org/logo/Astro Cricket Plus" group-title="馬來西亞",Astro Cricket Plus
+http://149.88.65.214:88/v2/play/3825?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="3999" tvg-name="Unifi Sport 1" tvg-logo="http://live.9528.eu.org/logo/Unifi Sport 1" group-title="馬來西亞",Unifi Sport 1
+http://149.88.65.214:88/v2/play/3999?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4001" tvg-name="CCTV-1" tvg-logo="http://live.9528.eu.org/logo/CCTV-1" group-title="大陸",CCTV-1
+http://149.88.65.214:88/v2/play/4001?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4002" tvg-name="CCTV-2" tvg-logo="http://live.9528.eu.org/logo/CCTV-2" group-title="大陸",CCTV-2
+http://149.88.65.214:88/v2/play/4002?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4003" tvg-name="CCTV-3" tvg-logo="http://live.9528.eu.org/logo/CCTV-3" group-title="大陸",CCTV-3
+http://149.88.65.214:88/v2/play/4003?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4004" tvg-name="CCTV-4" tvg-logo="http://live.9528.eu.org/logo/CCTV-4" group-title="大陸",CCTV-4
+http://149.88.65.214:88/v2/play/4004?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4005" tvg-name="CCTV-5" tvg-logo="http://live.9528.eu.org/logo/CCTV-5" group-title="大陸",CCTV-5
+http://149.88.65.214:88/v2/play/4005?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4006" tvg-name="CCTV-6" tvg-logo="http://live.9528.eu.org/logo/CCTV-6" group-title="大陸",CCTV-6
+http://149.88.65.214:88/v2/play/4006?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4007" tvg-name="CCTV-7" tvg-logo="http://live.9528.eu.org/logo/CCTV-7" group-title="大陸",CCTV-7
+http://149.88.65.214:88/v2/play/4007?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4008" tvg-name="CCTV-8" tvg-logo="http://live.9528.eu.org/logo/CCTV-8" group-title="大陸",CCTV-8
+http://149.88.65.214:88/v2/play/4008?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4009" tvg-name="CCTV-9" tvg-logo="http://live.9528.eu.org/logo/CCTV-9" group-title="大陸",CCTV-9
+http://149.88.65.214:88/v2/play/4009?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4010" tvg-name="CCTV-10" tvg-logo="http://live.9528.eu.org/logo/CCTV-10" group-title="大陸",CCTV-10
+http://149.88.65.214:88/v2/play/4010?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4011" tvg-name="CCTV-11" tvg-logo="http://live.9528.eu.org/logo/CCTV-11" group-title="大陸",CCTV-11
+http://149.88.65.214:88/v2/play/4011?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4012" tvg-name="CCTV-12" tvg-logo="http://live.9528.eu.org/logo/CCTV-12" group-title="大陸",CCTV-12
+http://149.88.65.214:88/v2/play/4012?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4013" tvg-name="CCTV-13" tvg-logo="http://live.9528.eu.org/logo/CCTV-13" group-title="大陸",CCTV-13
+http://149.88.65.214:88/v2/play/4013?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4014" tvg-name="CCTV-14" tvg-logo="http://live.9528.eu.org/logo/CCTV-14" group-title="大陸",CCTV-14
+http://149.88.65.214:88/v2/play/4014?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4015" tvg-name="CCTV-15" tvg-logo="http://live.9528.eu.org/logo/CCTV-15" group-title="大陸",CCTV-15
+http://149.88.65.214:88/v2/play/4015?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4016" tvg-name="CCTV-16" tvg-logo="http://live.9528.eu.org/logo/CCTV-16" group-title="大陸",CCTV-16
+http://149.88.65.214:88/v2/play/4016?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4017" tvg-name="CCTV-17" tvg-logo="http://live.9528.eu.org/logo/CCTV-17" group-title="大陸",CCTV-17
+http://149.88.65.214:88/v2/play/4017?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4018" tvg-name="CCTV-5+" tvg-logo="http://live.9528.eu.org/logo/CCTV-5+" group-title="大陸",CCTV-5+
+http://149.88.65.214:88/v2/play/4018?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4019" tvg-name="北京衛視" tvg-logo="http://live.9528.eu.org/logo/北京衛視" group-title="大陸",北京衛視
+http://149.88.65.214:88/v2/play/4019?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4020" tvg-name="天津衛視" tvg-logo="http://live.9528.eu.org/logo/天津衛視" group-title="大陸",天津衛視
+http://149.88.65.214:88/v2/play/4020?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4021" tvg-name="東方衛視" tvg-logo="http://live.9528.eu.org/logo/東方衛視" group-title="大陸",東方衛視
+http://149.88.65.214:88/v2/play/4021?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4022" tvg-name="五星體育" tvg-logo="http://live.9528.eu.org/logo/五星體育" group-title="大陸",五星體育
+http://149.88.65.214:88/v2/play/4022?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4023" tvg-name="東方影視" tvg-logo="http://live.9528.eu.org/logo/東方影視" group-title="大陸",東方影視
+http://149.88.65.214:88/v2/play/4023?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4024" tvg-name="江蘇衛視" tvg-logo="http://live.9528.eu.org/logo/江蘇衛視" group-title="大陸",江蘇衛視
+http://149.88.65.214:88/v2/play/4024?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4025" tvg-name="浙江衛視" tvg-logo="http://live.9528.eu.org/logo/浙江衛視" group-title="大陸",浙江衛視
+http://149.88.65.214:88/v2/play/4025?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4026" tvg-name="江西衛視" tvg-logo="http://live.9528.eu.org/logo/江西衛視" group-title="大陸",江西衛視
+http://149.88.65.214:88/v2/play/4026?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4027" tvg-name="湖北衛視" tvg-logo="http://live.9528.eu.org/logo/湖北衛視" group-title="大陸",湖北衛視
+http://149.88.65.214:88/v2/play/4027?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4028" tvg-name="湖南衛視" tvg-logo="http://live.9528.eu.org/logo/湖南衛視" group-title="大陸",湖南衛視
+http://149.88.65.214:88/v2/play/4028?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4029" tvg-name="廣東衛視" tvg-logo="http://live.9528.eu.org/logo/廣東衛視" group-title="大陸",廣東衛視
+http://149.88.65.214:88/v2/play/4029?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4030" tvg-name="深圳衛視" tvg-logo="http://live.9528.eu.org/logo/深圳衛視" group-title="大陸",深圳衛視
+http://149.88.65.214:88/v2/play/4030?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4031" tvg-name="廣西衛視" tvg-logo="http://live.9528.eu.org/logo/廣西衛視" group-title="大陸",廣西衛視
+http://149.88.65.214:88/v2/play/4031?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4032" tvg-name="貴州衛視" tvg-logo="http://live.9528.eu.org/logo/貴州衛視" group-title="大陸",貴州衛視
+http://149.88.65.214:88/v2/play/4032?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4033" tvg-name="翡翠台" tvg-logo="http://live.9528.eu.org/logo/翡翠台" group-title="大陸",翡翠台
+http://149.88.65.214:88/v2/play/4033?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4034" tvg-name="廣東體育" tvg-logo="http://live.9528.eu.org/logo/廣東體育" group-title="大陸",廣東體育
+http://149.88.65.214:88/v2/play/4034?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4035" tvg-name="大灣區衛視" tvg-logo="http://live.9528.eu.org/logo/大灣區衛視" group-title="大陸",大灣區衛視
+http://149.88.65.214:88/v2/play/4035?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4036" tvg-name="廣東珠江" tvg-logo="http://live.9528.eu.org/logo/廣東珠江" group-title="大陸",廣東珠江
+http://149.88.65.214:88/v2/play/4036?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4200" tvg-name="BSテレビ東京" tvg-logo="http://live.9528.eu.org/logo/BSテレビ東京" group-title="日本",BSテレビ東京
+http://149.88.65.214:88/v2/play/4200?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4201" tvg-name="時代劇専門チャンネル" tvg-logo="http://live.9528.eu.org/logo/時代劇専門チャンネル" group-title="日本",時代劇専門チャンネル
+http://149.88.65.214:88/v2/play/4201?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4202" tvg-name="KANSAI News24" tvg-logo="http://live.9528.eu.org/logo/KANSAI News24" group-title="日本",KANSAI News24
+http://149.88.65.214:88/v2/play/4202?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4203" tvg-name="読売テレビ" tvg-logo="http://live.9528.eu.org/logo/読売テレビ" group-title="日本",読売テレビ
+http://149.88.65.214:88/v2/play/4203?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4204" tvg-name="毎日放送" tvg-logo="http://live.9528.eu.org/logo/毎日放送" group-title="日本",毎日放送
+http://149.88.65.214:88/v2/play/4204?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4205" tvg-name="FU JI" tvg-logo="http://live.9528.eu.org/logo/FU JI" group-title="日本",FU JI
+http://149.88.65.214:88/v2/play/4205?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4206" tvg-name="日本テレビ" tvg-logo="http://live.9528.eu.org/logo/日本テレビ" group-title="日本",日本テレビ
+http://149.88.65.214:88/v2/play/4206?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4207" tvg-name="サンテレビ" tvg-logo="http://live.9528.eu.org/logo/サンテレビ" group-title="日本",サンテレビ
+http://149.88.65.214:88/v2/play/4207?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4208" tvg-name="BS日テレ" tvg-logo="http://live.9528.eu.org/logo/BS日テレ" group-title="日本",BS日テレ
+http://149.88.65.214:88/v2/play/4208?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4209" tvg-name="BS朝日" tvg-logo="http://live.9528.eu.org/logo/BS朝日" group-title="日本",BS朝日
+http://149.88.65.214:88/v2/play/4209?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4210" tvg-name="メ～テレNEWS" tvg-logo="http://live.9528.eu.org/logo/メ～テレNEWS" group-title="日本",メ～テレNEWS
+http://149.88.65.214:88/v2/play/4210?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4211" tvg-name="日テレニュース24" tvg-logo="http://live.9528.eu.org/logo/日テレニュース24" group-title="日本",日テレニュース24
+http://149.88.65.214:88/v2/play/4211?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4212" tvg-name="BS-TBS" tvg-logo="http://live.9528.eu.org/logo/BS-TBS" group-title="日本",BS-TBS
+http://149.88.65.214:88/v2/play/4212?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4213" tvg-name="ゴルフネットワーク" tvg-logo="http://live.9528.eu.org/logo/ゴルフネットワーク" group-title="日本",ゴルフネットワーク
+http://149.88.65.214:88/v2/play/4213?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4214" tvg-name="BSフジ" tvg-logo="http://live.9528.eu.org/logo/BSフジ" group-title="日本",BSフジ
+http://149.88.65.214:88/v2/play/4214?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4215" tvg-name="HTB北海道" tvg-logo="http://live.9528.eu.org/logo/HTB北海道" group-title="日本",HTB北海道
+http://149.88.65.214:88/v2/play/4215?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4216" tvg-name="GAORA SPORTS" tvg-logo="http://live.9528.eu.org/logo/GAORA SPORTS" group-title="日本",GAORA SPORTS
+http://149.88.65.214:88/v2/play/4216?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4217" tvg-name="TV Tokyo" tvg-logo="http://live.9528.eu.org/logo/TV Tokyo" group-title="日本",TV Tokyo
+http://149.88.65.214:88/v2/play/4217?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4218" tvg-name="TBS" tvg-logo="http://live.9528.eu.org/logo/TBS" group-title="日本",TBS
+http://149.88.65.214:88/v2/play/4218?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4219" tvg-name="大阪TV" tvg-logo="http://live.9528.eu.org/logo/大阪TV" group-title="日本",大阪TV
+http://149.88.65.214:88/v2/play/4219?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4220" tvg-name="ABC朝日" tvg-logo="http://live.9528.eu.org/logo/ABC朝日" group-title="日本",ABC朝日
+http://149.88.65.214:88/v2/play/4220?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4221" tvg-name="STV NEWS" tvg-logo="http://live.9528.eu.org/logo/STV NEWS" group-title="日本",STV NEWS
+http://149.88.65.214:88/v2/play/4221?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4222" tvg-name="WOWOWプライム" tvg-logo="http://live.9528.eu.org/logo/WOWOWプライム" group-title="日本",WOWOWプライム
+http://149.88.65.214:88/v2/play/4222?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4223" tvg-name="WOWOWライブ" tvg-logo="http://live.9528.eu.org/logo/WOWOWライブ" group-title="日本",WOWOWライブ
+http://149.88.65.214:88/v2/play/4223?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4224" tvg-name="WOWOWシネマ" tvg-logo="http://live.9528.eu.org/logo/WOWOWシネマ" group-title="日本",WOWOWシネマ
+http://149.88.65.214:88/v2/play/4224?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4225" tvg-name="スターチャンネル1" tvg-logo="http://live.9528.eu.org/logo/スターチャンネル1" group-title="日本",スターチャンネル1
+http://149.88.65.214:88/v2/play/4225?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4226" tvg-name="スターチャンネル2" tvg-logo="http://live.9528.eu.org/logo/スターチャンネル2" group-title="日本",スターチャンネル2
+http://149.88.65.214:88/v2/play/4226?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4227" tvg-name="スターチャンネル3" tvg-logo="http://live.9528.eu.org/logo/スターチャンネル3" group-title="日本",スターチャンネル3
+http://149.88.65.214:88/v2/play/4227?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4228" tvg-name="アニマックス" tvg-logo="http://live.9528.eu.org/logo/アニマックス" group-title="日本",アニマックス
+http://149.88.65.214:88/v2/play/4228?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4229" tvg-name="グリーンチャンネル" tvg-logo="http://live.9528.eu.org/logo/グリーンチャンネル" group-title="日本",グリーンチャンネル
+http://149.88.65.214:88/v2/play/4229?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4230" tvg-name="Disney チャンネル" tvg-logo="http://live.9528.eu.org/logo/Disney チャンネル" group-title="日本",Disney チャンネル
+http://149.88.65.214:88/v2/play/4230?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4231" tvg-name="スカイA" tvg-logo="http://live.9528.eu.org/logo/スカイA" group-title="日本",スカイA
+http://149.88.65.214:88/v2/play/4231?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4232" tvg-name="ANN/テレ朝" tvg-logo="http://live.9528.eu.org/logo/ANN/テレ朝" group-title="日本",ANN/テレ朝
+http://149.88.65.214:88/v2/play/4232?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4233" tvg-name="キッズステーション" tvg-logo="http://live.9528.eu.org/logo/キッズステーション" group-title="日本",キッズステーション
+http://149.88.65.214:88/v2/play/4233?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4234" tvg-name="MUSIC ON! TV" tvg-logo="http://live.9528.eu.org/logo/MUSIC ON! TV" group-title="日本",MUSIC ON! TV
+http://149.88.65.214:88/v2/play/4234?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4235" tvg-name="日テレG＋" tvg-logo="http://live.9528.eu.org/logo/日テレG＋" group-title="日本",日テレG＋
+http://149.88.65.214:88/v2/play/4235?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4236" tvg-name="テレビ朝日" tvg-logo="http://live.9528.eu.org/logo/テレビ朝日" group-title="日本",テレビ朝日
+http://149.88.65.214:88/v2/play/4236?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4237" tvg-name="旅チャンネル" tvg-logo="http://live.9528.eu.org/logo/旅チャンネル" group-title="日本",旅チャンネル
+http://149.88.65.214:88/v2/play/4237?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4238" tvg-name="広島ニュース" tvg-logo="http://live.9528.eu.org/logo/広島ニュース" group-title="日本",広島ニュース
+http://149.88.65.214:88/v2/play/4238?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4239" tvg-name="静岡ニュース" tvg-logo="http://live.9528.eu.org/logo/静岡ニュース" group-title="日本",静岡ニュース
+http://149.88.65.214:88/v2/play/4239?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4240" tvg-name="TBS NEWS" tvg-logo="http://live.9528.eu.org/logo/TBS NEWS" group-title="日本",TBS NEWS
+http://149.88.65.214:88/v2/play/4240?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4241" tvg-name="カートゥーンネットワーク" tvg-logo="http://live.9528.eu.org/logo/カートゥーンネットワーク" group-title="日本",カートゥーンネットワーク
+http://149.88.65.214:88/v2/play/4241?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4242" tvg-name="SATVニュース" tvg-logo="http://live.9528.eu.org/logo/SATVニュース" group-title="日本",SATVニュース
+http://149.88.65.214:88/v2/play/4242?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4243" tvg-name="いつでも静岡" tvg-logo="http://live.9528.eu.org/logo/いつでも静岡" group-title="日本",いつでも静岡
+http://149.88.65.214:88/v2/play/4243?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4244" tvg-name="TBS" tvg-logo="http://live.9528.eu.org/logo/TBS" group-title="日本",TBS
+http://149.88.65.214:88/v2/play/4244?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4245" tvg-name="テレビ東京" tvg-logo="http://live.9528.eu.org/logo/テレビ東京" group-title="日本",テレビ東京
+http://149.88.65.214:88/v2/play/4245?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4246" tvg-name="フジテレビ" tvg-logo="http://live.9528.eu.org/logo/フジテレビ" group-title="日本",フジテレビ
+http://149.88.65.214:88/v2/play/4246?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4247" tvg-name="TOKYO MX 1" tvg-logo="http://live.9528.eu.org/logo/TOKYO MX 1" group-title="日本",TOKYO MX 1
+http://149.88.65.214:88/v2/play/4247?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4248" tvg-name="TOKYO MX 2" tvg-logo="http://live.9528.eu.org/logo/TOKYO MX 2" group-title="日本",TOKYO MX 2
+http://149.88.65.214:88/v2/play/4248?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4249" tvg-name="テレ朝チャンネル2" tvg-logo="http://live.9528.eu.org/logo/テレ朝チャンネル2" group-title="日本",テレ朝チャンネル2
+http://149.88.65.214:88/v2/play/4249?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4250" tvg-name="関西テレビ" tvg-logo="http://live.9528.eu.org/logo/関西テレビ" group-title="日本",関西テレビ
+http://149.88.65.214:88/v2/play/4250?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4251" tvg-name="BSスカパー" tvg-logo="http://live.9528.eu.org/logo/BSスカパー" group-title="日本",BSスカパー
+http://149.88.65.214:88/v2/play/4251?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4252" tvg-name="BS日本映画専門Ch" tvg-logo="http://live.9528.eu.org/logo/BS日本映画専門Ch" group-title="日本",BS日本映画専門Ch
+http://149.88.65.214:88/v2/play/4252?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4253" tvg-name="NHK BS Premium" tvg-logo="http://live.9528.eu.org/logo/NHK BS Premium" group-title="日本",NHK BS Premium
+http://149.88.65.214:88/v2/play/4253?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4254" tvg-name="スポーツライブ＋" tvg-logo="http://live.9528.eu.org/logo/スポーツライブ＋" group-title="日本",スポーツライブ＋
+http://149.88.65.214:88/v2/play/4254?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4255" tvg-name="衛星劇場" tvg-logo="http://live.9528.eu.org/logo/衛星劇場" group-title="日本",衛星劇場
+http://149.88.65.214:88/v2/play/4255?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4256" tvg-name="テレ朝チャンネル1" tvg-logo="http://live.9528.eu.org/logo/テレ朝チャンネル1" group-title="日本",テレ朝チャンネル1
+http://149.88.65.214:88/v2/play/4256?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4257" tvg-name="日テレG+" tvg-logo="http://live.9528.eu.org/logo/日テレG+" group-title="日本",日テレG+
+http://149.88.65.214:88/v2/play/4257?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4258" tvg-name="フジone" tvg-logo="http://live.9528.eu.org/logo/フジone" group-title="日本",フジone
+http://149.88.65.214:88/v2/play/4258?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4259" tvg-name="フジ two" tvg-logo="http://live.9528.eu.org/logo/フジ two" group-title="日本",フジ two
+http://149.88.65.214:88/v2/play/4259?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4260" tvg-name="フジ next" tvg-logo="http://live.9528.eu.org/logo/フジ next" group-title="日本",フジ next
+http://149.88.65.214:88/v2/play/4260?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4261" tvg-name="RKB NEWS 24" tvg-logo="http://live.9528.eu.org/logo/RKB NEWS 24" group-title="日本",RKB NEWS 24
+http://149.88.65.214:88/v2/play/4261?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4262" tvg-name="JapaNews24" tvg-logo="http://live.9528.eu.org/logo/JapaNews24" group-title="日本",JapaNews24
+http://149.88.65.214:88/v2/play/4262?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4263" tvg-name="NHK News" tvg-logo="http://live.9528.eu.org/logo/NHK News" group-title="日本",NHK News
+http://149.88.65.214:88/v2/play/4263?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4264" tvg-name="時代劇専門チャンネル" tvg-logo="http://live.9528.eu.org/logo/時代劇専門チャンネル" group-title="日本",時代劇専門チャンネル
+http://149.88.65.214:88/v2/play/4264?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4265" tvg-name="日本映画専門チャンネルHD" tvg-logo="http://live.9528.eu.org/logo/日本映画専門チャンネルHD" group-title="日本",日本映画専門チャンネルHD
+http://149.88.65.214:88/v2/play/4265?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4266" tvg-name="日本テレビ" tvg-logo="http://live.9528.eu.org/logo/日本テレビ" group-title="日本",日本テレビ
+http://149.88.65.214:88/v2/play/4266?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4267" tvg-name="日テレG" tvg-logo="http://live.9528.eu.org/logo/日テレG" group-title="日本",日テレG
+http://149.88.65.214:88/v2/play/4267?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4268" tvg-name="関西テレビ" tvg-logo="http://live.9528.eu.org/logo/関西テレビ" group-title="日本",関西テレビ
+http://149.88.65.214:88/v2/play/4268?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4269" tvg-name="読売テレビ" tvg-logo="http://live.9528.eu.org/logo/読売テレビ" group-title="日本",読売テレビ
+http://149.88.65.214:88/v2/play/4269?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4270" tvg-name="東映チャンネル" tvg-logo="http://live.9528.eu.org/logo/東映チャンネル" group-title="日本",東映チャンネル
+http://149.88.65.214:88/v2/play/4270?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4271" tvg-name="ホームドラマ" tvg-logo="http://live.9528.eu.org/logo/ホームドラマ" group-title="日本",ホームドラマ
+http://149.88.65.214:88/v2/play/4271?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4272" tvg-name="フジテレビ" tvg-logo="http://live.9528.eu.org/logo/フジテレビ" group-title="日本",フジテレビ
+http://149.88.65.214:88/v2/play/4272?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4273" tvg-name="ファミリー劇場" tvg-logo="http://live.9528.eu.org/logo/ファミリー劇場" group-title="日本",ファミリー劇場
+http://149.88.65.214:88/v2/play/4273?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4274" tvg-name="テレビ東京" tvg-logo="http://live.9528.eu.org/logo/テレビ東京" group-title="日本",テレビ東京
+http://149.88.65.214:88/v2/play/4274?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4275" tvg-name="テレビ大阪" tvg-logo="http://live.9528.eu.org/logo/テレビ大阪" group-title="日本",テレビ大阪
+http://149.88.65.214:88/v2/play/4275?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4276" tvg-name="テレビ朝日" tvg-logo="http://live.9528.eu.org/logo/テレビ朝日" group-title="日本",テレビ朝日
+http://149.88.65.214:88/v2/play/4276?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4277" tvg-name="ディズニーチャンネル" tvg-logo="http://live.9528.eu.org/logo/ディズニーチャンネル" group-title="日本",ディズニーチャンネル
+http://149.88.65.214:88/v2/play/4277?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4278" tvg-name="ディズニージュニア" tvg-logo="http://live.9528.eu.org/logo/ディズニージュニア" group-title="日本",ディズニージュニア
+http://149.88.65.214:88/v2/play/4278?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4279" tvg-name="スターチャンネル 3" tvg-logo="http://live.9528.eu.org/logo/スターチャンネル 3" group-title="日本",スターチャンネル 3
+http://149.88.65.214:88/v2/play/4279?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4280" tvg-name="スターチャンネル 2" tvg-logo="http://live.9528.eu.org/logo/スターチャンネル 2" group-title="日本",スターチャンネル 2
+http://149.88.65.214:88/v2/play/4280?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4281" tvg-name="スターチャンネル 1" tvg-logo="http://live.9528.eu.org/logo/スターチャンネル 1" group-title="日本",スターチャンネル 1
+http://149.88.65.214:88/v2/play/4281?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4282" tvg-name="スカイ A sports" tvg-logo="http://live.9528.eu.org/logo/スカイ A sports" group-title="日本",スカイ A sports
+http://149.88.65.214:88/v2/play/4282?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4283" tvg-name="サンテレビ" tvg-logo="http://live.9528.eu.org/logo/サンテレビ" group-title="日本",サンテレビ
+http://149.88.65.214:88/v2/play/4283?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4284" tvg-name="ゴルフネットワークHD" tvg-logo="http://live.9528.eu.org/logo/ゴルフネットワークHD" group-title="日本",ゴルフネットワークHD
+http://149.88.65.214:88/v2/play/4284?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4285" tvg-name="キッズステーションHD" tvg-logo="http://live.9528.eu.org/logo/キッズステーションHD" group-title="日本",キッズステーションHD
+http://149.88.65.214:88/v2/play/4285?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4286" tvg-name="カートゥーンネットワーク" tvg-logo="http://live.9528.eu.org/logo/カートゥーンネットワーク" group-title="日本",カートゥーンネットワーク
+http://149.88.65.214:88/v2/play/4286?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4287" tvg-name="アニマルプラネット" tvg-logo="http://live.9528.eu.org/logo/アニマルプラネット" group-title="日本",アニマルプラネット
+http://149.88.65.214:88/v2/play/4287?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4288" tvg-name="アニマックス" tvg-logo="http://live.9528.eu.org/logo/アニマックス" group-title="日本",アニマックス
+http://149.88.65.214:88/v2/play/4288?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4289" tvg-name="WOWOWライブ" tvg-logo="http://live.9528.eu.org/logo/WOWOWライブ" group-title="日本",WOWOWライブ
+http://149.88.65.214:88/v2/play/4289?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4290" tvg-name="WOWOWシネマ" tvg-logo="http://live.9528.eu.org/logo/WOWOWシネマ" group-title="日本",WOWOWシネマ
+http://149.88.65.214:88/v2/play/4290?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4291" tvg-name="WOWOWプライム" tvg-logo="http://live.9528.eu.org/logo/WOWOWプライム" group-title="日本",WOWOWプライム
+http://149.88.65.214:88/v2/play/4291?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4292" tvg-name="TOKYO MX" tvg-logo="http://live.9528.eu.org/logo/TOKYO MX" group-title="日本",TOKYO MX
+http://149.88.65.214:88/v2/play/4292?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4293" tvg-name="TBSニュース" tvg-logo="http://live.9528.eu.org/logo/TBSニュース" group-title="日本",TBSニュース
+http://149.88.65.214:88/v2/play/4293?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4294" tvg-name="NHK総合大阪" tvg-logo="http://live.9528.eu.org/logo/NHK総合大阪" group-title="日本",NHK総合大阪
+http://149.88.65.214:88/v2/play/4294?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4295" tvg-name="NHK総合" tvg-logo="http://live.9528.eu.org/logo/NHK総合" group-title="日本",NHK総合
+http://149.88.65.214:88/v2/play/4295?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4296" tvg-name="NHKEテレ大阪" tvg-logo="http://live.9528.eu.org/logo/NHKEテレ大阪" group-title="日本",NHKEテレ大阪
+http://149.88.65.214:88/v2/play/4296?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4297" tvg-name="NHK-Eテレ" tvg-logo="http://live.9528.eu.org/logo/NHK-Eテレ" group-title="日本",NHK-Eテレ
+http://149.88.65.214:88/v2/play/4297?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4298" tvg-name="BSプレミアム" tvg-logo="http://live.9528.eu.org/logo/BSプレミアム" group-title="日本",BSプレミアム
+http://149.88.65.214:88/v2/play/4298?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4299" tvg-name="BS1" tvg-logo="http://live.9528.eu.org/logo/BS1" group-title="日本",BS1
+http://149.88.65.214:88/v2/play/4299?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4300" tvg-name="MBS毎日放送" tvg-logo="http://live.9528.eu.org/logo/MBS毎日放送" group-title="日本",MBS毎日放送
+http://149.88.65.214:88/v2/play/4300?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4301" tvg-name="J SPORTS 4" tvg-logo="http://live.9528.eu.org/logo/J SPORTS 4" group-title="日本",J SPORTS 4
+http://149.88.65.214:88/v2/play/4301?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4302" tvg-name="J SPORTS 3" tvg-logo="http://live.9528.eu.org/logo/J SPORTS 3" group-title="日本",J SPORTS 3
+http://149.88.65.214:88/v2/play/4302?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4303" tvg-name="J SPORTS 2" tvg-logo="http://live.9528.eu.org/logo/J SPORTS 2" group-title="日本",J SPORTS 2
+http://149.88.65.214:88/v2/play/4303?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4304" tvg-name="J SPORTS 1" tvg-logo="http://live.9528.eu.org/logo/J SPORTS 1" group-title="日本",J SPORTS 1
+http://149.88.65.214:88/v2/play/4304?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4305" tvg-name="IMAGICA BS" tvg-logo="http://live.9528.eu.org/logo/IMAGICA BS" group-title="日本",IMAGICA BS
+http://149.88.65.214:88/v2/play/4305?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4306" tvg-name="GREEN" tvg-logo="http://live.9528.eu.org/logo/GREEN" group-title="日本",GREEN
+http://149.88.65.214:88/v2/play/4306?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4307" tvg-name="GAORA" tvg-logo="http://live.9528.eu.org/logo/GAORA" group-title="日本",GAORA
+http://149.88.65.214:88/v2/play/4307?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4308" tvg-name="BS日テレ" tvg-logo="http://live.9528.eu.org/logo/BS日テレ" group-title="日本",BS日テレ
+http://149.88.65.214:88/v2/play/4308?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4309" tvg-name="BS朝日" tvg-logo="http://live.9528.eu.org/logo/BS朝日" group-title="日本",BS朝日
+http://149.88.65.214:88/v2/play/4309?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4310" tvg-name="BSフジ" tvg-logo="http://live.9528.eu.org/logo/BSフジ" group-title="日本",BSフジ
+http://149.88.65.214:88/v2/play/4310?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4311" tvg-name="BSジャパン" tvg-logo="http://live.9528.eu.org/logo/BSジャパン" group-title="日本",BSジャパン
+http://149.88.65.214:88/v2/play/4311?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4312" tvg-name="BS-TBS" tvg-logo="http://live.9528.eu.org/logo/BS-TBS" group-title="日本",BS-TBS
+http://149.88.65.214:88/v2/play/4312?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4313" tvg-name="AT-X HD" tvg-logo="http://live.9528.eu.org/logo/AT-X HD" group-title="日本",AT-X HD
+http://149.88.65.214:88/v2/play/4313?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4314" tvg-name="ABCテレビ" tvg-logo="http://live.9528.eu.org/logo/ABCテレビ" group-title="日本",ABCテレビ
+http://149.88.65.214:88/v2/play/4314?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4401" tvg-name="JTBC" tvg-logo="http://live.9528.eu.org/logo/JTBC" group-title="韓國",JTBC
+http://149.88.65.214:88/v2/play/4401?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4402" tvg-name="tvN" tvg-logo="http://live.9528.eu.org/logo/tvN" group-title="韓國",tvN
+http://149.88.65.214:88/v2/play/4402?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4403" tvg-name="JTBC2" tvg-logo="http://live.9528.eu.org/logo/JTBC2" group-title="韓國",JTBC2
+http://149.88.65.214:88/v2/play/4403?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4404" tvg-name="TV CHOSUN" tvg-logo="http://live.9528.eu.org/logo/TV CHOSUN" group-title="韓國",TV CHOSUN
+http://149.88.65.214:88/v2/play/4404?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4405" tvg-name="tvN SHOW" tvg-logo="http://live.9528.eu.org/logo/tvN SHOW" group-title="韓國",tvN SHOW
+http://149.88.65.214:88/v2/play/4405?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4406" tvg-name="YTN" tvg-logo="http://live.9528.eu.org/logo/YTN" group-title="韓國",YTN
+http://149.88.65.214:88/v2/play/4406?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4407" tvg-name="tvN DRAMA" tvg-logo="http://live.9528.eu.org/logo/tvN DRAMA" group-title="韓國",tvN DRAMA
+http://149.88.65.214:88/v2/play/4407?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4408" tvg-name="연합뉴스TV" tvg-logo="http://live.9528.eu.org/logo/연합뉴스TV" group-title="韓國",연합뉴스TV
+http://149.88.65.214:88/v2/play/4408?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4409" tvg-name="JTBC4" tvg-logo="http://live.9528.eu.org/logo/JTBC4" group-title="韓國",JTBC4
+http://149.88.65.214:88/v2/play/4409?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4410" tvg-name="tvN STORY" tvg-logo="http://live.9528.eu.org/logo/tvN STORY" group-title="韓國",tvN STORY
+http://149.88.65.214:88/v2/play/4410?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4411" tvg-name="애니맥스" tvg-logo="http://live.9528.eu.org/logo/애니맥스" group-title="韓國",애니맥스
+http://149.88.65.214:88/v2/play/4411?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4412" tvg-name="채널A" tvg-logo="http://live.9528.eu.org/logo/채널A" group-title="韓國",채널A
+http://149.88.65.214:88/v2/play/4412?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4413" tvg-name="투니버스" tvg-logo="http://live.9528.eu.org/logo/투니버스" group-title="韓國",투니버스
+http://149.88.65.214:88/v2/play/4413?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4414" tvg-name="ANIBOX" tvg-logo="http://live.9528.eu.org/logo/ANIBOX" group-title="韓國",ANIBOX
+http://149.88.65.214:88/v2/play/4414?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4415" tvg-name="LIFETIME" tvg-logo="http://live.9528.eu.org/logo/LIFETIME" group-title="韓國",LIFETIME
+http://149.88.65.214:88/v2/play/4415?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4416" tvg-name="채널A플러스" tvg-logo="http://live.9528.eu.org/logo/채널A플러스" group-title="韓國",채널A플러스
+http://149.88.65.214:88/v2/play/4416?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4417" tvg-name="Mnet" tvg-logo="http://live.9528.eu.org/logo/Mnet" group-title="韓國",Mnet
+http://149.88.65.214:88/v2/play/4417?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4418" tvg-name="tvN SPORTS" tvg-logo="http://live.9528.eu.org/logo/tvN SPORTS" group-title="韓國",tvN SPORTS
+http://149.88.65.214:88/v2/play/4418?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4419" tvg-name="MBN 플러스" tvg-logo="http://live.9528.eu.org/logo/MBN 플러스" group-title="韓國",MBN 플러스
+http://149.88.65.214:88/v2/play/4419?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4420" tvg-name="MBN" tvg-logo="http://live.9528.eu.org/logo/MBN" group-title="韓國",MBN
+http://149.88.65.214:88/v2/play/4420?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4421" tvg-name="YTN2" tvg-logo="http://live.9528.eu.org/logo/YTN2" group-title="韓國",YTN2
+http://149.88.65.214:88/v2/play/4421?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4422" tvg-name="국회방송(NATV)" tvg-logo="http://live.9528.eu.org/logo/국회방송(NATV)" group-title="韓國",국회방송(NATV)
+http://149.88.65.214:88/v2/play/4422?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4423" tvg-name="EBS1" tvg-logo="http://live.9528.eu.org/logo/EBS1" group-title="韓國",EBS1
+http://149.88.65.214:88/v2/play/4423?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4424" tvg-name="TV CHOSUN 2" tvg-logo="http://live.9528.eu.org/logo/TV CHOSUN 2" group-title="韓國",TV CHOSUN 2
+http://149.88.65.214:88/v2/play/4424?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4425" tvg-name="SBS M" tvg-logo="http://live.9528.eu.org/logo/SBS M" group-title="韓國",SBS M
+http://149.88.65.214:88/v2/play/4425?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4426" tvg-name="SBS Biz" tvg-logo="http://live.9528.eu.org/logo/SBS Biz" group-title="韓國",SBS Biz
+http://149.88.65.214:88/v2/play/4426?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4427" tvg-name="중화TV" tvg-logo="http://live.9528.eu.org/logo/중화TV" group-title="韓國",중화TV
+http://149.88.65.214:88/v2/play/4427?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4428" tvg-name="SBS F!L" tvg-logo="http://live.9528.eu.org/logo/SBS F!L" group-title="韓國",SBS F!L
+http://149.88.65.214:88/v2/play/4428?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4429" tvg-name="히스토리" tvg-logo="http://live.9528.eu.org/logo/히스토리" group-title="韓國",히스토리
+http://149.88.65.214:88/v2/play/4429?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4430" tvg-name="YTN사이언스" tvg-logo="http://live.9528.eu.org/logo/YTN사이언스" group-title="韓國",YTN사이언스
+http://149.88.65.214:88/v2/play/4430?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4600" tvg-name="AIS NBT 2 HD" tvg-logo="http://live.9528.eu.org/logo/AIS NBT 2 HD" group-title="泰國",AIS NBT 2 HD
+http://149.88.65.214:88/v2/play/4600?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4601" tvg-name="AIS TPBS" tvg-logo="http://live.9528.eu.org/logo/AIS TPBS" group-title="泰國",AIS TPBS
+http://149.88.65.214:88/v2/play/4601?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4602" tvg-name="AIS ALTV4" tvg-logo="http://live.9528.eu.org/logo/AIS ALTV4" group-title="泰國",AIS ALTV4
+http://149.88.65.214:88/v2/play/4602?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4603" tvg-name="AIS CH5 HD" tvg-logo="http://live.9528.eu.org/logo/AIS CH5 HD" group-title="泰國",AIS CH5 HD
+http://149.88.65.214:88/v2/play/4603?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4604" tvg-name="AIS T-Sports7" tvg-logo="http://live.9528.eu.org/logo/AIS T-Sports7" group-title="泰國",AIS T-Sports7
+http://149.88.65.214:88/v2/play/4604?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4605" tvg-name="AIS Parliament" tvg-logo="http://live.9528.eu.org/logo/AIS Parliament" group-title="泰國",AIS Parliament
+http://149.88.65.214:88/v2/play/4605?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4606" tvg-name="AIS TNN" tvg-logo="http://live.9528.eu.org/logo/AIS TNN" group-title="泰國",AIS TNN
+http://149.88.65.214:88/v2/play/4606?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4607" tvg-name="AIS JKN 18" tvg-logo="http://live.9528.eu.org/logo/AIS JKN 18" group-title="泰國",AIS JKN 18
+http://149.88.65.214:88/v2/play/4607?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4608" tvg-name="AIS Nation TV" tvg-logo="http://live.9528.eu.org/logo/AIS Nation TV" group-title="泰國",AIS Nation TV
+http://149.88.65.214:88/v2/play/4608?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4609" tvg-name="AIS Workpoint TV" tvg-logo="http://live.9528.eu.org/logo/AIS Workpoint TV" group-title="泰國",AIS Workpoint TV
+http://149.88.65.214:88/v2/play/4609?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4610" tvg-name="AIS True 4 U" tvg-logo="http://live.9528.eu.org/logo/AIS True 4 U" group-title="泰國",AIS True 4 U
+http://149.88.65.214:88/v2/play/4610?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4611" tvg-name="AIS GMM25" tvg-logo="http://live.9528.eu.org/logo/AIS GMM25" group-title="泰國",AIS GMM25
+http://149.88.65.214:88/v2/play/4611?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4612" tvg-name="AIS CH8" tvg-logo="http://live.9528.eu.org/logo/AIS CH8" group-title="泰國",AIS CH8
+http://149.88.65.214:88/v2/play/4612?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4613" tvg-name="AIS MONO" tvg-logo="http://live.9528.eu.org/logo/AIS MONO" group-title="泰國",AIS MONO
+http://149.88.65.214:88/v2/play/4613?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4614" tvg-name="AIS MCOT HD" tvg-logo="http://live.9528.eu.org/logo/AIS MCOT HD" group-title="泰國",AIS MCOT HD
+http://149.88.65.214:88/v2/play/4614?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4615" tvg-name="AIS ONE 31 HD" tvg-logo="http://live.9528.eu.org/logo/AIS ONE 31 HD" group-title="泰國",AIS ONE 31 HD
+http://149.88.65.214:88/v2/play/4615?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4616" tvg-name="AIS Thairath TV HD" tvg-logo="http://live.9528.eu.org/logo/AIS Thairath TV HD" group-title="泰國",AIS Thairath TV HD
+http://149.88.65.214:88/v2/play/4616?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4617" tvg-name="AIS 3 HD" tvg-logo="http://live.9528.eu.org/logo/AIS 3 HD" group-title="泰國",AIS 3 HD
+http://149.88.65.214:88/v2/play/4617?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4618" tvg-name="AIS AmarinTV HD" tvg-logo="http://live.9528.eu.org/logo/AIS AmarinTV HD" group-title="泰國",AIS AmarinTV HD
+http://149.88.65.214:88/v2/play/4618?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4619" tvg-name="AIS CH7 HD" tvg-logo="http://live.9528.eu.org/logo/AIS CH7 HD" group-title="泰國",AIS CH7 HD
+http://149.88.65.214:88/v2/play/4619?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4620" tvg-name="AIS PPTV HD" tvg-logo="http://live.9528.eu.org/logo/AIS PPTV HD" group-title="泰國",AIS PPTV HD
+http://149.88.65.214:88/v2/play/4620?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4621" tvg-name="AIS VTV News" tvg-logo="http://live.9528.eu.org/logo/AIS VTV News" group-title="泰國",AIS VTV News
+http://149.88.65.214:88/v2/play/4621?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4622" tvg-name="AIS Mangkorn" tvg-logo="http://live.9528.eu.org/logo/AIS Mangkorn" group-title="泰國",AIS Mangkorn
+http://149.88.65.214:88/v2/play/4622?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4623" tvg-name="AIS MVTV" tvg-logo="http://live.9528.eu.org/logo/AIS MVTV" group-title="泰國",AIS MVTV
+http://149.88.65.214:88/v2/play/4623?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4624" tvg-name="AIS Media TV" tvg-logo="http://live.9528.eu.org/logo/AIS Media TV" group-title="泰國",AIS Media TV
+http://149.88.65.214:88/v2/play/4624?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4625" tvg-name="AIS ATTV" tvg-logo="http://live.9528.eu.org/logo/AIS ATTV" group-title="泰國",AIS ATTV
+http://149.88.65.214:88/v2/play/4625?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4626" tvg-name="AIS TVB Thai" tvg-logo="http://live.9528.eu.org/logo/AIS TVB Thai" group-title="泰國",AIS TVB Thai
+http://149.88.65.214:88/v2/play/4626?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4627" tvg-name="AIS Rama Channel" tvg-logo="http://live.9528.eu.org/logo/AIS Rama Channel" group-title="泰國",AIS Rama Channel
+http://149.88.65.214:88/v2/play/4627?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4628" tvg-name="AIS LunthungTV" tvg-logo="http://live.9528.eu.org/logo/AIS LunthungTV" group-title="泰國",AIS LunthungTV
+http://149.88.65.214:88/v2/play/4628?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4629" tvg-name="AIS Topline" tvg-logo="http://live.9528.eu.org/logo/AIS Topline" group-title="泰國",AIS Topline
+http://149.88.65.214:88/v2/play/4629?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4630" tvg-name="AIS MV Lao" tvg-logo="http://live.9528.eu.org/logo/AIS MV Lao" group-title="泰國",AIS MV Lao
+http://149.88.65.214:88/v2/play/4630?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4631" tvg-name="AIS Mix Major" tvg-logo="http://live.9528.eu.org/logo/AIS Mix Major" group-title="泰國",AIS Mix Major
+http://149.88.65.214:88/v2/play/4631?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4632" tvg-name="AIS Boomerang" tvg-logo="http://live.9528.eu.org/logo/AIS Boomerang" group-title="泰國",AIS Boomerang
+http://149.88.65.214:88/v2/play/4632?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4633" tvg-name="AIS Cartoon Club" tvg-logo="http://live.9528.eu.org/logo/AIS Cartoon Club" group-title="泰國",AIS Cartoon Club
+http://149.88.65.214:88/v2/play/4633?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4634" tvg-name="AIS News 1" tvg-logo="http://live.9528.eu.org/logo/AIS News 1" group-title="泰國",AIS News 1
+http://149.88.65.214:88/v2/play/4634?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4635" tvg-name="AIS TOP News" tvg-logo="http://live.9528.eu.org/logo/AIS TOP News" group-title="泰國",AIS TOP News
+http://149.88.65.214:88/v2/play/4635?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4636" tvg-name="AIS DLTV1" tvg-logo="http://live.9528.eu.org/logo/AIS DLTV1" group-title="泰國",AIS DLTV1
+http://149.88.65.214:88/v2/play/4636?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4637" tvg-name="AIS DLTV2" tvg-logo="http://live.9528.eu.org/logo/AIS DLTV2" group-title="泰國",AIS DLTV2
+http://149.88.65.214:88/v2/play/4637?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4638" tvg-name="AIS DLTV3" tvg-logo="http://live.9528.eu.org/logo/AIS DLTV3" group-title="泰國",AIS DLTV3
+http://149.88.65.214:88/v2/play/4638?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4639" tvg-name="AIS DLTV4" tvg-logo="http://live.9528.eu.org/logo/AIS DLTV4" group-title="泰國",AIS DLTV4
+http://149.88.65.214:88/v2/play/4639?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4640" tvg-name="AIS DLTV5" tvg-logo="http://live.9528.eu.org/logo/AIS DLTV5" group-title="泰國",AIS DLTV5
+http://149.88.65.214:88/v2/play/4640?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4641" tvg-name="AIS DLTV6" tvg-logo="http://live.9528.eu.org/logo/AIS DLTV6" group-title="泰國",AIS DLTV6
+http://149.88.65.214:88/v2/play/4641?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4642" tvg-name="AIS DLTV7" tvg-logo="http://live.9528.eu.org/logo/AIS DLTV7" group-title="泰國",AIS DLTV7
+http://149.88.65.214:88/v2/play/4642?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4643" tvg-name="AIS DLTV8" tvg-logo="http://live.9528.eu.org/logo/AIS DLTV8" group-title="泰國",AIS DLTV8
+http://149.88.65.214:88/v2/play/4643?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4644" tvg-name="AIS DLTV9" tvg-logo="http://live.9528.eu.org/logo/AIS DLTV9" group-title="泰國",AIS DLTV9
+http://149.88.65.214:88/v2/play/4644?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4645" tvg-name="AIS DLTV10" tvg-logo="http://live.9528.eu.org/logo/AIS DLTV10" group-title="泰國",AIS DLTV10
+http://149.88.65.214:88/v2/play/4645?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4646" tvg-name="AIS DLTV11" tvg-logo="http://live.9528.eu.org/logo/AIS DLTV11" group-title="泰國",AIS DLTV11
+http://149.88.65.214:88/v2/play/4646?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4647" tvg-name="AIS DLTV12" tvg-logo="http://live.9528.eu.org/logo/AIS DLTV12" group-title="泰國",AIS DLTV12
+http://149.88.65.214:88/v2/play/4647?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4648" tvg-name="AIS DLTV13" tvg-logo="http://live.9528.eu.org/logo/AIS DLTV13" group-title="泰國",AIS DLTV13
+http://149.88.65.214:88/v2/play/4648?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4649" tvg-name="AIS DLTV14" tvg-logo="http://live.9528.eu.org/logo/AIS DLTV14" group-title="泰國",AIS DLTV14
+http://149.88.65.214:88/v2/play/4649?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4650" tvg-name="AIS DLTV15" tvg-logo="http://live.9528.eu.org/logo/AIS DLTV15" group-title="泰國",AIS DLTV15
+http://149.88.65.214:88/v2/play/4650?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4651" tvg-name="AIS ETV" tvg-logo="http://live.9528.eu.org/logo/AIS ETV" group-title="泰國",AIS ETV
+http://149.88.65.214:88/v2/play/4651?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4652" tvg-name="AIS DHARMA TV" tvg-logo="http://live.9528.eu.org/logo/AIS DHARMA TV" group-title="泰國",AIS DHARMA TV
+http://149.88.65.214:88/v2/play/4652?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4653" tvg-name="AIS NEW TM" tvg-logo="http://live.9528.eu.org/logo/AIS NEW TM" group-title="泰國",AIS NEW TM
+http://149.88.65.214:88/v2/play/4653?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4654" tvg-name="AIS White Channel" tvg-logo="http://live.9528.eu.org/logo/AIS White Channel" group-title="泰國",AIS White Channel
+http://149.88.65.214:88/v2/play/4654?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4655" tvg-name="AIS O shopping" tvg-logo="http://live.9528.eu.org/logo/AIS O shopping" group-title="泰國",AIS O shopping
+http://149.88.65.214:88/v2/play/4655?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4656" tvg-name="AIS TVD MOMO" tvg-logo="http://live.9528.eu.org/logo/AIS TVD MOMO" group-title="泰國",AIS TVD MOMO
+http://149.88.65.214:88/v2/play/4656?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4657" tvg-name="AIS TVD 1" tvg-logo="http://live.9528.eu.org/logo/AIS TVD 1" group-title="泰國",AIS TVD 1
+http://149.88.65.214:88/v2/play/4657?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4658" tvg-name="AIS True Shopping" tvg-logo="http://live.9528.eu.org/logo/AIS True Shopping" group-title="泰國",AIS True Shopping
+http://149.88.65.214:88/v2/play/4658?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="4659" tvg-name="AIS TrueSelect" tvg-logo="http://live.9528.eu.org/logo/AIS TrueSelect" group-title="泰國",AIS TrueSelect
+http://149.88.65.214:88/v2/play/4659?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5101" tvg-name="Channel 5" tvg-logo="http://live.9528.eu.org/logo/Channel 5" group-title="新加坡",Channel 5
+http://149.88.65.214:88/v2/play/5101?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5102" tvg-name="Channel 8" tvg-logo="http://live.9528.eu.org/logo/Channel 8" group-title="新加坡",Channel 8
+http://149.88.65.214:88/v2/play/5102?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5103" tvg-name="Channel U" tvg-logo="http://live.9528.eu.org/logo/Channel U" group-title="新加坡",Channel U
+http://149.88.65.214:88/v2/play/5103?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5104" tvg-name="Suria" tvg-logo="http://live.9528.eu.org/logo/Suria" group-title="新加坡",Suria
+http://149.88.65.214:88/v2/play/5104?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5105" tvg-name="Vasantham" tvg-logo="http://live.9528.eu.org/logo/Vasantham" group-title="新加坡",Vasantham
+http://149.88.65.214:88/v2/play/5105?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5106" tvg-name="CNA" tvg-logo="http://live.9528.eu.org/logo/CNA" group-title="新加坡",CNA
+http://149.88.65.214:88/v2/play/5106?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5107" tvg-name="SPL01" tvg-logo="http://live.9528.eu.org/logo/SPL01" group-title="新加坡",SPL01
+http://149.88.65.214:88/v2/play/5107?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5108" tvg-name="Hub Sports 1 HD" tvg-logo="http://live.9528.eu.org/logo/Hub Sports 1 HD" group-title="新加坡",Hub Sports 1 HD
+http://149.88.65.214:88/v2/play/5108?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5109" tvg-name="Hub Sports 2 HD" tvg-logo="http://live.9528.eu.org/logo/Hub Sports 2 HD" group-title="新加坡",Hub Sports 2 HD
+http://149.88.65.214:88/v2/play/5109?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5110" tvg-name="Hub Sports 3 HD" tvg-logo="http://live.9528.eu.org/logo/Hub Sports 3 HD" group-title="新加坡",Hub Sports 3 HD
+http://149.88.65.214:88/v2/play/5110?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5111" tvg-name="Hub Sports 4 HD" tvg-logo="http://live.9528.eu.org/logo/Hub Sports 4 HD" group-title="新加坡",Hub Sports 4 HD
+http://149.88.65.214:88/v2/play/5111?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5112" tvg-name="Hub Sports 5 HD" tvg-logo="http://live.9528.eu.org/logo/Hub Sports 5 HD" group-title="新加坡",Hub Sports 5 HD
+http://149.88.65.214:88/v2/play/5112?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5113" tvg-name="Hub Premier 1" tvg-logo="http://live.9528.eu.org/logo/Hub Premier 1" group-title="新加坡",Hub Premier 1
+http://149.88.65.214:88/v2/play/5113?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5114" tvg-name="HBO HD" tvg-logo="http://live.9528.eu.org/logo/HBO HD" group-title="新加坡",HBO HD
+http://149.88.65.214:88/v2/play/5114?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5115" tvg-name="HBO Signature HD" tvg-logo="http://live.9528.eu.org/logo/HBO Signature HD" group-title="新加坡",HBO Signature HD
+http://149.88.65.214:88/v2/play/5115?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5116" tvg-name="HBO Family HD" tvg-logo="http://live.9528.eu.org/logo/HBO Family HD" group-title="新加坡",HBO Family HD
+http://149.88.65.214:88/v2/play/5116?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5117" tvg-name="HBO Hits HD" tvg-logo="http://live.9528.eu.org/logo/HBO Hits HD" group-title="新加坡",HBO Hits HD
+http://149.88.65.214:88/v2/play/5117?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5118" tvg-name="Cinemax HD" tvg-logo="http://live.9528.eu.org/logo/Cinemax HD" group-title="新加坡",Cinemax HD
+http://149.88.65.214:88/v2/play/5118?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5119" tvg-name="Hub E City HD" tvg-logo="http://live.9528.eu.org/logo/Hub E City HD" group-title="新加坡",Hub E City HD
+http://149.88.65.214:88/v2/play/5119?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5120" tvg-name="Hub VVDrama HD" tvg-logo="http://live.9528.eu.org/logo/Hub VVDrama HD" group-title="新加坡",Hub VVDrama HD
+http://149.88.65.214:88/v2/play/5120?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5121" tvg-name="Celestial Movies HD" tvg-logo="http://live.9528.eu.org/logo/Celestial Movies HD" group-title="新加坡",Celestial Movies HD
+http://149.88.65.214:88/v2/play/5121?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5200" tvg-name="CNA International" tvg-logo="http://live.9528.eu.org/logo/CNA International" group-title="新加坡",CNA International
+http://149.88.65.214:88/v2/play/5200?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5201" tvg-name="Nickelodeon" tvg-logo="http://live.9528.eu.org/logo/Nickelodeon" group-title="新加坡",Nickelodeon
+http://149.88.65.214:88/v2/play/5201?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5202" tvg-name="GBA Satellite TV" tvg-logo="http://live.9528.eu.org/logo/GBA Satellite TV" group-title="新加坡",GBA Satellite TV
+http://149.88.65.214:88/v2/play/5202?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5203" tvg-name="TRT World" tvg-logo="http://live.9528.eu.org/logo/TRT World" group-title="新加坡",TRT World
+http://149.88.65.214:88/v2/play/5203?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5204" tvg-name="KBS KOREA" tvg-logo="http://live.9528.eu.org/logo/KBS KOREA" group-title="新加坡",KBS KOREA
+http://149.88.65.214:88/v2/play/5204?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5205" tvg-name="Xing Kong" tvg-logo="http://live.9528.eu.org/logo/Xing Kong" group-title="新加坡",Xing Kong
+http://149.88.65.214:88/v2/play/5205?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5206" tvg-name="FOX News Channel" tvg-logo="http://live.9528.eu.org/logo/FOX News Channel" group-title="新加坡",FOX News Channel
+http://149.88.65.214:88/v2/play/5206?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5207" tvg-name="CGTN" tvg-logo="http://live.9528.eu.org/logo/CGTN" group-title="新加坡",CGTN
+http://149.88.65.214:88/v2/play/5207?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5208" tvg-name="[V]音乐台 Channel [V] China" tvg-logo="http://live.9528.eu.org/logo/[V]音乐台 Channel [V] China" group-title="新加坡",[V]音乐台 Channel [V] China
+http://149.88.65.214:88/v2/play/5208?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5209" tvg-name="Moonbug" tvg-logo="http://live.9528.eu.org/logo/Moonbug" group-title="新加坡",Moonbug
+http://149.88.65.214:88/v2/play/5209?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5210" tvg-name="TVBS新闻台 TVBS News" tvg-logo="http://live.9528.eu.org/logo/TVBS新闻台 TVBS News" group-title="新加坡",TVBS新闻台 TVBS News
+http://149.88.65.214:88/v2/play/5210?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5211" tvg-name="NHK WORLD-JAPAN" tvg-logo="http://live.9528.eu.org/logo/NHK WORLD-JAPAN" group-title="新加坡",NHK WORLD-JAPAN
+http://149.88.65.214:88/v2/play/5211?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5212" tvg-name="TVBS亚洲台 TVBS Asia" tvg-logo="http://live.9528.eu.org/logo/TVBS亚洲台 TVBS Asia" group-title="新加坡",TVBS亚洲台 TVBS Asia
+http://149.88.65.214:88/v2/play/5212?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5213" tvg-name="MTV 90s" tvg-logo="http://live.9528.eu.org/logo/MTV 90s" group-title="新加坡",MTV 90s
+http://149.88.65.214:88/v2/play/5213?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5214" tvg-name="Nick Jr." tvg-logo="http://live.9528.eu.org/logo/Nick Jr." group-title="新加坡",Nick Jr.
+http://149.88.65.214:88/v2/play/5214?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5215" tvg-name="CinemaWorld" tvg-logo="http://live.9528.eu.org/logo/CinemaWorld" group-title="新加坡",CinemaWorld
+http://149.88.65.214:88/v2/play/5215?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5216" tvg-name="Qello Concerts By Stingray" tvg-logo="http://live.9528.eu.org/logo/Qello Concerts By Stingray" group-title="新加坡",Qello Concerts By Stingray
+http://149.88.65.214:88/v2/play/5216?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5217" tvg-name="MTV LIVE" tvg-logo="http://live.9528.eu.org/logo/MTV LIVE" group-title="新加坡",MTV LIVE
+http://149.88.65.214:88/v2/play/5217?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5218" tvg-name="CNN International" tvg-logo="http://live.9528.eu.org/logo/CNN International" group-title="新加坡",CNN International
+http://149.88.65.214:88/v2/play/5218?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5219" tvg-name="凤凰卫视(chi)台 Phoenix Chinese Channel" tvg-logo="http://live.9528.eu.org/logo/凤凰卫视(chi)台 Phoenix Chinese Channel" group-title="新加坡",凤凰卫视(chi)台 Phoenix Chinese Channel
+http://149.88.65.214:88/v2/play/5219?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5220" tvg-name="凤凰卫视资讯台 Phoenix InfoNews" tvg-logo="http://live.9528.eu.org/logo/凤凰卫视资讯台 Phoenix InfoNews" group-title="新加坡",凤凰卫视资讯台 Phoenix InfoNews
+http://149.88.65.214:88/v2/play/5220?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5221" tvg-name="TaiwanPlus" tvg-logo="http://live.9528.eu.org/logo/TaiwanPlus" group-title="新加坡",TaiwanPlus
+http://149.88.65.214:88/v2/play/5221?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5222" tvg-name="FILMBOX ARTHOUSE" tvg-logo="http://live.9528.eu.org/logo/FILMBOX ARTHOUSE" group-title="新加坡",FILMBOX ARTHOUSE
+http://149.88.65.214:88/v2/play/5222?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5223" tvg-name="Arirang TV" tvg-logo="http://live.9528.eu.org/logo/Arirang TV" group-title="新加坡",Arirang TV
+http://149.88.65.214:88/v2/play/5223?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5224" tvg-name="MOLA Sport" tvg-logo="http://live.9528.eu.org/logo/MOLA Sport" group-title="新加坡",MOLA Sport
+http://149.88.65.214:88/v2/play/5224?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5225" tvg-name="Eurosport" tvg-logo="http://live.9528.eu.org/logo/Eurosport" group-title="新加坡",Eurosport
+http://149.88.65.214:88/v2/play/5225?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5226" tvg-name="FIGHT SPORTS" tvg-logo="http://live.9528.eu.org/logo/FIGHT SPORTS" group-title="新加坡",FIGHT SPORTS
+http://149.88.65.214:88/v2/play/5226?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5227" tvg-name="MOLA Golf" tvg-logo="http://live.9528.eu.org/logo/MOLA Golf" group-title="新加坡",MOLA Golf
+http://149.88.65.214:88/v2/play/5227?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5228" tvg-name="ABC Australia" tvg-logo="http://live.9528.eu.org/logo/ABC Australia" group-title="新加坡",ABC Australia
+http://149.88.65.214:88/v2/play/5228?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5229" tvg-name="AFN" tvg-logo="http://live.9528.eu.org/logo/AFN" group-title="新加坡",AFN
+http://149.88.65.214:88/v2/play/5229?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5230" tvg-name="TLC" tvg-logo="http://live.9528.eu.org/logo/TLC" group-title="新加坡",TLC
+http://149.88.65.214:88/v2/play/5230?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5231" tvg-name="Animal Planet" tvg-logo="http://live.9528.eu.org/logo/Animal Planet" group-title="新加坡",Animal Planet
+http://149.88.65.214:88/v2/play/5231?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5232" tvg-name="Sky News International" tvg-logo="http://live.9528.eu.org/logo/Sky News International" group-title="新加坡",Sky News International
+http://149.88.65.214:88/v2/play/5232?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5233" tvg-name="GEM (chi)" tvg-logo="http://live.9528.eu.org/logo/GEM (chi)" group-title="新加坡",GEM (chi)
+http://149.88.65.214:88/v2/play/5233?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5234" tvg-name="中央电视台(chi)国际频道 CCTV-4" tvg-logo="http://live.9528.eu.org/logo/中央电视台(chi)国际频道 CCTV-4" group-title="新加坡",中央电视台(chi)国际频道 CCTV-4
+http://149.88.65.214:88/v2/play/5234?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5235" tvg-name="Al Jazeera English" tvg-logo="http://live.9528.eu.org/logo/Al Jazeera English" group-title="新加坡",Al Jazeera English
+http://149.88.65.214:88/v2/play/5235?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5236" tvg-name="France 24 English" tvg-logo="http://live.9528.eu.org/logo/France 24 English" group-title="新加坡",France 24 English
+http://149.88.65.214:88/v2/play/5236?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5237" tvg-name="ANIPLUS (chi)" tvg-logo="http://live.9528.eu.org/logo/ANIPLUS (chi)" group-title="新加坡",ANIPLUS (chi)
+http://149.88.65.214:88/v2/play/5237?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5238" tvg-name="Animax (chi)" tvg-logo="http://live.9528.eu.org/logo/Animax (chi)" group-title="新加坡",Animax (chi)
+http://149.88.65.214:88/v2/play/5238?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5239" tvg-name="Bloomberg TV+" tvg-logo="http://live.9528.eu.org/logo/Bloomberg TV+" group-title="新加坡",Bloomberg TV+
+http://149.88.65.214:88/v2/play/5239?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5240" tvg-name="HISTORY" tvg-logo="http://live.9528.eu.org/logo/HISTORY" group-title="新加坡",HISTORY
+http://149.88.65.214:88/v2/play/5240?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5241" tvg-name="DW English" tvg-logo="http://live.9528.eu.org/logo/DW English" group-title="新加坡",DW English
+http://149.88.65.214:88/v2/play/5241?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5242" tvg-name="KBS WORLD" tvg-logo="http://live.9528.eu.org/logo/KBS WORLD" group-title="新加坡",KBS WORLD
+http://149.88.65.214:88/v2/play/5242?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5243" tvg-name="Discovery Asia" tvg-logo="http://live.9528.eu.org/logo/Discovery Asia" group-title="新加坡",Discovery Asia
+http://149.88.65.214:88/v2/play/5243?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5244" tvg-name="Discovery Channel" tvg-logo="http://live.9528.eu.org/logo/Discovery Channel" group-title="新加坡",Discovery Channel
+http://149.88.65.214:88/v2/play/5244?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5245" tvg-name="DMAX" tvg-logo="http://live.9528.eu.org/logo/DMAX" group-title="新加坡",DMAX
+http://149.88.65.214:88/v2/play/5245?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5246" tvg-name="Lifetime" tvg-logo="http://live.9528.eu.org/logo/Lifetime" group-title="新加坡",Lifetime
+http://149.88.65.214:88/v2/play/5246?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5247" tvg-name="Oh! Jazz" tvg-logo="http://live.9528.eu.org/logo/Oh! Jazz" group-title="新加坡",Oh! Jazz
+http://149.88.65.214:88/v2/play/5247?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5248" tvg-name="ONE (chi)" tvg-logo="http://live.9528.eu.org/logo/ONE (chi)" group-title="新加坡",ONE (chi)
+http://149.88.65.214:88/v2/play/5248?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5249" tvg-name="Mezzo Live" tvg-logo="http://live.9528.eu.org/logo/Mezzo Live" group-title="新加坡",Mezzo Live
+http://149.88.65.214:88/v2/play/5249?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5250" tvg-name="DSCI" tvg-logo="http://live.9528.eu.org/logo/DSCI" group-title="新加坡",DSCI
+http://149.88.65.214:88/v2/play/5250?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5251" tvg-name="Cartoon_Network" tvg-logo="http://live.9528.eu.org/logo/Cartoon_Network" group-title="新加坡",Cartoon_Network
+http://149.88.65.214:88/v2/play/5251?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5252" tvg-name="GEM ENGLISH" tvg-logo="http://live.9528.eu.org/logo/GEM ENGLISH" group-title="新加坡",GEM ENGLISH
+http://149.88.65.214:88/v2/play/5252?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5253" tvg-name="DIZI" tvg-logo="http://live.9528.eu.org/logo/DIZI" group-title="新加坡",DIZI
+http://149.88.65.214:88/v2/play/5253?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5254" tvg-name="ZooMoo" tvg-logo="http://live.9528.eu.org/logo/ZooMoo" group-title="新加坡",ZooMoo
+http://149.88.65.214:88/v2/play/5254?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5255" tvg-name="Bloomberg Originals" tvg-logo="http://live.9528.eu.org/logo/Bloomberg Originals" group-title="新加坡",Bloomberg Originals
+http://149.88.65.214:88/v2/play/5255?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5256" tvg-name="FashionTV" tvg-logo="http://live.9528.eu.org/logo/FashionTV" group-title="新加坡",FashionTV
+http://149.88.65.214:88/v2/play/5256?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5257" tvg-name="INPLUS" tvg-logo="http://live.9528.eu.org/logo/INPLUS" group-title="新加坡",INPLUS
+http://149.88.65.214:88/v2/play/5257?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5258" tvg-name="深圳卫视国际频道 Shenzhen TV International" tvg-logo="http://live.9528.eu.org/logo/深圳卫视国际频道 Shenzhen TV International" group-title="新加坡",深圳卫视国际频道 Shenzhen TV International
+http://149.88.65.214:88/v2/play/5258?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5259" tvg-name="民視亞洲影劇台 FTV Asia Drama" tvg-logo="http://live.9528.eu.org/logo/民視亞洲影劇台 FTV Asia Drama" group-title="新加坡",民視亞洲影劇台 FTV Asia Drama
+http://149.88.65.214:88/v2/play/5259?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5260" tvg-name="民視新聞台 FTV News" tvg-logo="http://live.9528.eu.org/logo/民視新聞台 FTV News" group-title="新加坡",民視新聞台 FTV News
+http://149.88.65.214:88/v2/play/5260?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5261" tvg-name="幸福空間居家台 GSTV" tvg-logo="http://live.9528.eu.org/logo/幸福空間居家台 GSTV" group-title="新加坡",幸福空間居家台 GSTV
+http://149.88.65.214:88/v2/play/5261?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5262" tvg-name="民視第一台 FTV One" tvg-logo="http://live.9528.eu.org/logo/民視第一台 FTV One" group-title="新加坡",民視第一台 FTV One
+http://149.88.65.214:88/v2/play/5262?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5263" tvg-name="AXN" tvg-logo="http://live.9528.eu.org/logo/AXN" group-title="新加坡",AXN
+http://149.88.65.214:88/v2/play/5263?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5264" tvg-name="DreamWorks" tvg-logo="http://live.9528.eu.org/logo/DreamWorks" group-title="新加坡",DreamWorks
+http://149.88.65.214:88/v2/play/5264?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5265" tvg-name="HITS MOVIES" tvg-logo="http://live.9528.eu.org/logo/HITS MOVIES" group-title="新加坡",HITS MOVIES
+http://149.88.65.214:88/v2/play/5265?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5266" tvg-name="HITS NOW" tvg-logo="http://live.9528.eu.org/logo/HITS NOW" group-title="新加坡",HITS NOW
+http://149.88.65.214:88/v2/play/5266?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5267" tvg-name="Warner TV" tvg-logo="http://live.9528.eu.org/logo/Warner TV" group-title="新加坡",Warner TV
+http://149.88.65.214:88/v2/play/5267?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5268" tvg-name="ROCK Entertainment" tvg-logo="http://live.9528.eu.org/logo/ROCK Entertainment" group-title="新加坡",ROCK Entertainment
+http://149.88.65.214:88/v2/play/5268?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5269" tvg-name="ANIPLUS ENGLISH" tvg-logo="http://live.9528.eu.org/logo/ANIPLUS ENGLISH" group-title="新加坡",ANIPLUS ENGLISH
+http://149.88.65.214:88/v2/play/5269?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5270" tvg-name="CCTV-Opera" tvg-logo="http://live.9528.eu.org/logo/CCTV-Opera" group-title="新加坡",CCTV-Opera
+http://149.88.65.214:88/v2/play/5270?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5271" tvg-name="ROCK Action" tvg-logo="http://live.9528.eu.org/logo/ROCK Action" group-title="新加坡",ROCK Action
+http://149.88.65.214:88/v2/play/5271?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5272" tvg-name="Hakka TV" tvg-logo="http://live.9528.eu.org/logo/Hakka TV" group-title="新加坡",Hakka TV
+http://149.88.65.214:88/v2/play/5272?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5273" tvg-name="厦门卫视 Xia Men Star TV" tvg-logo="http://live.9528.eu.org/logo/厦门卫视 Xia Men Star TV" group-title="新加坡",厦门卫视 Xia Men Star TV
+http://149.88.65.214:88/v2/play/5273?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5274" tvg-name="東風衛視" tvg-logo="http://live.9528.eu.org/logo/東風衛視" group-title="新加坡",東風衛視
+http://149.88.65.214:88/v2/play/5274?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5275" tvg-name="ZTV World" tvg-logo="http://live.9528.eu.org/logo/ZTV World" group-title="新加坡",ZTV World
+http://149.88.65.214:88/v2/play/5275?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5276" tvg-name="ANIMAX ENGLISH" tvg-logo="http://live.9528.eu.org/logo/ANIMAX ENGLISH" group-title="新加坡",ANIMAX ENGLISH
+http://149.88.65.214:88/v2/play/5276?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5277" tvg-name="CNBC" tvg-logo="http://live.9528.eu.org/logo/CNBC" group-title="新加坡",CNBC
+http://149.88.65.214:88/v2/play/5277?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5278" tvg-name="中囯电影频道 China Movie Channel" tvg-logo="http://live.9528.eu.org/logo/中囯电影频道 China Movie Channel" group-title="新加坡",中囯电影频道 China Movie Channel
+http://149.88.65.214:88/v2/play/5278?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5279" tvg-name="Crime + Investigation" tvg-logo="http://live.9528.eu.org/logo/Crime + Investigation" group-title="新加坡",Crime + Investigation
+http://149.88.65.214:88/v2/play/5279?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5280" tvg-name="大湾区卫视 GBA Satellite TV" tvg-logo="http://live.9528.eu.org/logo/大湾区卫视 GBA Satellite TV" group-title="新加坡",大湾区卫视 GBA Satellite TV
+http://149.88.65.214:88/v2/play/5280?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5281" tvg-name="ONE ENGLISH" tvg-logo="http://live.9528.eu.org/logo/ONE ENGLISH" group-title="新加坡",ONE ENGLISH
+http://149.88.65.214:88/v2/play/5281?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="5282" tvg-name="Global Trekker" tvg-logo="http://live.9528.eu.org/logo/Global Trekker" group-title="新加坡",Global Trekker
+http://149.88.65.214:88/v2/play/5282?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7001" tvg-name="SN Ontario" tvg-logo="http://live.9528.eu.org/logo/SN Ontario" group-title="加拿大",SN Ontario
+http://149.88.65.214:88/v2/play/7001?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7002" tvg-name="SN One" tvg-logo="http://live.9528.eu.org/logo/SN One" group-title="加拿大",SN One
+http://149.88.65.214:88/v2/play/7002?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7003" tvg-name="SN 360" tvg-logo="http://live.9528.eu.org/logo/SN 360" group-title="加拿大",SN 360
+http://149.88.65.214:88/v2/play/7003?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7004" tvg-name="WWE Network" tvg-logo="http://live.9528.eu.org/logo/WWE Network" group-title="加拿大",WWE Network
+http://149.88.65.214:88/v2/play/7004?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7005" tvg-name="SN World" tvg-logo="http://live.9528.eu.org/logo/SN World" group-title="加拿大",SN World
+http://149.88.65.214:88/v2/play/7005?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7006" tvg-name="SN East" tvg-logo="http://live.9528.eu.org/logo/SN East" group-title="加拿大",SN East
+http://149.88.65.214:88/v2/play/7006?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7007" tvg-name="SN West" tvg-logo="http://live.9528.eu.org/logo/SN West" group-title="加拿大",SN West
+http://149.88.65.214:88/v2/play/7007?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7008" tvg-name="SN Pacific" tvg-logo="http://live.9528.eu.org/logo/SN Pacific" group-title="加拿大",SN Pacific
+http://149.88.65.214:88/v2/play/7008?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7101" tvg-name="TSN1" tvg-logo="http://live.9528.eu.org/logo/TSN1" group-title="加拿大",TSN1
+http://149.88.65.214:88/v2/play/7101?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7102" tvg-name="TSN2" tvg-logo="http://live.9528.eu.org/logo/TSN2" group-title="加拿大",TSN2
+http://149.88.65.214:88/v2/play/7102?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7103" tvg-name="TSN3" tvg-logo="http://live.9528.eu.org/logo/TSN3" group-title="加拿大",TSN3
+http://149.88.65.214:88/v2/play/7103?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7104" tvg-name="TSN4" tvg-logo="http://live.9528.eu.org/logo/TSN4" group-title="加拿大",TSN4
+http://149.88.65.214:88/v2/play/7104?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7105" tvg-name="TSN5" tvg-logo="http://live.9528.eu.org/logo/TSN5" group-title="加拿大",TSN5
+http://149.88.65.214:88/v2/play/7105?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7201" tvg-name="Crave1" tvg-logo="http://live.9528.eu.org/logo/Crave1" group-title="加拿大",Crave1
+http://149.88.65.214:88/v2/play/7201?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7202" tvg-name="Crave2" tvg-logo="http://live.9528.eu.org/logo/Crave2" group-title="加拿大",Crave2
+http://149.88.65.214:88/v2/play/7202?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7203" tvg-name="Crave3" tvg-logo="http://live.9528.eu.org/logo/Crave3" group-title="加拿大",Crave3
+http://149.88.65.214:88/v2/play/7203?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7204" tvg-name="Crave4" tvg-logo="http://live.9528.eu.org/logo/Crave4" group-title="加拿大",Crave4
+http://149.88.65.214:88/v2/play/7204?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7205" tvg-name="HBO1" tvg-logo="http://live.9528.eu.org/logo/HBO1" group-title="加拿大",HBO1
+http://149.88.65.214:88/v2/play/7205?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7206" tvg-name="HBO2" tvg-logo="http://live.9528.eu.org/logo/HBO2" group-title="加拿大",HBO2
+http://149.88.65.214:88/v2/play/7206?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7207" tvg-name="Sego1" tvg-logo="http://live.9528.eu.org/logo/Sego1" group-title="加拿大",Sego1
+http://149.88.65.214:88/v2/play/7207?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7208" tvg-name="Sego2" tvg-logo="http://live.9528.eu.org/logo/Sego2" group-title="加拿大",Sego2
+http://149.88.65.214:88/v2/play/7208?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7209" tvg-name="Sego3" tvg-logo="http://live.9528.eu.org/logo/Sego3" group-title="加拿大",Sego3
+http://149.88.65.214:88/v2/play/7209?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7210" tvg-name="Sego4" tvg-logo="http://live.9528.eu.org/logo/Sego4" group-title="加拿大",Sego4
+http://149.88.65.214:88/v2/play/7210?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7211" tvg-name="Starz1" tvg-logo="http://live.9528.eu.org/logo/Starz1" group-title="加拿大",Starz1
+http://149.88.65.214:88/v2/play/7211?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="7212" tvg-name="Starz2" tvg-logo="http://live.9528.eu.org/logo/Starz2" group-title="加拿大",Starz2
+http://149.88.65.214:88/v2/play/7212?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9100" tvg-name="[動畫-日] 龍珠超" tvg-logo="http://live.9528.eu.org/logo/[動畫-日] 龍珠超" group-title="輪播",[動畫-日] 龍珠超
+http://149.88.65.214:88/v2/play/9100?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9101" tvg-name="[動畫-日] 龍珠Z (001-100)" tvg-logo="http://live.9528.eu.org/logo/[動畫-日] 龍珠Z (001-100)" group-title="輪播",[動畫-日] 龍珠Z (001-100)
+http://149.88.65.214:88/v2/play/9101?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9102" tvg-name="[動畫-日] 龍珠Z (101-200)" tvg-logo="http://live.9528.eu.org/logo/[動畫-日] 龍珠Z (101-200)" group-title="輪播",[動畫-日] 龍珠Z (101-200)
+http://149.88.65.214:88/v2/play/9102?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9103" tvg-name="[動畫-日] 龍珠Z (201-291)" tvg-logo="http://live.9528.eu.org/logo/[動畫-日] 龍珠Z (201-291)" group-title="輪播",[動畫-日] 龍珠Z (201-291)
+http://149.88.65.214:88/v2/play/9103?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9104" tvg-name="[動畫-粵] 男兒當入樽 (1-101)" tvg-logo="http://live.9528.eu.org/logo/[動畫-粵] 男兒當入樽 (1-101)" group-title="輪播",[動畫-粵] 男兒當入樽 (1-101)
+http://149.88.65.214:88/v2/play/9104?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9105" tvg-name="[動畫-普] 蜡笔小新1992" tvg-logo="http://live.9528.eu.org/logo/[動畫-普] 蜡笔小新1992" group-title="輪播",[動畫-普] 蜡笔小新1992
+http://149.88.65.214:88/v2/play/9105?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9106" tvg-name="[動畫-普] 籃球高手 (1-101)" tvg-logo="http://live.9528.eu.org/logo/[動畫-普] 籃球高手 (1-101)" group-title="輪播",[動畫-普] 籃球高手 (1-101)
+http://149.88.65.214:88/v2/play/9106?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9107" tvg-name="[陸劇-普] 武林外傳2006" tvg-logo="http://live.9528.eu.org/logo/[陸劇-普] 武林外傳2006" group-title="輪播",[陸劇-普] 武林外傳2006
+http://149.88.65.214:88/v2/play/9107?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9108" tvg-name="[港劇-粵] 我和殭屍有個約會-1" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 我和殭屍有個約會-1" group-title="輪播",[港劇-粵] 我和殭屍有個約會-1
+http://149.88.65.214:88/v2/play/9108?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9109" tvg-name="[港劇-粵] 我和殭屍有個約會-2" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 我和殭屍有個約會-2" group-title="輪播",[港劇-粵] 我和殭屍有個約會-2
+http://149.88.65.214:88/v2/play/9109?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9110" tvg-name="[港劇-粵] 我和殭屍有個約會-3" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 我和殭屍有個約會-3" group-title="輪播",[港劇-粵] 我和殭屍有個約會-3
+http://149.88.65.214:88/v2/play/9110?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9111" tvg-name="[港劇-粵] 鹿鼎記1998" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 鹿鼎記1998" group-title="輪播",[港劇-粵] 鹿鼎記1998
+http://149.88.65.214:88/v2/play/9111?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9112" tvg-name="[港劇-粵] 尋秦記 (古天樂)" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 尋秦記 (古天樂)" group-title="輪播",[港劇-粵] 尋秦記 (古天樂)
+http://149.88.65.214:88/v2/play/9112?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9113" tvg-name="[港劇-粵] 孖仔孖心肝 (周星馳)" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 孖仔孖心肝 (周星馳)" group-title="輪播",[港劇-粵] 孖仔孖心肝 (周星馳)
+http://149.88.65.214:88/v2/play/9113?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9114" tvg-name="[港劇-粵] 男親女愛 (黃子華)" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 男親女愛 (黃子華)" group-title="輪播",[港劇-粵] 男親女愛 (黃子華)
+http://149.88.65.214:88/v2/play/9114?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9115" tvg-name="[港劇-粵] 絕代商嬌 (黃子華)" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 絕代商嬌 (黃子華)" group-title="輪播",[港劇-粵] 絕代商嬌 (黃子華)
+http://149.88.65.214:88/v2/play/9115?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9116" tvg-name="[港劇-粵] 棟篤神探 (黃子華)" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 棟篤神探 (黃子華)" group-title="輪播",[港劇-粵] 棟篤神探 (黃子華)
+http://149.88.65.214:88/v2/play/9116?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9117" tvg-name="[港劇-粵] 奸人堅 (黃子華)" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 奸人堅 (黃子華)" group-title="輪播",[港劇-粵] 奸人堅 (黃子華)
+http://149.88.65.214:88/v2/play/9117?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9118" tvg-name="[港劇-粵] My盛Lady (黃子華)" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] My盛Lady (黃子華)" group-title="輪播",[港劇-粵] My盛Lady (黃子華)
+http://149.88.65.214:88/v2/play/9118?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9119" tvg-name="[港劇-粵] 笑傲江湖(1996)" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 笑傲江湖(1996)" group-title="輪播",[港劇-粵] 笑傲江湖(1996)
+http://149.88.65.214:88/v2/play/9119?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9120" tvg-name="[港劇-粵] 蓋世豪俠 (周星馳)" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 蓋世豪俠 (周星馳)" group-title="輪播",[港劇-粵] 蓋世豪俠 (周星馳)
+http://149.88.65.214:88/v2/play/9120?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9121" tvg-name="[港劇-粵] 他來自江湖 (周星馳)" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 他來自江湖 (周星馳)" group-title="輪播",[港劇-粵] 他來自江湖 (周星馳)
+http://149.88.65.214:88/v2/play/9121?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9122" tvg-name="[港劇-粵] 鬥氣一族 (周星馳)" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 鬥氣一族 (周星馳)" group-title="輪播",[港劇-粵] 鬥氣一族 (周星馳)
+http://149.88.65.214:88/v2/play/9122?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9123" tvg-name="[港劇-粵] 溏心風暴Ⅰ" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 溏心風暴Ⅰ" group-title="輪播",[港劇-粵] 溏心風暴Ⅰ
+http://149.88.65.214:88/v2/play/9123?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9124" tvg-name="[港劇-粵] 溏心風暴Ⅱ" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 溏心風暴Ⅱ" group-title="輪播",[港劇-粵] 溏心風暴Ⅱ
+http://149.88.65.214:88/v2/play/9124?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9125" tvg-name="[港劇-粵] 溏心風暴Ⅲ" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 溏心風暴Ⅲ" group-title="輪播",[港劇-粵] 溏心風暴Ⅲ
+http://149.88.65.214:88/v2/play/9125?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9126" tvg-name="[港劇-粵] 勇探實錄" tvg-logo="http://live.9528.eu.org/logo/[港劇-粵] 勇探實錄" group-title="輪播",[港劇-粵] 勇探實錄
+http://149.88.65.214:88/v2/play/9126?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9127" tvg-name="[港劇-普] 我和殭屍有個約會-1" tvg-logo="http://live.9528.eu.org/logo/[港劇-普] 我和殭屍有個約會-1" group-title="輪播",[港劇-普] 我和殭屍有個約會-1
+http://149.88.65.214:88/v2/play/9127?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9128" tvg-name="[港劇-普] 我和殭屍有個約會-2" tvg-logo="http://live.9528.eu.org/logo/[港劇-普] 我和殭屍有個約會-2" group-title="輪播",[港劇-普] 我和殭屍有個約會-2
+http://149.88.65.214:88/v2/play/9128?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9129" tvg-name="[港劇-普] 我和殭屍有個約會-3" tvg-logo="http://live.9528.eu.org/logo/[港劇-普] 我和殭屍有個約會-3" group-title="輪播",[港劇-普] 我和殭屍有個約會-3
+http://149.88.65.214:88/v2/play/9129?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9130" tvg-name="[港劇-普] 鹿鼎記1998" tvg-logo="http://live.9528.eu.org/logo/[港劇-普] 鹿鼎記1998" group-title="輪播",[港劇-普] 鹿鼎記1998
+http://149.88.65.214:88/v2/play/9130?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9131" tvg-name="[港劇-普] 尋秦記 (古天樂)" tvg-logo="http://live.9528.eu.org/logo/[港劇-普] 尋秦記 (古天樂)" group-title="輪播",[港劇-普] 尋秦記 (古天樂)
+http://149.88.65.214:88/v2/play/9131?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9132" tvg-name="[港劇-普] 笑傲江湖(1996)" tvg-logo="http://live.9528.eu.org/logo/[港劇-普] 笑傲江湖(1996)" group-title="輪播",[港劇-普] 笑傲江湖(1996)
+http://149.88.65.214:88/v2/play/9132?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9133" tvg-name="[港劇-普] 勇探實錄" tvg-logo="http://live.9528.eu.org/logo/[港劇-普] 勇探實錄" group-title="輪播",[港劇-普] 勇探實錄
+http://149.88.65.214:88/v2/play/9133?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9134" tvg-name="[美劇-英] 權力的遊戲 (S1-S2)" tvg-logo="http://live.9528.eu.org/logo/[美劇-英] 權力的遊戲 (S1-S2)" group-title="輪播",[美劇-英] 權力的遊戲 (S1-S2)
+http://149.88.65.214:88/v2/play/9134?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9135" tvg-name="[美劇-英] 權力的遊戲 (S3-S4)" tvg-logo="http://live.9528.eu.org/logo/[美劇-英] 權力的遊戲 (S3-S4)" group-title="輪播",[美劇-英] 權力的遊戲 (S3-S4)
+http://149.88.65.214:88/v2/play/9135?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9136" tvg-name="[美劇-英] 權力的遊戲 (S5-S6)" tvg-logo="http://live.9528.eu.org/logo/[美劇-英] 權力的遊戲 (S5-S6)" group-title="輪播",[美劇-英] 權力的遊戲 (S5-S6)
+http://149.88.65.214:88/v2/play/9136?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9137" tvg-name="[美劇-英] 權力的遊戲 (S7-S8)" tvg-logo="http://live.9528.eu.org/logo/[美劇-英] 權力的遊戲 (S7-S8)" group-title="輪播",[美劇-英] 權力的遊戲 (S7-S8)
+http://149.88.65.214:88/v2/play/9137?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9138" tvg-name="[美劇-英] 越獄 (S1)" tvg-logo="http://live.9528.eu.org/logo/[美劇-英] 越獄 (S1)" group-title="輪播",[美劇-英] 越獄 (S1)
+http://149.88.65.214:88/v2/play/9138?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9139" tvg-name="[美劇-英] 越獄 (S2)" tvg-logo="http://live.9528.eu.org/logo/[美劇-英] 越獄 (S2)" group-title="輪播",[美劇-英] 越獄 (S2)
+http://149.88.65.214:88/v2/play/9139?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9140" tvg-name="[美劇-英] 越獄 (S3-S4)" tvg-logo="http://live.9528.eu.org/logo/[美劇-英] 越獄 (S3-S4)" group-title="輪播",[美劇-英] 越獄 (S3-S4)
+http://149.88.65.214:88/v2/play/9140?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9141" tvg-name="[美劇-英] 越獄-最後一越 (S5)" tvg-logo="http://live.9528.eu.org/logo/[美劇-英] 越獄-最後一越 (S5)" group-title="輪播",[美劇-英] 越獄-最後一越 (S5)
+http://149.88.65.214:88/v2/play/9141?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9142" tvg-name="[美劇-英] 絕命毒師 (S1-S3)" tvg-logo="http://live.9528.eu.org/logo/[美劇-英] 絕命毒師 (S1-S3)" group-title="輪播",[美劇-英] 絕命毒師 (S1-S3)
+http://149.88.65.214:88/v2/play/9142?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9143" tvg-name="[美劇-英] 絕命毒師 (S4-S5)" tvg-logo="http://live.9528.eu.org/logo/[美劇-英] 絕命毒師 (S4-S5)" group-title="輪播",[美劇-英] 絕命毒師 (S4-S5)
+http://149.88.65.214:88/v2/play/9143?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9144" tvg-name="[美劇-英] 斯巴達克斯 (S1-S4)" tvg-logo="http://live.9528.eu.org/logo/[美劇-英] 斯巴達克斯 (S1-S4)" group-title="輪播",[美劇-英] 斯巴達克斯 (S1-S4)
+http://149.88.65.214:88/v2/play/9144?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9145" tvg-name="[美劇-英] The Wire (S1-S5)" tvg-logo="http://live.9528.eu.org/logo/[美劇-英] The Wire (S1-S5)" group-title="輪播",[美劇-英] The Wire (S1-S5)
+http://149.88.65.214:88/v2/play/9145?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9146" tvg-name="[美劇-英] 絕命律師 (S1-S3)" tvg-logo="http://live.9528.eu.org/logo/[美劇-英] 絕命律師 (S1-S3)" group-title="輪播",[美劇-英] 絕命律師 (S1-S3)
+http://149.88.65.214:88/v2/play/9146?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9147" tvg-name="[美劇-英] 絕命律師 (S4-S6)" tvg-logo="http://live.9528.eu.org/logo/[美劇-英] 絕命律師 (S4-S6)" group-title="輪播",[美劇-英] 絕命律師 (S4-S6)
+http://149.88.65.214:88/v2/play/9147?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9148" tvg-name="[電影-英] 電鋸驚魂" tvg-logo="http://live.9528.eu.org/logo/[電影-英] 電鋸驚魂" group-title="輪播",[電影-英] 電鋸驚魂
+http://149.88.65.214:88/v2/play/9148?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9149" tvg-name="[電影-英] 哈利波特 (1-8)" tvg-logo="http://live.9528.eu.org/logo/[電影-英] 哈利波特 (1-8)" group-title="輪播",[電影-英] 哈利波特 (1-8)
+http://149.88.65.214:88/v2/play/9149?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9150" tvg-name="[電影-英] 加勒比海盜 (S1-S5)" tvg-logo="http://live.9528.eu.org/logo/[電影-英] 加勒比海盜 (S1-S5)" group-title="輪播",[電影-英] 加勒比海盜 (S1-S5)
+http://149.88.65.214:88/v2/play/9150?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9151" tvg-name="[電影-英] 玩命關頭[S1-S10&特別行動]" tvg-logo="http://live.9528.eu.org/logo/[電影-英] 玩命關頭[S1-S10&特別行動]" group-title="輪播",[電影-英] 玩命關頭[S1-S10&特別行動]
+http://149.88.65.214:88/v2/play/9151?token=5120a109122a0715293f79b77c27097a
+#EXTINF:-1 tvg-id="9152" tvg-name="[電影-粵] 哈利波特 (1-8)" tvg-logo="http://live.9528.eu.org/logo/[電影-粵] 哈利波特 (1-8)" group-title="輪播",[電影-粵] 哈利波特 (1-8)
+http://149.88.65.214:88/v2/play/9152?token=5120a109122a0715293f79b77c27097a
