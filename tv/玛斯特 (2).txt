@@ -1,0 +1,342 @@
+台灣,#genre#
+龙祥时代,http://50.7.234.10:8278/lungxiangtime_twn/playlist.m3u8?tid=MFFF9299444992994449&ct=19226&tsum=98d6988c4c94e299cb1c151856c909a8
+龙华经典台,http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
+龙华洋片,http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
+龙华戏剧 ,http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
+龙华偶像,http://50.7.234.10:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+龙华卡通,http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
+非凡新闻台,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
+美亚电影台,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
+美食星球,http://50.7.234.10:8278/inews_twn//playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
+阿里郎 Arirang,http://50.7.234.10:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
+好莱坞电影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+爱尔达影剧台,http://50.7.234.10:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
+爱尔达体育2台,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+爱尔达体育1台,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
+民视新闻台 ,http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
+民视台湾台,http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
+民视 HD,http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
+年代新闻,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+好消息 2,http://50.7.234.10:8278/good2_twn/playlist.m3u8?tid=MB3B3734070237340702&ct=19249&tsum=611b90a32eb986741a0b15652178c428
+大爱1台,http://50.7.234.10:8278/daai_twn/playlist.m3u8?tid=ME5E3594665135946651&ct=19249&tsum=1628ac38fd6a79879fccae39de8e845b
+HBO,http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+HBO原创,http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+台视,http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
+卫视中文台,http://50.7.234.10:8278/weishichinese_twn/playlist.m3u8?tid=MB7B8325601583256015&ct=19249&tsum=88f84634240050b869fbbe8cfeb43cc7
+博斯高球2 HD,http://50.7.234.10:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
+博斯运动 2,http://50.7.234.10:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+博斯运动 1,http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
+博斯网球 HD,http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+华视 CTS HD,http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
+公视 CTV,http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
+八大综合 ,http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
+中视新闻台,http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
+中视 HD,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
+中天新闻 HD,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+中天娱乐 ,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+中天亚洲台,http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
+东森超视,http://50.7.234.10:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
+东森财经新闻,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
+东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+东森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
+东森戏剧,http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+三立综合,http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=MF4F9472920894729208&ct=19249&tsum=874aaa2015440b417746e5c11fa40220
+三立戏剧台,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
+东森电影ETTVMovie,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+东森综合ETTVMetro,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
+中天综合CTIMetro,http://50.7.234.10:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
+八大综合台,http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+八大戏剧GTVDrama,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
+八大第一GTVFirst,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+小太阳,http://50.7.234.10:8278/Xiaotaiyang/playlist.m3u8?tid=MD0D9499792694997926&ct=19254&tsum=900f8779aea05605b068dd6741e0feae
+纬来体育台,http://50.7.234.10:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
+靖天资讯台,http://50.7.234.10:8278/jingtianinfo_twn/playlist.m3u8?tid=MBBB4193573341935733&ct=19226&tsum=a90c32c7e1c51e5f30cff8add7dbea68
+靖天卡通台,http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
+靖天国际台,http://50.7.234.10:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
+iNews 新闻台,http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
+iNews TV,http://50.7.234.10:8278/Inewstv/playlist.m3u8?tid=ME1E8983653189836531&ct=19249&tsum=94c9e0a29f266dea3d3ed307954ed91a
+TVBS News ,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
+TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+EYETV戏剧,http://50.7.234.10:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
+EYETV旅游,http://50.7.234.10:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
+JET綜合,http://50.7.234.10:8278/jettv_japan/playlist.m3u8?tid=MBFB1954321519543215&ct=19254&tsum=b930469660644f5a547e7d65b00975a5
+TVBS欢乐台(备份),http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
+
+香港,#genre#
+RHK 32,http://50.7.234.10:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
+RHK 31,http://50.7.234.10:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
+翡翠台,http://50.7.234.10:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+美亚电影,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
+星卫电影,http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
+卫视中文台,http://50.7.234.10:8278/weishichinese_twn/playlist.m3u8?tid=MB7B8325601583256015&ct=19249&tsum=88f84634240050b869fbbe8cfeb43cc7
+凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
+凤凰资讯,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
+凤凰卫视,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+TVB 星河台,http://50.7.234.10:8278/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
+TVB 星河,http://50.7.234.10:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E4984839049848390&ct=19249&tsum=690b607d57418e55ba5fdd7814412e81
+J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
+J5,http://50.7.234.10:8278/j5_twn/playlist.m3u8?tid=MEAE8702052087020520&ct=19254&tsum=2d02794c870a70f27e27d47b2b6a9915
+无线财经资讯台,http://50.7.234.10:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
+VIUTV1,http://50.7.234.10:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
+
+thai3,http://50.7.234.10:8278/tpbs_pat/playlist.m3u8?tid=MF9F9580758695807586&ct=19249&tsum=e2992a8627dbfd1cb4ac975efe0a195a
+itv 2,http://50.7.234.10:8278/itv2_antik/playlist.m3u8?tid=ME1E6151053761510537&ct=19249&tsum=1ef927017460bcb40a504bbebc9eecb8
+iNews 新闻台,http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
+iNews TV,http://50.7.234.10:8278/Inewstv/playlist.m3u8?tid=ME1E8983653189836531&ct=19249&tsum=94c9e0a29f266dea3d3ed307954ed91a
+Zee TV HD,http://50.7.234.10:8278/Zeetvhd/playlist.m3u8?tid=MC1C1971765019717650&ct=19249&tsum=7fea673ee3cb17eeb5c4f9aa6eeec8af
+Zee Business,http://50.7.234.10:8278/Zeebusiness/playlist.m3u8?tid=MFFF4888252148882521&ct=19249&tsum=c74d23033981184e26c3005c240969fa
+Zee Action,http://50.7.234.10:8278/Zeeaction/playlist.m3u8?tid=MA4A4351444843514448&ct=19249&tsum=6a32548f74ac0e1e01c381f977bb2a04
+Workpoint,http://50.7.234.10:8278/workpoint_pat/playlist.m3u8?tid=MCDC7589889875898898&ct=19249&tsum=aec91b5921df44a3b6ca035785d47781
+Warner TV,http://50.7.234.10:8278/WarnerTV/playlist.m3u8?tid=MEAE1940571519405715&ct=19249&tsum=977961c82f61c35af96e8af5dfbc8a3d
+WWE,http://50.7.234.10:8278/Wwe/playlist.m3u8?tid=MAFA6271885362718853&ct=19249&tsum=087e1206a291a44e120fba9b3c0ddb2d
+Viu6,http://50.7.234.10:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
+Viu,http://50.7.234.10:8278/viu_twn/playlist.m3u8?tid=MA8A4107010641070106&ct=19249&tsum=217611d0247a2358b40d99b40b155881
+Vision Prime,http://50.7.234.10:8278/VisionPrime/playlist.m3u8?tid=MAFA7925284679252846&ct=19249&tsum=775468fd4a124f17bdd61e9147b32ea9
+Vasantham,http://50.7.234.10:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
+VTV6 HD,http://50.7.234.10:8278/vtv6_viet/playlist.m3u8?tid=ME2E7070671870706718&ct=19249&tsum=c4dde9b147775cbdbd4d96c3cd83348c
+VTV4 HD,http://50.7.234.10:8278/vtv3_viet/playlist.m3u8?tid=MCFC3683265336832653&ct=19249&tsum=fb24a8fdc076a6a6c06f19f8e80129eb
+VTV3 HD,http://50.7.234.10:8278/vtv3_viet/playlist.m3u8?tid=MA0A6881824868818248&ct=19249&tsum=b6e03f510088dcea73acb31421448ea2
+VTV1 HD,http://50.7.234.10:8278/vtv1_viet/playlist.m3u8?tid=MC0C4916224749162247&ct=19249&tsum=becb81d7ce707aa4cea15ee9772c57a1
+VTC3,http://50.7.234.10:8278/vtc3_viet/playlist.m3u8?tid=MD6D6036824260368242&ct=19249&tsum=f92ff13cf2c76fa752df7a7087b41c7b
+Tvone,http://50.7.234.10:8278/Tvone/playlist.m3u8?tid=MB8B7419376174193761&ct=19249&tsum=a00bd93ffc12fe4d1c9aa4c996a10679
+TvN,http://50.7.234.10:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=19249&tsum=b7f602e68174a03e917c7b354788bce9
+True Premium 2 HD,http://50.7.234.10:8278/truepre2_pat/playlist.m3u8?tid=MD7D6803914668039146&ct=19249&tsum=896db6668d2b4a7ad693b44ab39fcd22
+True Premium 1 HD,http://50.7.234.10:8278/truepre1_pat/playlist.m3u8?tid=MCEC6796185367961853&ct=19249&tsum=9ab501851eed281c85dc762c6b915c47
+Transtv,http://50.7.234.10:8278/Transtv/playlist.m3u8?tid=MCFC2537709525377095&ct=19249&tsum=dcb22c095fc52f971f7dea381f456a43
+Trans 7,http://50.7.234.10:8278/Trans7_eko/playlist.m3u8?tid=MABA8459856784598567&ct=19249&tsum=355af3a5c5bdf35204c638fb2076d199
+Tnn24,http://50.7.234.10:8278/tnn24_pat/playlist.m3u8?tid=MA1A4244094842440948&ct=19249&tsum=0913ba2ca4190c831479ae37a7517664
+Thrill,http://50.7.234.10:8278/Thrill/playlist.m3u8?tid=MB8B6377453463774534&ct=19249&tsum=028c286ac4f8ee635f9e502bd1e2e2ab
+Thairath,http://50.7.234.10:8278/thairath_pat/playlist.m3u8?tid=MECE9015936090159360&ct=19249&tsum=121111fd265864bd10f9991cb6398d90
+Tawaf TV,http://50.7.234.10:8278/TawafTV/playlist.m3u8?tid=MBCB5614836656148366&ct=19249&tsum=36b068ac8156d98ace6adfe2f490ff3f
+TVRI National,http://50.7.234.10:8278/TVRI/playlist.m3u8?tid=MBEB3773542337735423&ct=19249&tsum=9a00b24e2d7d7ac6a58ce692c2147e2e
+TVMU,http://50.7.234.10:8278/TVMU_eko/playlist.m3u8?tid=MFDF7570582975705829&ct=19249&tsum=5c6fe52ffe5b5cea936a79344042abef
+TVBS News ,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
+TVBS HD,http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+TVB 星河台,http://50.7.234.10:8278/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
+TVB 星河,http://50.7.234.10:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E4984839049848390&ct=19249&tsum=690b607d57418e55ba5fdd7814412e81
+TV9,http://50.7.234.10:8278/TV9/playlist.m3u8?tid=MC8C4966804449668044&ct=19249&tsum=8dae6f565fe19a1d8909d2f6b04ae2b7
+TV9 Indonesia,http://50.7.234.10:8278/TV9_eko/playlist.m3u8?tid=MF4F9337624493376244&ct=19249&tsum=c0c0a819b22ab768c25d0ac336f514e5
+TV8,http://50.7.234.10:8278/TV8/playlist.m3u8?tid=MBEB4776352347763523&ct=19249&tsum=3c51d752772cb0de53609d6df785438f
+TV3,http://50.7.234.10:8278/TV3/playlist.m3u8?tid=MBAB6337539663375396&ct=19249&tsum=d654aed09f7731acae9bc6b5fafeec6d
+TV3 backup,http://50.7.234.10:8278/TV3_backup/playlist.m3u8?tid=MA3A2227976222279762&ct=19249&tsum=f74de478f6a153a62550be93406fc29c
+TV2,http://50.7.234.10:8278/TV2/playlist.m3u8?tid=MBFB5221296352212963&ct=19249&tsum=c67dd739f98d016c5553f838aad85446
+TV1,http://50.7.234.10:8278/TV1/playlist.m3u8?tid=MC7C8155208481552084&ct=19249&tsum=298dc1db831fd77434f364d0fc12793f
+TPTV,http://50.7.234.10:8278/tptv_pat/playlist.m3u8?tid=MA0A1085390910853909&ct=19249&tsum=f1dddc0f6c6af52ac954606b2f0df88d
+TOKYOMX,http://50.7.234.10:8278/tokyomx_japan/playlist.m3u8?tid=MCBC1675205216752052&ct=19249&tsum=f7275ccb39ad7aea686e3ddb5999641a
+TLC,http://50.7.234.10:8278/Tlc/playlist.m3u8?tid=MF3F1922397419223974&ct=19249&tsum=463e97d27a96d75f2d46fe7f081af271
+Suria,http://50.7.234.10:8278/Suria/playlist.m3u8?tid=ME9E4011239440112394&ct=19249&tsum=2c7a84f4f2d92bc03275abeaa450c417
+Suria SD,http://50.7.234.10:8278/Suriah264/playlist.m3u8?tid=MA9A7087977770879777&ct=19249&tsum=36844133727e7ace6e06f4bac1f7ad1a
+Supersports 4,http://50.7.234.10:8278/Assp4/playlist.m3u8?tid=MC3C8659251086592510&ct=19249&tsum=94b1b760d8384a41d62be6113bfc36a5
+Supersports 3,http://50.7.234.10:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
+Supersports 2,http://50.7.234.10:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844
+Sunnah HD,http://50.7.234.10:8278/sunnah_mido/playlist.m3u8?tid=MA3A8891710288917102&ct=19249&tsum=a43fbbc6ed6e843b1711624a239c14d1
+Sun Music,http://50.7.234.10:8278/sunmusic_raj/playlist.m3u8?tid=MF3F8542356685423566&ct=19249&tsum=12073d307628e47b5f1184b264d31c67
+Starmaa HD,http://50.7.234.10:8278/starmaa_raj/playlist.m3u8?tid=MF7F8708478487084784&ct=19249&tsum=57f10ffb4d0484fdd2d73e7fa7871859
+Star Vijay,http://50.7.234.10:8278/Starvijay/playlist.m3u8?tid=MD7D7021074070210740&ct=19249&tsum=d469d61675c45cea051a8c286daa751b
+Star Vijay India,http://50.7.234.10:8278/starvijay_raj/playlist.m3u8?tid=MB0B3845002438450024&ct=19249&tsum=8a504d218e4ac85489e322b00289efcb
+Sony Yay Tamil,http://50.7.234.10:8278/sonyyaytam_raj/playlist.m3u8?tid=MD3D3753214337532143&ct=19249&tsum=cfd7c6971a942dbf9625c5727f931d93
+Sony Six HD,http://50.7.234.10:8278/sonysix_raj/playlist.m3u8?tid=MABA2998721529987215&ct=19249&tsum=e7be46c378a0bf0da5866469982f7970
+Sony HD,http://50.7.234.10:8278/SetOne/playlist.m3u8?tid=MD7D1616979216169792&ct=19249&tsum=228e9d46280149ba7ecfdce2acb28ad9
+Skysports Arena,http://50.7.234.10:8278/tiankongarena/playlist.m3u8?tid=MF8F6120866661208666&ct=19249&tsum=b84c4a90d43bc91888b470966999c629
+Skynews,http://50.7.234.10:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
+SCTV,http://50.7.234.10:8278/Sctv/playlist.m3u8?tid=MEAE5576803555768035&ct=19249&tsum=22cd08338943a038eb9a5bcf2ff7cba3
+SCM,http://50.7.234.10:8278/Weishimovie/playlist.m3u8?tid=MEEE4802495448024954&ct=19249&tsum=1731f56127d23a79a645f2d7d958dec7
+RTM Sports HD,http://50.7.234.10:8278/Rtmsport/playlist.m3u8?tid=MF8F1702154217021542&ct=19249&tsum=e027d4717db55d11df07ebe27f5eb3a5
+RCTI,http://50.7.234.10:8278/Rcti/playlist.m3u8?tid=MC2C8104265481042654&ct=19249&tsum=a03f74405124dc54a0e467a91f2afe8d
+Quran HD,http://50.7.234.10:8278/quran_mido/playlist.m3u8?tid=MDBD3234169932341699&ct=19249&tsum=9ab67cfe5792350388a7777b56fa3108
+Prima,http://50.7.234.10:8278/Prima/playlist.m3u8?tid=MDCD7525162675251626&ct=19249&tsum=baa42cb947105579e476ec0c5b71043d
+Pick TV,http://50.7.234.10:8278/picktv_antik/playlist.m3u8?tid=MB5B4434522744345227&ct=19249&tsum=b97fd4168586dc65fbe4ac3cd28d8240
+PPTV Thailand1,http://50.7.234.10:8278/pptv_pat/playlist.m3u8?tid=MC2C3662850236628502&ct=19249&tsum=efb951731b4d0d420dedc866c9fa789f
+One,http://50.7.234.10:8278/One/playlist.m3u8?tid=MC4C3559816135598161&ct=19249&tsum=dce7930990cd11c5385de1298a06c226
+Oasis,http://50.7.234.10:8278/Oasis/playlist.m3u8?tid=MABA2020629120206291&ct=19249&tsum=46be05252007b1efaae28ae3ab4cc7bb
+Nickelodeon,http://50.7.234.10:8278/Nickelodeon/playlist.m3u8?tid=MBBB9174743591747435&ct=19249&tsum=9901089db6361b9cafc0ab9de5612bee
+Nick Jr,http://50.7.234.10:8278/Nickjr/playlist.m3u8?tid=MFCF1347936613479366&ct=19249&tsum=547e162f9338962a46e76507dbf7d1e4
+News 18 Tamil,http://50.7.234.10:8278/news18tamil_raj/playlist.m3u8?tid=MFEF4476053744760537&ct=19249&tsum=730185304475c7836b81f97985cea296
+New,http://50.7.234.10:8278/new_pat/playlist.m3u8?tid=MA8A7659271276592712&ct=19249&tsum=116a75787eb362c83802c370eee554d5
+Net TV,http://50.7.234.10:8278/NetTV/playlist.m3u8?tid=MB0B1364823413648234&ct=19249&tsum=4109bb7ef2f8a60d80af6c88a23ce242
+Nation,http://50.7.234.10:8278/nation_pat/playlist.m3u8?tid=MB1B9139560291395602&ct=19249&tsum=ce6f7c87a3c920df0d5212ee4b98ba18
+Natgeo_HD,http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
+Natgeo Wild ,http://50.7.234.10:8278/natgeowildtamil_raj/playlist.m3u8?tid=MA3A7576802775768027&ct=19249&tsum=38e4069aeedc94944ccb5122c294c939
+NatGeo_Wild HD,http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8?tid=MF6F5354447153544471&ct=19249&tsum=fcc679b64dded7ec1ff6a0f09e335f38
+NatGeo Wild HD,http://50.7.234.10:8278/Natgeowild/playlist.m3u8?tid=MCEC8162047281620472&ct=19249&tsum=903a62e36d9cd6c67654b4e2ca6bcbd5
+NatGeo Tamil,http://50.7.234.10:8278/natgeotamil_raj/playlist.m3u8?tid=MC8C8508198685081986&ct=19249&tsum=211a7c56c1dd113e10eae565520483d0
+NatGeo HD,http://50.7.234.10:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
+More4,http://50.7.234.10:8278/more4_antik/playlist.m3u8?tid=MD1D7057164370571643&ct=19249&tsum=f95f2b7a56561d56eb8075ecee70e90f
+Momo TV,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MFFF9797479997974799&ct=19249&tsum=0bd9dac79cd373cc918357d3199c8b22
+MiaoMi,http://50.7.234.10:8278/MiaoMi/playlist.m3u8?tid=MD3D6451573464515734&ct=19249&tsum=a88d7f5e564622f588e26dbb3743d86b
+Metro TV,http://50.7.234.10:8278/metrotv_eko/playlist.m3u8?tid=MF8F5976470059764700&ct=19249&tsum=480db4ba88eb5616ddfdd41839efb81b
+Makkal TV,http://50.7.234.10:8278/Makkaltv/playlist.m3u8?tid=MCCC2831040628310406&ct=19249&tsum=f5996da95064e8472a743fd60a183318
+AFC亚洲旅游台,http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=MA8A2387916023879160&ct=19254&tsum=bd472a07b6e15f36c0540fb3becc3d6c
+AOD511,http://50.7.234.10:8278/Aod350/playlist.m3u8?tid=MF1F3186735831867358&ct=19254&tsum=a39293798a92f4779c48b2e917adbf74
+AODHD,http://50.7.234.10:8278/AodHD/playlist.m3u8?tid=MFCF1671455616714556&ct=19254&tsum=35c21f14930ec375838c13622f10759a
+AXNTaiwan,http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
+AnimalPlanet(Eng),http://50.7.234.10:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
+Animal_Planet,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
+ArirangHD,http://50.7.234.10:8278/arirang_korea/playlist.m3u8?tid=MCAC9176917891769178&ct=19254&tsum=ad6243f53ea0d05441f95dbae8519945
+Asianet,http://50.7.234.10:8278/asianet_raj/playlist.m3u8?tid=MB4B2450319024503190&ct=19254&tsum=ad3799bb18ad9ecf8dbd135dcf453f47
+AsianetNews,http://50.7.234.10:8278/asianetnews_raj/playlist.m3u8?tid=MD1D3357329333573293&ct=19254&tsum=504b76a49a637611ec4cda9af13d9ddb
+Awani,http://50.7.234.10:8278/Awani/playlist.m3u8?tid=MADA3704315537043155&ct=19254&tsum=b13ed0c5ea09f584d34097329df9150b
+AxnHD,http://50.7.234.10:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa
+CINEMAX,http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
+CNAJapan,http://50.7.234.10:8278/cna_japan/playlist.m3u8?tid=MABA2062881420628814&ct=19254&tsum=844b7bea8c0b5e0b7df14483f9c5a4bc
+CNBC,http://50.7.234.10:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
+CelestialClassic,http://50.7.234.10:8278/Celestial2/playlist.m3u8?tid=MC8C8240146082401460&ct=19254&tsum=bd09d5cb5e6039e14bd93ca49b968ba8
+CelestialMoviesHD,http://50.7.234.10:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
+Channel3Thailand,http://50.7.234.10:8278/ch3_pat/playlist.m3u8?tid=MB6B7545566875455668&ct=19254&tsum=80c0722e6c93923edad559f6b70efb47
+Channel4,http://50.7.234.10:8278/channel4_antik/playlist.m3u8?tid=MA9A3693209736932097&ct=19254&tsum=2d7c3f8671b8f4627be3fff7ecc507a7
+
+DiscoveryAsia,http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
+DiscoveryHD,http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
+DiscoveryKidsTamil,http://50.7.234.10:8278/discoverykidtamil_raj/playlist.m3u8?tid=MC1C6666962666669626&ct=19254&tsum=5c7c203bde4f208923e38663dbbc3a4e
+DiscoveryTurbo,http://50.7.234.10:8278/discoveryturbo_twn/playlist.m3u8?tid=MA4A9062409890624098&ct=19254&tsum=a08aaae68298f6df5540cb41f9d7fdd5
+DiscoveryWorldTamil,http://50.7.234.10:8278/discoveryworldtam_raj/playlist.m3u8?tid=MCEC6115648861156488&ct=19254&tsum=37c93ae7da63829245608ed1857a0f97
+Discovery_Science,http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MEDE7333306673333066&ct=19254&tsum=c17c57e395a30ccf636418530f7811a9
+
+
+BBC1,http://50.7.234.10:8278/bbc1_antik/playlist.m3u8?tid=ME3E1183863811838638&ct=19254&tsum=0840dd585f58cedffd284559c0694b76
+BBC2,http://50.7.234.10:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
+BBCEarthHD,http://50.7.234.10:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
+BBCEarthTamil,http://50.7.234.10:8278/bbcearthtam_raj/playlist.m3u8?tid=MF2F6939094669390946&ct=19254&tsum=7f5b392d1da73ab5861f925702fa1da0
+BBCWorldNews,http://50.7.234.10:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
+BBCWorldNews,http://50.7.234.10:8278/bbcworldnews_antik/playlist.m3u8?tid=MC4C8251699482516994&ct=19254&tsum=af5b184190d5f3db34f572d83337e180
+BTESPN,http://50.7.234.10:8278/btespn/playlist.m3u8?tid=MB5B6304580563045805&ct=19254&tsum=80d2ec53bd2391dea02424aad8c648c7
+BTSports1,http://50.7.234.10:8278/beeone/playlist.m3u8?tid=ME4E5665100556651005&ct=19254&tsum=caea1a674ddae23ddac022c6f734bbe9
+BTSports2,http://50.7.234.10:8278/beetwo/playlist.m3u8?tid=ME8E7161918071619180&ct=19254&tsum=5a361ecdfed8be71815bc378f08714c6
+BTSports3,http://50.7.234.10:8278/beethree/playlist.m3u8?tid=MD8D2705762227057622&ct=19254&tsum=5f67e864d74200ddfa93a55f5f897168
+Beinsports2HD,http://50.7.234.10:8278/Bein2hd/playlist.m3u8?tid=MA7A5079743450797434&ct=19254&tsum=c97a6b025c61971f186c219016353275
+BloombergNews,http://50.7.234.10:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
+Boomerang,http://50.7.234.10:8278/Boomerang/playlist.m3u8?tid=MBFB8899351888993518&ct=19254&tsum=f71dd7b0e6a7b9835cf74808aae1c4f7
+CBBC,http://50.7.234.10:8278/cbbc_antik/playlist.m3u8?tid=MA5A6456021664560216&ct=19254&tsum=14ac9f534102578c23e9e229d28b4fe0
+CBSHD,http://50.7.234.10:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+CBSNHD,http://50.7.234.10:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
+
+
+阿里郎 Arirang,http://50.7.234.10:8278/arirang_twn/playlist.m3u8?tid=MF5F3988861839888618&ct=19249&tsum=781d490a6abe9f48f5b93e211cbe0307
+テレビ東京 Tokyo TV,http://50.7.234.10:8278/tokyotv_japan/playlist.m3u8?tid=MB3B4646151146461511&ct=19249&tsum=1e2629b03336a2b562c74dacbe38e659
+YTN,http://50.7.234.10:8278/ytn_korea/playlist.m3u8?tid=MB9B9339094293390942&ct=19249&tsum=00fadee23f2abd633fb3d2a0a631281e
+YTN Science,http://50.7.234.10:8278/ytnscience_korea/playlist.m3u8?tid=MA2A7045792470457924&ct=19249&tsum=b22e04757acb42b0571211eff30b31db
+YTN Korean,http://50.7.234.10:8278/ytnkorean_korea/playlist.m3u8?tid=MA9A7678058476780584&ct=19249&tsum=772cec2c766d5b9dce13c26abd6476e4
+YTN DMB,http://50.7.234.10:8278/ytndmb_korea/playlist.m3u8?tid=MAFA1882156618821566&ct=19249&tsum=3144f8183ec43bd540c8dfc63624d6ca
+NHKBS1,http://50.7.234.10:8278/nhkbs1_japan/playlist.m3u8?tid=MDAD9879579598795795&ct=19249&tsum=24117c3dc4a087c67da1870d30393c4a
+NHK-E,http://50.7.234.10:8278/nhke_japan/playlist.m3u8?tid=MD5D3333147533331475&ct=19249&tsum=fad53a1e9cc36d6558bde48cc367fc0f
+NHK World,http://50.7.234.10:8278/nhkworld_japan/playlist.m3u8?tid=ME6E9673685296736852&ct=19249&tsum=9dd7b1d1d84ac827081bccd80fb9f70b
+Muslim TV,http://50.7.234.10:8278/MuslimTV/playlist.m3u8?tid=MC4C3088884830888848&ct=19249&tsum=d1cd20fb991a3bee32ccd5cc6c7838b1
+Music TV,http://50.7.234.10:8278/MusicTV/playlist.m3u8?tid=MA9A9568534495685344&ct=19249&tsum=da2ed4a3098f98e29f595568e709195b
+itv1,http://50.7.234.10:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=19254&tsum=fe64dc99ba95f220bea2a2a29319b065
+tvNMovie,http://50.7.234.10:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
+テレビ朝日AsahiTV,http://50.7.234.10:8278/asahitv_japan/playlist.m3u8?tid=MFAF8874237488742374&ct=19254&tsum=4c1200e93add2c035895613fc2ee8abf
+
+
+Natgeo_HD,http://50.7.234.10:8278/natgeohd_twn/playlist.m3u8?tid=MD3D4446495344464953&ct=19249&tsum=f8c0bfc8c564a4a28247dad400acddba
+Natgeo Wild ,http://50.7.234.10:8278/natgeowildtamil_raj/playlist.m3u8?tid=MA3A7576802775768027&ct=19249&tsum=38e4069aeedc94944ccb5122c294c939
+NatGeo_Wild HD,http://50.7.234.10:8278/natgeowild_twn/playlist.m3u8?tid=MF6F5354447153544471&ct=19249&tsum=fcc679b64dded7ec1ff6a0f09e335f38
+NatGeo Wild HD,http://50.7.234.10:8278/Natgeowild/playlist.m3u8?tid=MCEC8162047281620472&ct=19249&tsum=903a62e36d9cd6c67654b4e2ca6bcbd5
+NatGeo Tamil,http://50.7.234.10:8278/natgeotamil_raj/playlist.m3u8?tid=MC8C8508198685081986&ct=19249&tsum=211a7c56c1dd113e10eae565520483d0
+NatGeo HD,http://50.7.234.10:8278/Natgeo/playlist.m3u8?tid=MD9D9302547893025478&ct=19249&tsum=98e3f2f5104d6ed1e826d12d93d64794
+AnimalPlanet(Eng),http://50.7.234.10:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
+Animal_Planet,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=MF4F9191603991916039&ct=19254&tsum=8eeac3e9b8c5f58ad74a17b9b4813ed1
+DiscoveryAsia,http://50.7.234.10:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
+DiscoveryHD,http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
+DiscoveryKidsTamil,http://50.7.234.10:8278/discoverykidtamil_raj/playlist.m3u8?tid=MC1C6666962666669626&ct=19254&tsum=5c7c203bde4f208923e38663dbbc3a4e
+DiscoveryTurbo,http://50.7.234.10:8278/discoveryturbo_twn/playlist.m3u8?tid=MA4A9062409890624098&ct=19254&tsum=a08aaae68298f6df5540cb41f9d7fdd5
+DiscoveryWorldTamil,http://50.7.234.10:8278/discoveryworldtam_raj/playlist.m3u8?tid=MCEC6115648861156488&ct=19254&tsum=37c93ae7da63829245608ed1857a0f97
+Discovery_Science,http://50.7.234.10:8278/discoverysc_twn/playlist.m3u8?tid=MEDE7333306673333066&ct=19254&tsum=c17c57e395a30ccf636418530f7811a9
+
+
+WWE,http://50.7.234.10:8278/Wwe/playlist.m3u8?tid=MAFA6271885362718853&ct=19249&tsum=087e1206a291a44e120fba9b3c0ddb2d
+Supersports 4,http://50.7.234.10:8278/Assp4/playlist.m3u8?tid=MC3C8659251086592510&ct=19249&tsum=94b1b760d8384a41d62be6113bfc36a5
+Supersports 3,http://50.7.234.10:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
+Supersports 2,http://50.7.234.10:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844
+博斯高球2 HD,http://50.7.234.10:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
+博斯运动 2,http://50.7.234.10:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+博斯运动 1,http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
+博斯网球 HD,http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+爱尔达体育2台,http://50.7.234.10:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+爱尔达体育1台,http://50.7.234.10:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
+纬来体育台,http://50.7.234.10:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
+
+
+龙华经典台,http://50.7.234.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=MC2C7597780175977801&ct=19249&tsum=b7602981567d8f0171e8de29154f5014
+龙华洋片,http://50.7.234.10:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
+龙华戏剧 ,http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=MF2F2793524427935244&ct=19249&tsum=db1ef83fbbbae9a364979295fd690f7d
+龙华偶像,http://50.7.234.10:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+爱尔达影剧台,http://50.7.234.10:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
+东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+东森戏剧,http://50.7.234.10:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
+三立戏剧台,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?tid=MC3C7351075373510753&ct=19249&tsum=f70fc544635e38b2fd7b4bb39899df0e
+东森电影ETTVMovie,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+八大戏剧GTVDrama,http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
+八大第一GTVFirst,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+美亚电影,http://50.7.234.10:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
+星卫电影,http://50.7.234.10:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
+TVB 星河台,http://50.7.234.10:8278/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
+TVB 星河,http://50.7.234.10:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E4984839049848390&ct=19249&tsum=690b607d57418e55ba5fdd7814412e81
+Warner TV,http://50.7.234.10:8278/WarnerTV/playlist.m3u8?tid=MEAE1940571519405715&ct=19249&tsum=977961c82f61c35af96e8af5dfbc8a3d
+Thrill,http://50.7.234.10:8278/Thrill/playlist.m3u8?tid=MB8B6377453463774534&ct=19249&tsum=028c286ac4f8ee635f9e502bd1e2e2ab
+AOD511,http://50.7.234.10:8278/Aod350/playlist.m3u8?tid=MF1F3186735831867358&ct=19254&tsum=a39293798a92f4779c48b2e917adbf74
+AODHD,http://50.7.234.10:8278/AodHD/playlist.m3u8?tid=MFCF1671455616714556&ct=19254&tsum=35c21f14930ec375838c13622f10759a
+Awani,http://50.7.234.10:8278/Awani/playlist.m3u8?tid=MADA3704315537043155&ct=19254&tsum=b13ed0c5ea09f584d34097329df9150b
+AxnHD,http://50.7.234.10:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa
+CINEMAX,http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
+CelestialClassic,http://50.7.234.10:8278/Celestial2/playlist.m3u8?tid=MC8C8240146082401460&ct=19254&tsum=bd09d5cb5e6039e14bd93ca49b968ba8
+CelestialMoviesHD,http://50.7.234.10:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
+Citra,http://50.7.234.10:8278/Citra/playlist.m3u8?tid=MD3D9091559590915595&ct=19254&tsum=4026cb2674e22ae93b855d7d6f1d3af2
+
+
+非凡新闻台,http://50.7.234.10:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
+民视新闻台 ,http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
+年代新闻,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+中视新闻台,http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
+中天新闻 HD,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+东森财经新闻,http://50.7.234.10:8278/ettvcaijing_twn/playlist.m3u8?tid=MB8B2069463920694639&ct=19249&tsum=05ff51a1b274ce7d31d05bbf11df18ad
+东森新闻,http://50.7.234.10:8278/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
+iNews 新闻台,http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
+iNews 新闻台,http://50.7.234.10:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
+凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
+凤凰资讯,http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
+凤凰卫视,http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+BBC1,http://50.7.234.10:8278/bbc1_antik/playlist.m3u8?tid=ME3E1183863811838638&ct=19254&tsum=0840dd585f58cedffd284559c0694b76
+BBC2,http://50.7.234.10:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
+BBCEarthHD,http://50.7.234.10:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
+BBCEarthTamil,http://50.7.234.10:8278/bbcearthtam_raj/playlist.m3u8?tid=MF2F6939094669390946&ct=19254&tsum=7f5b392d1da73ab5861f925702fa1da0
+BBCWorldNews,http://50.7.234.10:8278/bbcnews_twn/playlist.m3u8?tid=MF3F9344101593441015&ct=19254&tsum=ee2dfdc43081584c1c81ddf78256bf30
+BBCWorldNews,http://50.7.234.10:8278/bbcworldnews_antik/playlist.m3u8?tid=MC4C8251699482516994&ct=19254&tsum=af5b184190d5f3db34f572d83337e180
+CNAJapan,http://50.7.234.10:8278/cna_japan/playlist.m3u8?tid=MABA2062881420628814&ct=19254&tsum=844b7bea8c0b5e0b7df14483f9c5a4bc
+CNBC,http://50.7.234.10:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
+BloombergNews,http://50.7.234.10:8278/bloomberg_twn/playlist.m3u8?tid=MBDB5111864051118640&ct=19254&tsum=20e267ffc313070f5fff457700929457
+Boomerang,http://50.7.234.10:8278/Boomerang/playlist.m3u8?tid=MBFB8899351888993518&ct=19254&tsum=f71dd7b0e6a7b9835cf74808aae1c4f7
+CBBC,http://50.7.234.10:8278/cbbc_antik/playlist.m3u8?tid=MA5A6456021664560216&ct=19254&tsum=14ac9f534102578c23e9e229d28b4fe0
+CBSHD,http://50.7.234.10:8278/cbshd_glo/playlist.m3u8?tid=MA1A7337105773371057&ct=19254&tsum=89d432f03b1b50b68b7bace382dc13ac
+CBSNHD,http://50.7.234.10:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
+AllTheKpop,http://50.7.234.10:8278/allthekpop_korea/playlist.m3u8?tid=MDDD8149394181493941&ct=19225&tsum=9f1d9df0da62cc0a30d0e5357356e012
+ARIRANG,http://50.7.234.10:8278/arirang_korea/playlist.m3u8?tid=MF0F4469644244696442&ct=19225&tsum=74c6b6af7ddf9d5cdada2a0bf81650a7
+NHK,http://50.7.234.10:8278/nhkworld_japan/playlist.m3u8?tid=MD5D5829793458297934&ct=19225&tsum=88195c0527d1cf627a24133aa7fbacad
+The K-POP,http://50.7.234.10:8278/jthekpop_korea/playlist.m3u8?tid=MCCC8163723981637239&ct=19225&tsum=53c895b4be81be369500a38192516c6b
+CBS,http://50.7.234.10:8278/cbs_korea/playlist.m3u8?tid=MDAD4507283145072831&ct=19225&tsum=2a813574c958e8ae1a2f5c64237e9bb9
+CGNTV,http://50.7.234.10:8278/cgntv_korea/playlist.m3u8?tid=MABA6473602964736029&ct=19225&tsum=8564b434d07391db48f35d6545cb33b1
+EBS 2,http://50.7.234.10:8278/ebs2_korea/playlist.m3u8?tid=MDAD9379144693791446&ct=19225&tsum=67f9bca3b4c05139b9fbcb009d11b368
+EBS KIDS,http://50.7.234.10:8278/ebskids_korea/playlist.m3u8?tid=MA3A1606825116068251&ct=19225&tsum=ba2e74385295167bc2752c628474354c
+MBC,http://50.7.234.10:8278/mbc_korea/playlist.m3u8?tid=MEAE9573382995733829&ct=19225&tsum=a0b7c980377ecbf15c1c9b8ae93b82aa
+SBS,http://50.7.234.10:8278/sbs_korea/playlist.m3u8?tid=MD4D1766226017662260&ct=19225&tsum=f1b382d363dc059ae4d9d14bc0c66913
+TVN,http://50.7.234.10:8278/TVN/playlist.m3u8?tid=ME2E2714748027147480&ct=19225&tsum=48ef5f1d47a64fc90e5f5ad5b182fb5d
+CCTV-1,http://50.7.234.10:8278/cctv1/playlist.m3u8?tid=MB2B9826281798262817&ct=19225&tsum=c3e8198631cfa41940fb6aba4b1ae841
+CCTV-2,http://50.7.234.10:8278/cctv2/playlist.m3u8?tid=ME0E6752603767526037&ct=19225&tsum=8937e0b8c7c22fce4834f366a2ab6bde
+CCTV-4,http://50.7.234.10:8278/cctv4/playlist.m3u8?tid=MB9B9242441792424417&ct=19225&tsum=ed1fc427f02a63dffacdedae975959ce
+CCTV-5,http://50.7.234.10:8278/cctv5/playlist.m3u8?tid=MD2D5656337456563374&ct=19225&tsum=29861256a9ff86acc68cce955fb93829
+CCTV-5+,http://50.7.234.10:8278/cctv5plus/playlist.m3u8?tid=MF6F3069243930692439&ct=19225&tsum=7f79687e9afcfd2a0757b7b74c32fedd
+CCTV-6,http://50.7.234.10:8278/cctv6/playlist.m3u8?tid=MF9F5072146350721463&ct=19225&tsum=4a988a91f37a523b17f426e19716e532
+CCTV-8,http://50.7.234.10:8278/cctv8hd/playlist.m3u8?tid=MB9B2648043726480437&ct=19225&tsum=570c59d4ae344fe8968eeebf18261612
+CCTV-9,http://50.7.234.10:8278/cctv9hd/playlist.m3u8?tid=MB3B2175701421757014&ct=19225&tsum=a8e4eb20b41c000aaec59f1994e5884c
+CCTV-10,http://50.7.234.10:8278/cctv10hd/playlist.m3u8?tid=MD5D5225889152258891&ct=19225&tsum=1aa176c8bde01378d6ba42864e80f8c6
+CCTV-12,http://50.7.234.10:8278/cctv12/playlist.m3u8?tid=ME5E1868210218682102&ct=19225&tsum=91f63d21af1bd01ed7de6e5cde5cd55c
+CCTV-13,http://50.7.234.10:8278/cctv13/playlist.m3u8?tid=MEAE5893429158934291&ct=19225&tsum=7e437e531910f3c24213fd3661fcc983
+CCTV-14,http://50.7.234.10:8278/cctv14/playlist.m3u8?tid=MA1A2502333425023334&ct=19225&tsum=c1ac4fbf128b149d27738f3315c5dfc1
+CGTN,http://50.7.234.10:8278/CGTN/playlist.m3u8?tid=MDED6717475367174753&ct=19225&tsum=096735a63d2e871c3ab4980cfea64fe4
+浙江卫视,http://50.7.234.10:8278/Zhejiang/playlist.m3u8?tid=MC7C4621237046212370&ct=19226&tsum=78beb1b45c44b53e621403b4327efa56
+浙江卫视(备),http://50.7.234.10:8278/zhejiang_twn/playlist.m3u8?tid=MD7D8766114087661140&ct=19226&tsum=c7f1ba96c1394e50a2a8b646bd398cae
+湖南卫视,http://50.7.234.10:8278/hunan_twn/playlist.m3u8?tid=MC9C7618917276189172&ct=19226&tsum=2610487b0e9424def632889b293c0e9e
+江苏卫视,http://50.7.234.10:8278/jiangsu_twn/playlist.m3u8?tid=MA6A5213905852139058&ct=19226&tsum=561feb226ebe64b3644f03d929c2a88a
+深圳卫视,http://50.7.234.10:8278/shenzhen/playlist.m3u8?tid=MB9B3874889638748896&ct=19226&tsum=ade93def83a9c1eff7bceddd6ce76483
+四川卫视,http://50.7.234.10:8278/sichuan_twn/playlist.m3u8?tid=MD4D5174810351748103&ct=19226&tsum=dd620e398eb2b4f07c3a05dc39bd6673
+广西卫视,http://50.7.234.10:8278/guangxi/playlist.m3u8?tid=MB5B3787443737874437&ct=19226&tsum=fff4886674a160d3d57ddf759569c511
+湖北卫视,http://50.7.234.10:8278/hubei/playlist.m3u8?tid=MF2F5899308558993085&ct=19226&tsum=a2b015b4bc0a21b9ffcbf3db2655b579
