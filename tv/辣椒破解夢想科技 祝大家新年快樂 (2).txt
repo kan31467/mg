@@ -1,0 +1,140 @@
+1.ARIRANG阿里郎頻道,http://206.119.163.4/apitv/gtlive.php?id=15810&cid=15973
+2.CATCHPLAY Beyond,http://206.119.163.4/apitv/gtlive.php?id=14401&cid=14564
+3.CATCHPLAY電影台-HD,http://206.119.163.4/apitv/gtlive.php?id=14183&cid=14343
+4.CNA亞洲新聞台,http://206.119.163.4/apitv/gtlive.php?id=14064&cid=14224
+5.CNBC,http://206.119.163.4/apitv/gtlive.php?id=13693&cid=13846
+6.CNEX DOC CHANNEL,http://206.119.163.4/apitv/gtlive.php?id=13694&cid=13847
+7.CNN國際新聞台,http://206.119.163.4/apitv/gtlive.php?id=13643&cid=13795
+8.CNN頭條新聞台,http://206.119.163.4/apitv/gtlive.php?id=13644&cid=13796
+9.CN卡通頻道,http://206.119.163.4/apitv/gtlive.php?id=13645&cid=13797
+10.CinemaWorld,http://206.119.163.4/apitv/gtlive.php?id=14061&cid=14221
+11.Davinci 達文西教學台(HD),http://206.119.163.4/apitv/gtlive.php?id=13625&cid=13777
+12.ELTV生活英語台,http://206.119.163.4/apitv/gtlive.php?id=13983&cid=14136
+13.FUN影音綜合台,http://206.119.163.4/apitv/gtlive.php?id=12450&cid=12445
+14.FUN流行音樂台,http://206.119.163.4/apitv/gtlive.php?id=11431&cid=11430
+15.FUN精選電影院,http://206.119.163.4/apitv/gtlive.php?id=12451&cid=12444
+16.Fashion one時尚娛樂台(HD),http://206.119.163.4/apitv/gtlive.php?id=13687&cid=13840
+17.GINX Esports TV,http://206.119.163.4/apitv/gtlive.php?id=14397&cid=14560
+18.GOOD TV一台,http://206.119.163.4/apitv/gtlive.php?id=13696&cid=13849
+19.GOOD TV二台,http://206.119.163.4/apitv/gtlive.php?id=13711&cid=13864
+20.HITS頻道,http://206.119.163.4/apitv/gtlive.php?id=14000&cid=14153
+21.History 2,http://206.119.163.4/apitv/gtlive.php?id=13640&cid=13792
+22.History,http://206.119.163.4/apitv/gtlive.php?id=14165&cid=14325
+23.KLT-靖天國際台,http://206.119.163.4/apitv/gtlive.php?id=18953&cid=19116
+24.LUXE TV Channel,http://206.119.163.4/apitv/gtlive.php?id=14398&cid=14561
+25.Lifetime,http://206.119.163.4/apitv/gtlive.php?id=13664&cid=13817
+26.LiveABC互動英語頻道,http://206.119.163.4/apitv/gtlive.php?id=15808&cid=15971
+27.Love Nature,http://206.119.163.4/apitv/gtlive.php?id=14085&cid=14245
+28.MTV Live HD,http://206.119.163.4/apitv/gtlive.php?id=14166&cid=14326
+29.Mezzo Live HD,http://206.119.163.4/apitv/gtlive.php?id=13712&cid=13865
+30.My Cinema Europe HD 我的歐洲電影,http://206.119.163.4/apitv/gtlive.php?id=14399&cid=14562
+31.NICK Jr,http://206.119.163.4/apitv/gtlive.php?id=14167&cid=14327
+32.Nice TV 靖天歡樂台,http://206.119.163.4/apitv/gtlive.php?id=18954&cid=19117
+33.Pet Club TV,http://206.119.163.4/apitv/gtlive.php?id=15213&cid=15376
+34.ROCK Extreme,http://206.119.163.4/apitv/gtlive.php?id=14084&cid=14244
+35.SBL超級籃球聯賽,http://206.119.163.4/apitv/gtlive.php?id=11450&cid=11453
+36.SBN全球財經台,http://206.119.163.4/apitv/gtlive.php?id=13985&cid=14138
+37.Smart知識台,http://206.119.163.4/apitv/gtlive.php?id=14050&cid=14210
+38.Smithsonian Channel,http://206.119.163.4/apitv/gtlive.php?id=14184&cid=14344
+39.TV5MONDE STYLE HD 生活時尚,http://206.119.163.4/apitv/gtlive.php?id=14400&cid=14563
+40.TVBS,http://206.119.163.4/apitv/gtlive.php?id=15131&cid=15294
+41.TVBS新聞台,http://206.119.163.4/apitv/gtlive.php?id=15132&cid=15295
+42.TVBS歡樂台,http://206.119.163.4/apitv/gtlive.php?id=15133&cid=15296
+43.TVBS精采台,http://206.119.163.4/apitv/gtlive.php?id=15134&cid=15297
+44.TechStorm,http://206.119.163.4/apitv/gtlive.php?id=15256&cid=15419
+45.Trace Sport Stars,http://206.119.163.4/apitv/gtlive.php?id=13704&cid=13857
+46.amc 最愛電影-HD,http://206.119.163.4/apitv/gtlive.php?id=14133&cid=14293
+47.ci,http://206.119.163.4/apitv/gtlive.php?id=14164&cid=14324
+48.i-Fun動漫台,http://206.119.163.4/apitv/gtlive.php?id=13674&cid=13827
+49.momo親子台,http://206.119.163.4/apitv/gtlive.php?id=13661&cid=13813
+50.三立iNEWS,http://206.119.163.4/apitv/gtlive.php?id=11419&cid=11420
+51.三立新聞HD,http://206.119.163.4/apitv/gtlive.php?id=11422&cid=11440
+52.中天全民最大黨,http://206.119.163.4/apitv/gtlive.php?id=14192&cid=14352
+53.中天新聞-HD,http://206.119.163.4/apitv/gtlive.php?id=14143&cid=14303
+54.中天綜合台,http://206.119.163.4/apitv/gtlive.php?id=14187&cid=14347
+55.中天美食旅遊,http://206.119.163.4/apitv/gtlive.php?id=14193&cid=14353
+56.中視新聞台,http://206.119.163.4/apitv/gtlive.php?id=13682&cid=13835
+57.中視無線台(HD),http://206.119.163.4/apitv/gtlive.php?id=13681&cid=13834
+58.中視經典台,http://206.119.163.4/apitv/gtlive.php?id=18949&cid=19112
+59.中視菁采台,http://206.119.163.4/apitv/gtlive.php?id=18948&cid=19111
+60.亞洲人氣戲劇台,http://206.119.163.4/apitv/gtlive.php?id=11429&cid=11441
+61.亞洲旅遊台,http://206.119.163.4/apitv/gtlive.php?id=11462&cid=11462
+62.亞洲院線電影台,http://206.119.163.4/apitv/gtlive.php?id=11426&cid=11426
+63.人間衛視,http://206.119.163.4/apitv/gtlive.php?id=13673&cid=13826
+64.八大精彩台,http://206.119.163.4/apitv/gtlive.php?id=14213&cid=14373
+65.八大綜藝台,http://206.119.163.4/apitv/gtlive.php?id=13660&cid=13812
+66.公視戲劇,http://206.119.163.4/apitv/gtlive.php?id=14159&cid=14319
+67.半島電視台,http://206.119.163.4/apitv/gtlive.php?id=13678&cid=13831
+68.博斯無限台,http://206.119.163.4/apitv/gtlive.php?id=11452&cid=11461
+69.博斯網球台,http://206.119.163.4/apitv/gtlive.php?id=11453&cid=11459
+70.博斯運動一台-HD,http://206.119.163.4/apitv/gtlive.php?id=14152&cid=14312
+71.博斯運動二台-HD,http://206.119.163.4/apitv/gtlive.php?id=14126&cid=14286
+72.博斯高球二台,http://206.119.163.4/apitv/gtlive.php?id=11456&cid=11456
+73.博斯高球台,http://206.119.163.4/apitv/gtlive.php?id=11457&cid=11455
+74.博斯魅力台,http://206.119.163.4/apitv/gtlive.php?id=11458&cid=11460
+75.古典音樂台,http://206.119.163.4/apitv/gtlive.php?id=13666&cid=13819
+76.台視新聞台,http://206.119.163.4/apitv/gtlive.php?id=18946&cid=19109
+77.台視財經台,http://206.119.163.4/apitv/gtlive.php?id=18947&cid=19110
+78.唯心電視台,http://206.119.163.4/apitv/gtlive.php?id=13977&cid=14130
+79.國會頻道1台,http://206.119.163.4/apitv/gtlive.php?id=14018&cid=14171
+80.國會頻道2台,http://206.119.163.4/apitv/gtlive.php?id=14021&cid=14174
+81.大愛二台,http://206.119.163.4/apitv/gtlive.php?id=13698&cid=13851
+82.大愛電視台,http://206.119.163.4/apitv/gtlive.php?id=13642&cid=13794
+83.客家電視台,http://206.119.163.4/apitv/gtlive.php?id=14011&cid=14164
+84.寰宇新聞台,http://206.119.163.4/apitv/gtlive.php?id=14170&cid=14330
+85.寰宇新聞台灣台,http://206.119.163.4/apitv/gtlive.php?id=14172&cid=14332
+86.尼克兒童頻道,http://206.119.163.4/apitv/gtlive.php?id=14081&cid=14241
+87.幸福空間居家台,http://206.119.163.4/apitv/gtlive.php?id=14199&cid=14359
+88.影迷數位紀實台,http://206.119.163.4/apitv/gtlive.php?id=14132&cid=14292
+89.影迷數位電影台,http://206.119.163.4/apitv/gtlive.php?id=13695&cid=13848
+90.德國之聲電視台,http://206.119.163.4/apitv/gtlive.php?id=14163&cid=14323
+91.愛爾達娛樂台,http://206.119.163.4/apitv/gtlive.php?id=13701&cid=13854
+92.新唐人亞太台,http://206.119.163.4/apitv/gtlive.php?id=13984&cid=14137
+93.時代影像台,http://206.119.163.4/apitv/gtlive.php?id=13183&cid=13334
+94.智林體育台,http://206.119.163.4/apitv/gtlive.php?id=13706&cid=13859
+95.東森新聞台,http://206.119.163.4/apitv/gtlive.php?id=13635&cid=13787
+96.東森財經新聞台,http://206.119.163.4/apitv/gtlive.php?id=13636&cid=13788
+97.梅迪奇藝術頻道,http://206.119.163.4/apitv/gtlive.php?id=13988&cid=14141
+98.民視台灣台,http://206.119.163.4/apitv/gtlive.php?id=13671&cid=13824
+99.民視戲劇台,http://206.119.163.4/apitv/gtlive.php?id=13651&cid=13803
+100.民視新聞台-HD,http://206.119.163.4/apitv/gtlive.php?id=14119&cid=14279
+101.民視旅遊台,http://206.119.163.4/apitv/gtlive.php?id=13655&cid=13807
+102.民視無線台-HD,http://206.119.163.4/apitv/gtlive.php?id=14124&cid=14284
+103.民視第一台,http://206.119.163.4/apitv/gtlive.php?id=13672&cid=13825
+104.民視綜藝台,http://206.119.163.4/apitv/gtlive.php?id=13653&cid=13805
+105.熱播華語戲劇台,http://206.119.163.4/apitv/gtlive.php?id=11427&cid=11427
+106.空中英語教學台,http://206.119.163.4/apitv/gtlive.php?id=13648&cid=13800
+107.美國之音-VOA,http://206.119.163.4/apitv/gtlive.php?id=13632&cid=13784
+108.臺灣電視台,http://206.119.163.4/apitv/gtlive.php?id=18945&cid=19108
+109.華藏電視台,http://206.119.163.4/apitv/gtlive.php?id=13979&cid=14132
+110.華視新聞資訊台,http://206.119.163.4/apitv/gtlive.php?id=13677&cid=13830
+111.華視無線台-HD,http://206.119.163.4/apitv/gtlive.php?id=14128&cid=14288
+112.西洋強檔電影台,http://206.119.163.4/apitv/gtlive.php?id=11425&cid=11425
+113.豬哥亮歌廳秀,http://206.119.163.4/apitv/gtlive.php?id=13662&cid=13814
+114.車迷TV,http://206.119.163.4/apitv/gtlive.php?id=14190&cid=14350
+115.采昌影劇台,http://206.119.163.4/apitv/gtlive.php?id=14161&cid=14321
+116.金光布袋戲,http://206.119.163.4/apitv/gtlive.php?id=14080&cid=14240
+117.隨身娛樂綜藝台,http://206.119.163.4/apitv/gtlive.php?id=11430&cid=11429
+118.電影原聲台CMusic,http://206.119.163.4/apitv/gtlive.php?id=14188&cid=14348
+119.靖天卡通台,http://206.119.163.4/apitv/gtlive.php?id=18951&cid=19114
+120.靖天戲劇台,http://206.119.163.4/apitv/gtlive.php?id=18952&cid=19115
+121.靖天日本台,http://206.119.163.4/apitv/gtlive.php?id=18950&cid=19113
+122.靖天映畫台,http://206.119.163.4/apitv/gtlive.php?id=13692&cid=13845
+123.靖天綜合台,http://206.119.163.4/apitv/gtlive.php?id=18956&cid=19119
+124.靖天育樂台,http://206.119.163.4/apitv/gtlive.php?id=18958&cid=19121
+125.靖天資訊台,http://206.119.163.4/apitv/gtlive.php?id=18957&cid=19120
+126.靖天電影台,http://206.119.163.4/apitv/gtlive.php?id=14162&cid=14322
+127.靖洋卡通台Nice Bingo,http://206.119.163.4/apitv/gtlive.php?id=18955&cid=19118
+128.靖洋戲劇台,http://206.119.163.4/apitv/gtlive.php?id=13690&cid=13843
+129.非凡商業HD,http://206.119.163.4/apitv/gtlive.php?id=11328&cid=11346
+130.非凡新聞HD,http://206.119.163.4/apitv/gtlive.php?id=11327&cid=11345
+131.韓國娛樂台KMTV,http://206.119.163.4/apitv/gtlive.php?id=13685&cid=13838
+132.麥卡貝網路電視HD,http://206.119.163.4/apitv/gtlive.php?id=11423&cid=11422
+133.麥卡貝運動2台,http://206.119.163.4/apitv/gtlive.php?id=14062&cid=14222
+134.麥卡貝運動3台,http://206.119.163.4/apitv/gtlive.php?id=18794&cid=18957
+135.麥卡貝運動頻道,http://206.119.163.4/apitv/gtlive.php?id=13981&cid=14134
+136.龍華偶像台,http://206.119.163.4/apitv/gtlive.php?id=11459&cid=11463
+137.龍華卡通台,http://206.119.163.4/apitv/gtlive.php?id=13188&cid=13338
+138.龍華戲劇台-HD,http://206.119.163.4/apitv/gtlive.php?id=14147&cid=14307
+139.龍華日韓台,http://206.119.163.4/apitv/gtlive.php?id=11460&cid=11464
+140.龍華電影台,http://206.119.163.4/apitv/gtlive.php?id=13187&cid=13339
