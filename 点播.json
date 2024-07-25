@@ -1,0 +1,450 @@
+{
+    "spider": "http://xld.li0580.com/uploads/tvbox/custom_spider.jar;md5;b0f882e4f73e078bb53807dac73faef5",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "sites": [
+        {
+            "key": "360",
+            "name": "🚀高清HDR【路人甲】",
+            "type": 1,
+            "api": " http://liu.li0580.com:5365/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playurl": "json:https://47.96.255.149/api.php?url=",
+            "categories": [
+                "路人甲影视(电影)",
+                "Q群573489929（电视剧）",
+                "动漫",
+                "综艺",
+                "海外剧",
+                "短剧"
+            ]
+        },
+        {
+            "key": "lurenjia",
+            "name": "🕵自建高清【路人甲】",
+            "playerType": 1,
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": " http://dh.li0580.com:6532/api.php/app/"
+        },
+        {
+            "key": "朱总麒麟",
+            "name": "🐧无广HDR-4K【会员线】",
+            "playerType": 1,
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": " http://122.228.84.103:5825/api.php/app/"
+        },
+        {
+            "key": "土豆",
+            "name": "☀阿里夸克4K【路人甲】",
+            "playerType": 1,
+            "jar": "http://xld.li0580.com/uploads/tvbox/tudou0529.jar",
+            "type": 3,
+            "api": "csp_Wextudou",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "飞龙在天",
+            "name": "📔蓝光HDR-A【路人甲】",
+            "playerType": 1,
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://122.228.84.103:6117/api.php/app/"
+        },
+        {
+            "key": "暴风",
+            "name": "💡暴风HDR-C【路人甲】",
+            "type": 1,
+            "api": " https://bfzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playurl": "json:https://jx.m3u8.biz/gg.php?url=",
+            "categories": [
+                "国产剧",
+                "动作片",
+                "喜剧片",
+                "冒险片",
+                "喜剧片",
+                "剧情片",
+                "爱情片",
+                "科幻片",
+                "悬疑片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "动漫片",
+                "香港剧",
+                "网络电影",
+                "热门短剧",
+                "国产动漫",
+                "日韩动漫",
+                "国产综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫"
+            ]
+        },
+        {
+            "key": "量子无广",
+            "name": "🌟量子HDR-D【路人甲】",
+            "type": 1,
+            "api": "http://wdzy.xn--xhqy79ao1f5n5a.xn--io0a7i/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playUrl": "json:https://jx.m3u8.biz/gg.php?url="
+        },
+        {
+            "key": "快看",
+            "name": "🎦快看HDR-E【路人甲】",
+            "type": 1,
+            "api": " https://kuaikan-api.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playurl": "json:https://jx.m3u8.biz/gg.php?url=",
+            "categories": [
+                "国产剧",
+                "动作片",
+                "喜剧片",
+                "冒险片",
+                "喜剧片",
+                "剧情片",
+                "爱情片",
+                "科幻片",
+                "悬疑片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "动漫片",
+                "香港剧",
+                "网络电影",
+                "热门短剧",
+                "国产动漫",
+                "日韩动漫",
+                "国产综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫"
+            ]
+        },
+        {
+            "key": "南瓜",
+            "name": "🎃多线资源【路人甲】",
+            "type": 3,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719316733539/fan.txt;md5;39536019b1427f62b535f028d161d43a",
+            "api": "csp_NanGua",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "酷奇",
+            "name": "🎤酷奇┃MV【路人甲】",
+            "type": 3,
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "MTV",
+            "name": "🎧明星┃MV【路人甲】",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+        },
+        {
+            "key": "戏曲",
+            "name": "👬戏曲资源【路人甲】",
+            "playerType": 1,
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://vip.123pan.cn/1815433723/api/jsonN/Blixq.json",
+            "jar": "https://syc.lvdoui.top/jar/fan.jar"
+        },
+        {
+            "key": "幼儿启蒙",
+            "name": "📓┃幼儿┃启蒙",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jihulab.com/ymz1231/json/-/raw/main/幼儿启蒙.json",
+            "jar": ""
+        },
+        {
+            "key": "课堂教育",
+            "name": "📚┃课堂┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://xhdwc.tk/json/xx1.json"
+        },
+        {
+            "key": "少儿教育",
+            "name": "📚┃少儿┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://xhdwc.tk/json/xx2.json"
+        },
+        {
+            "key": "小学教育",
+            "name": "📚┃小学┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://xhdwc.tk/json/xx3.json"
+        },
+        {
+            "key": "初中教育",
+            "name": "📚┃初中┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://xhdwc.tk/json/xx4.json"
+        },
+        {
+            "key": "高中教育",
+            "name": "📚┃高中┃教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://xhdwc.tk/json/xx5.json"
+        },
+        {
+            "key": "交流QQ群",
+            "name": "🏇交流QQ群‖573489929‖",
+            "type": 3,
+            "api": "csp_AppYsV",
+            "searchable": 1,
+            "filterable": 1,
+            "ext": ""
+        }
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
+    "rules": [
+        {
+            "name": "kk",
+            "hosts": [
+                "kuaikan"
+            ],
+            "regex": [
+                "5",
+                "20.123",
+                "20.167",
+                "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "yqk",
+            "hosts": [
+                "yqk"
+            ],
+            "regex": [
+                "18.4",
+                "15.1666",
+                "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
+            ]
+        },
+        {
+            "name": "sn",
+            "hosts": [
+                "suonizy"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
+                "15.1666",
+                "15.2666",
+                "16.3333",
+                "15.266667"
+            ]
+        },
+        {
+            "name": "bf",
+            "hosts": [
+                "bfzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "xx",
+            "hosts": [
+                "aws.ulivetv.net"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "lz",
+            "hosts": [
+                "vip.lz",
+                "hd.lz",
+                "v.cdnlz",
+                "yzzy1.play"
+            ],
+            "regex": [
+                "18.5333",
+                "19.52",
+                "18.6666"
+            ]
+        },
+        {
+            "name": "ff",
+            "hosts": [
+                "vip.ffzy",
+                "hd.ffzy",
+                "ffzy"
+            ],
+            "regex": [
+                "25.0666",
+                "25.08",
+                "20.52",
+                "25.1",
+                "25.1999"
+            ]
+        },
+        {
+            "name": "hs",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "dy",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "nm",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "cl",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "最 新",
+                "直 播",
+                "更 新"
+            ]
+        }
+    ],
+    "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "playerType": 1,
+            "url": "http://xld.li0580.com/uploads/tvbox/tv.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        }
+    ]
+}
