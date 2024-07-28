@@ -1,6 +1,6 @@
 {
   "log": {
-    "level": "info",
+    "level": "debug",
     "timestamp": true
   },
   "dns": {
@@ -26,21 +26,8 @@
     ],
     "rules": [
       {
-        "outbound": "any",
+        "outbound": ["any"],
         "server": "local"
-      },
-      {
-        "geosite": "category-ads-all",
-        "server": "block",
-        "disable_cache": true
-      },
-      {
-        "query_type": [
-          "A",
-          "AAAA"
-        ],
-        "server": "fakeip",
-        "rewrite_ttl": 1
       },
       {
         "clash_mode": "Global",
@@ -55,10 +42,6 @@
         "server": "local"
       },
       {
-        "clash_mode": "Default",
-        "server": "remote"
-      },
-      {
         "type": "logical",
         "mode": "and",
         "rules": [
@@ -71,6 +54,12 @@
           }
         ],
         "server": "local"
+      },
+      {
+        "rule_set": "geosite-geolocation-!cn",
+	"query_type":["A","AAAA"],
+        "server": "fakeip",
+        "rewrite_ttl": 1
       }
     ],
     "fakeip": {
@@ -79,24 +68,49 @@
       "inet6_range": "fc00::/18"
     },
     "strategy": "prefer_ipv4",
-    "independent_cache": true
+    "independent_cache": true,
+    "reverse_mapping": true
   },
   "inbounds": [
-    {
-      "type": "socks",
-      "tag": "socks-in",
-      "listen": "0.0.0.0",
-      "listen_port": 10173,
-      "sniff": true,
-      "sniff_override_destination": false,
-      "domain_strategy": "prefer_ipv4"
-    },
     {
       "type": "mixed",
       "tag": "mixed-in",
       "listen": "0.0.0.0",
       "listen_port": 10172,
-      "sniff": true,
+      "tcp_fast_open":true,
+      "sniff": false,
+      "sniff_override_destination": false,
+      "domain_strategy": "prefer_ipv4",
+      "set_system_proxy": false
+    },
+    {
+      "type": "socks",
+      "tag": "socks-in",
+      "listen": "0.0.0.0",
+      "listen_port": 10173,
+      "tcp_fast_open":true,
+      "sniff": false,
+      "sniff_override_destination": false,
+      "domain_strategy": "prefer_ipv4"
+    },
+    {
+      "type": "mixed",
+      "tag": "mixed-in2",
+      "listen": "0.0.0.0",
+      "listen_port": 10174,
+      "tcp_fast_open":true,
+      "sniff": false,
+      "sniff_override_destination": false,
+      "domain_strategy": "prefer_ipv4",
+      "set_system_proxy": false
+    },
+    {
+      "type": "mixed",
+      "tag": "mixed-in3",
+      "listen": "0.0.0.0",
+      "listen_port": 10175,
+      "tcp_fast_open":true,
+      "sniff": false,
       "sniff_override_destination": false,
       "domain_strategy": "prefer_ipv4",
       "set_system_proxy": false
@@ -114,7 +128,9 @@
     {
       "type": "urltest",
       "tag": "urltest",
-      "interval": "15m",
+      "interval": "30m",
+      "idle_timeout": "60m",
+      "interrupt_exist_connections": false,
       "outbounds": null
     },
     {
@@ -133,10 +149,6 @@
   "route": {
     "rules": [
       {
-        "geosite": "category-ads-all",
-        "outbound": "block"
-      },
-      {
         "type": "logical",
         "mode": "or",
         "rules": [
@@ -152,6 +164,18 @@
       {
         "ip_is_private": true,
         "outbound": "direct"
+      },
+      {
+	      "inbound":[
+		      "mixed-in2"
+	      ],
+	      "outbound":"select2"
+      },
+      {
+	      "inbound":[
+		      "mixed-in3"
+	      ],
+	      "outbound":"select3"
       },
       {
         "clash_mode": "Direct",
@@ -191,19 +215,22 @@
         "type": "remote",
         "tag": "geoip-cn",
         "format": "binary",
-        "url": "https://raw.githubusercontent.com/SagerNet/sing-geoip/rule-set/geoip-cn.srs"
+        "url": "https://raw.githubusercontent.com/SagerNet/sing-geoip/rule-set/geoip-cn.srs",
+	"download_detour": "select"
       },
       {
         "type": "remote",
         "tag": "geosite-geolocation-cn",
         "format": "binary",
-        "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-geolocation-cn.srs"
+        "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-geolocation-cn.srs",
+	"download_detour": "select"
       },
       {
         "type": "remote",
         "tag": "geosite-geolocation-!cn",
         "format": "binary",
-        "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-geolocation-!cn.srs"
+        "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-geolocation-!cn.srs",
+	"download_detour": "select"
       }
     ],
     "auto_detect_interface": false
@@ -214,8 +241,12 @@
       "store_rdrc": true
     },
     "clash_api": {
-      "external_controller": "127.0.0.1:19090",
-      "default_mode": "Enhanced"
+      "external_controller": "0.0.0.0:19090",
+      "external_ui": "ui",
+      "external_ui_download_url": "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip",
+      "external_ui_download_detour": "select",
+      "default_mode": "Rule"
     }
   }
 }
+
