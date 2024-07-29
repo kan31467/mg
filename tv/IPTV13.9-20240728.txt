@@ -1,0 +1,540 @@
+﻿TVB 翡翠臺 ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/3421f5eb10975742a75d3f42e1a9e848/master.m3u8
+TVB Plus,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/7f132d501fb9863844ab51697900d494/master.m3u8
+TVB 明珠 ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/39b1071182d7b6f681892eb987ad1057/master.m3u8
+TVB 無線新聞,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/409eebbd5daba3009693e9c56a2b75c3/master.m3u8
+Now 新聞,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/2d4bce7ecc18a9f1503d928442215c6e/master.m3u8
+Now 財經,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/6fd9bf9917a15f4bb611ebab4e7373c9/master.m3u8
+Now 直播,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a6bfcd43b26d35b6839e7e00927f4d37/master.m3u8
+RTHK 31,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/46dfc024334de6855d7181a10096bf9c/master.m3u8
+RTHK 32,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/4e5dc24b3e6c9cb8c5a6d51be930507b/master.m3u8
+RTHK 33,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/665c500a9ac6e2e80d7379307bbf648b/master.m3u8
+Viu TV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c023187e5a2cac2dc9defbb158ad2072/master.m3u8
+VIU SixTV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ea8c0d5ddc580c08c1a10df61504414d/master.m3u8
+Hoy TV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a0e00e72e0063a23b197b5877c9c04dd/master.m3u8
+Hoy 資訊,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/35ddc2e2a41f20dd87759003eaa6ed22/master.m3u8
+Hoy 76,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/168b522ed701b8617d3155b19ada9a01/master.m3u8
+鳳凰中文,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/721a9cb7a9160c04018ff454d96e3e5b/master.m3u8
+鳳凰資訊,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/6962576de51ac8508ee587851df80c91/master.m3u8
+鳳凰香港,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/05d251651879c24fab214e587046ad62/master.m3u8
+黃金翡翠臺,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/1ff4001bc38aeb51e02943cebde3d3e9/master.m3u8
+TVB 亞洲劇,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8f46a63a06a0c1fb94f58631de1c2c9f/master.m3u8
+TVB 華語劇,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e294a1888354abe58284b9cbb4ebf7e3/master.m3u8
+黃金華劇臺,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/453046a5e7e9cae0ab1cd1a82789548d/master.m3u8
+TVB 粵語片,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/6a254bcdfa0009d2e5066fffe06d3269/master.m3u8
+TVB 戲曲臺,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/009492d6f3919001b9014ca200393f21/master.m3u8
+TVB Xing He(粵),http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ece2334bebd4bea40671cf340918303b/master.m3u8
+TVB 功夫臺,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a1fea11a56e22f87ec4b59e79f883318/master.m3u8
+mySuper18,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/eb990bc8a2a8db3b490b7c535a7008b7/master.m3u8
+千禧經典臺(粵),http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8e2bacd197c089bfc88ca981faf2779e/master.m3u8
+TVB娛樂新聞,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/2a0cdb5166ca078fc27bc04bc6f57b20/master.m3u8
+TVB J1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/49b5926251bfc0e5166a1c407ccd1050/master.m3u8
+TVB e,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/6e3b072974bbcf7e3acd8963f6b14cd4/master.m3u8
+新時代 1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/5976b0aefa3412f7109db9ee7e39f465/master.m3u8
+新時代 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/73b0c4591d043cc3f24fdc4f9d20beed/master.m3u8
+美亞電影(粵),http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/5da0c77e46dcf7ba4c7ea846e5a98a10/master.m3u8
+龍祥國際電影,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/389f4afcc60bb19b48660b3a0564bd63/master.m3u8
+ROCK Action,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/38d7355701b6f3760ee49852904319c1/master.m3u8
+ROCK Entertainment,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b573180f84480e19294ef3175d2db67f/master.m3u8
+Kix終極電影,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/92b3b4cf79ddf460fec07ba0818b217f/master.m3u8
+Now 爆谷,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ff67939376b098b20ec246444b4e6792/master.m3u8
+Now 星影,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/915f0d6e6865ab01f68c7e71fb34acca/master.m3u8
+Now 華劇,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b21c4fbe8303d9d53895c1eeacf607fc/master.m3u8
+Love Nature 4K,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0a52a2873a8c5f0bb6a3daef5eca31d4/master.m3u8
+民視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ef4af395a3adbe2993b4b62aa7c332f0/master.m3u8
+台視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c10681f5d8719688d607e0be89aea3aa/master.m3u8
+中視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e714d83508be862fd094244c41d5adcf/master.m3u8
+華視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9ca99f2feea7527a458b8db3daeaedf8/master.m3u8
+公視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d6434074feec3061fcf081b38c2cc581/master.m3u8
+民視第一,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9a3a9a7c2e95d6c08a05f400cca0b89f/master.m3u8
+民視台灣,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8586e5262d37afde99d0e6f8cc102987/master.m3u8
+民視新聞,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/399c37b3c65920b44bd967c2d0870a09/master.m3u8
+台視新聞,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ad13cd4527b8f83cdf8aba48c0a2c4bf/master.m3u8
+中視新聞,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/164f084d72f99963ad313579936eb411/master.m3u8
+中天新聞,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/15f93e801354ec23261e3c21a4dfb1c6/master.m3u8
+TVBS新聞,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c58d2adecef4a3367548a989d4ade391/master.m3u8
+東森新聞,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e2f568162378c8866da7e75ad6cb3791/master.m3u8
+寰宇新聞,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8597f1a9e2f637e2b49356aa3aa69be0/master.m3u8
+寰宇台灣,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ea9822359f8d205be5541144831702d0/master.m3u8
+壹電視新聞,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/2b625794a646ae54ebbcfe402d2550d0/master.m3u8
+三立新聞,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d6674befb31257091c2a32801178cabe/master.m3u8
+三立iNEWS,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/7721236535a265bed9a3e07ac8fe434b/master.m3u8
+年代新聞,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/aaddac84f4a4de6743d2eecfa4fdf525/master.m3u8
+非凡新聞,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/10f69dec4eb81a9b5b2b02a8febf1f79/master.m3u8
+鏡新聞,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/43ae0add70fd1bda16d0700282cd8d2d/master.m3u8
+華視新聞,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/61c0aa25fb46aa9d395421509031c51c/master.m3u8
+緯來電影,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0dfc58e02766aeab4f2deb98614a67c2/master.m3u8
+緯來體育,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d46d67618250f159bb0370012511516a/master.m3u8
+緯來戲劇,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/03b237499eda37b9a036a78bdb43ab0e/master.m3u8
+緯來綜合,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8f541992d2ac9b7a02e901e54509b86f/master.m3u8
+緯來日本,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/4d0c7dd466d81c008bc821513eef9aa4/master.m3u8
+緯來育樂,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/90530eaf17e69e10436ed1ed97d1aeae/master.m3u8
+緯來精彩,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b3479d4a522ea331721c97b80dcf4b8b/master.m3u8
+東森戲劇,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ab05768102083a6a20b606caf4e854d1/master.m3u8
+東森綜合,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/6e024f20a05bbcbfec866e677990e94d/master.m3u8
+東森超視,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/df3ad4c619b0002e6a005ffafd7b1eed/master.m3u8
+東森電影,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0a481496a73c48a77f919ea5478f7e74/master.m3u8
+東森洋片,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/fb6f1cee9ad2b256e482dad9f73dfbea/master.m3u8
+東森YOYO,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/50edcecf560a6895338330c71e52487f/master.m3u8
+東森亞洲衛視,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e87f59b5adcc19149a6380c41ddb47af/master.m3u8
+愛爾達綜合,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b1914affeb0d5e3530a9f6a990c7ab4d/master.m3u8
+愛爾達影劇,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/03965290571a8ddb74f55d8510c09827/master.m3u8
+EVETV 旅遊,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d9376017fcc2cf7fc5952ebdc4ddda88/master.m3u8
+EVETV 戲劇,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/570082a04df7833905f67d19082eacc3/master.m3u8
+愛爾達體育1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9ca0911c025dbbf4374f23f7e1fd5cf8/master.m3u8
+愛爾達體育2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/221fdcec5aea8839fdee8b29cb8f2613/master.m3u8
+愛爾達體育3,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/2ea23a7672902063f46f94bddd73d437/master.m3u8
+愛爾達體育4,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/802a6b71458155f793960cf81103ffb6/master.m3u8
+八大綜合,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0d4dfdf665ab4530d69ba11b80274b9c/master.m3u8
+八大戲劇,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0b5bd9bed5d7fdbe8ac07a78da04215b/master.m3u8
+八大第一,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/89ced9a4f9dde6efeca170da439d6581/master.m3u8
+八大娛樂,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/33262876cfb820fdbd5fe793f7850693/master.m3u8
+三立台灣,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ef2fc191b597d897b8dc8b240d72a53b/master.m3u8
+三立戲劇,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9563d350bd4d5b41dc871806b6f096f6/master.m3u8
+三立綜合,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/5e76779d479dc09c057dddd88211b465/master.m3u8
+三立都會,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f53d5f896886f193714f0387df7962ef/master.m3u8
+中天綜合,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/31c0b567b4ca301d80de4edf494100f6/master.m3u8
+中天娛樂,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b7098f36c9bcbec4bce67826162c7836/master.m3u8
+中天亞洲,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/643bf48f0066e832a04fe6656477323b/master.m3u8
+壹電視綜合,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ccd7f8f280082a3e176dc387e1bbb03c/master.m3u8
+壹電視電影,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/2376f116a6b400cd17127b1dbd5d0f9b/master.m3u8
+台視綜合 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/455c71326ae812105c28bf8c016d28fd/master.m3u8
+Warner TV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/416286c055fb22e47f7ac21b5d42914a/master.m3u8
+Cinemax,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0a174722aac30010c1059f2f8b1b5769/master.m3u8
+CRIME,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f5eed124e1518fa907745918d21d62b3/master.m3u8
+AXN HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/625fa0bfdb706073072b1d52884d47c6/master.m3u8
+歐洲電影,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0d39cd8d699bd48caf2c9e5082ea4904/master.m3u8
+Thrill 電影,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a1fe99f13f321d96d1c4e635e45a0a5b/master.m3u8
+amc 電影,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/3654b34017508a963ccce2426e91e4cd/master.m3u8
+數位影迷電影,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e6a8e89c86fc801102f3279159ff6e06/master.m3u8
+CATCHPLAY,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9df160ca2db758f9962816cc217e0d42/master.m3u8
+tVN HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/cadd566d97f5c3490363a508e17ad80c/master.m3u8
+龍祥電影,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/1cf3975580316c4638ebaf52c4bd468e/master.m3u8
+曼迪日本,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b513a8fea1c64b9d5ca45633c5dd7798/master.m3u8
+動物星球,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/637fbda9541729f03a89bcdef54607ca/master.m3u8
+金布袋戲劇,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d31b875c6c103d8620e3b3cd8fe5d05e/master.m3u8
+中視箐采,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8b2eac1d213ca95b6a5028b42f7f08fb/master.m3u8
+中視經典 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/6c44a9300c20d007fb60bff673299316/master.m3u8
+美亞電影,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/45355156b2cc79641802f1812d6b412a/master.m3u8
+龍華電影,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/4132e6c4c29bcbcc6cdf140ed82dc97a/master.m3u8
+靖天電影,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c7d7efcd5ea6206d0813b0d768b353f8/master.m3u8
+Hollywood,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/df2313b07ed7fb893f6e779b3b2f29a6/master.m3u8
+龍華洋片,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/cf89727e55702776b7334f4a445be725/master.m3u8
+龍華戲劇,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/70006bc206cae56d8b08dac9fe1ad0c3/master.m3u8
+Jet 綜合,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e55a54f6dbf4f6da1295aced714481f4/master.m3u8
+亞洲旅遊,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/59897af58d7ddaaa26e0d62abf22fe0e/master.m3u8
+Travel,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8809f77768c5aa8c97254164fabb9353/master.m3u8
+HGTV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/775e933aae6c7d93bdb86c9105517555/master.m3u8
+TCL HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/6a131c7787906584fe6bbf29c4557d82/master.m3u8
+HBO-HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/20590cac6bdbb1d87c1d1587da998b23/master.m3u8
+HBO-Hits,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/25a922818e091442f296da69bce926e3/master.m3u8
+HBO Signature,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b0575f8b24caeeca23273e8dbdfb27e6/master.m3u8
+Eleven Sport 1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a27322831b1b3fe686e697dcc28f841a/master.m3u8
+Eleven Sport 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/697f806a3165d40eb9159a577d2022d4/master.m3u8
+HISTORY,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/4d03e96966ff48b4efc233d183ef55aa/master.m3u8
+Food Network,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/25a81df4364d32613794af6c800db478/master.m3u8
+Dmax,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f421bb4c49f8fea84a5b4c8e37daa350/master.m3u8
+Lifetime,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/848fbf04efd0fc0f0bb542db233644b0/master.m3u8
+探索科學(Sci),http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c5c568f0c670755ce683f1e519a84575/master.m3u8
+BBC Earth,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e15f56f96c4ff3030086b276c048cc27/master.m3u8
+evE探索,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/675f89f7b511e0b9e42eb41ab41a63be/master.m3u8
+Discovery Asia ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9737e18eab1510f12556cd3ef0be88e3/master.m3u8
+Discovery Channel,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9865a13399ef170700666d6745c4a590/master.m3u8
+BBC Lifestyle,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e4440703cf0d73e2d37edc2e71386a7f/master.m3u8
+數位影迷紀實,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e03b75ca77b5c7e4c958419261348677/master.m3u8
+視納華仁紀實,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9f7faf99f99aae42886c714578796db7/master.m3u8
+台灣戲劇,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/80502c81d1ff12baafaf108bae891dae/master.m3u8
+Cinema World,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d56437587db8ec8b924fba4811f9fbad/master.m3u8
+霹靂台灣,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e45aba1f3c71ab27860cc6e3ad6e1403/master.m3u8
+國興衛視,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/db994cd74a65aceab837994fb1f802a5/master.m3u8
+Z 頻道,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ae73c2ca43805ddac46118335d303485/master.m3u8
+高點綜合,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/85b80d21653794fb9bd95aef86ed797a/master.m3u8
+韓國娛樂,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e21d8345eeb220c31c6c6b0ecc3a10a2/master.m3u8
+人間衛視,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/2ab376cf174fcb0375df3f8d2b581d67/master.m3u8
+東森購物 1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/810a19a653c4ad92ec40cd6da5cbb826/master.m3u8
+東森購物 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0a058ecc2929c07593b8c42053aaaa7c/master.m3u8
+智林體育,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/611cde0ee854fde2091ad562663fc43b/master.m3u8
+Jia Le Channel,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f97be07963250deb61f396c4cbf88b7e/master.m3u8
+e-Le HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/2871f548c46d660c203ecc56546129a9/master.m3u8
+CM + HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/3626c5edff5f6f56a463f80649fbf3e5/master.m3u8
+靖洋戲劇,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c80eb547c48a1d39152694418865c878/master.m3u8
+NBA HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8e617358cf86c2b4ce01ad8309d2ac33/master.m3u8
+CN卡通,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/aa645bb37ad1c6878e27944c33486ad2/master.m3u8
+momo親子臺,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f290215bb0c11cd7851c7c4c716dcb04/master.m3u8
+animax,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/eedd8aa48c2551810f02b818fd5863a4/master.m3u8
+TVBS HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/7d48de513e9337dc3d99b199fe8fe8ad/master.m3u8
+TVBS 精彩臺,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0f61fb0992cdb5f5a914f51c975edee8/master.m3u8
+TVBS 歡樂,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e079ca6d4da7b98787a32dcb5018b428/master.m3u8
+龍華偶像,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b538017adbb79f4d0006a9f0623370f3/master.m3u8
+龍華日韓,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/fa060e5d157fe0bd3a8961b246c0385c/master.m3u8
+龍華洋片,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d373a6ea00b6114f4e1adb7ad1905472/master.m3u8
+龍華經典,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a1a9c7deeea5014592e07b2eb79b7e94/master.m3u8
+龍華卡通,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/fc01e73e4e50fd86817068fc88b98f16/master.m3u8
+靖天日本,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/cc0431bb1f4f1abf75bf1fafd81b8ea3/master.m3u8
+美食星球,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/7ef3378f6a1c0842c9cda4c6ba18a372/master.m3u8
+博斯運動 1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d8cac53e8c520a2deb70d5fa26773193/master.m3u8
+博斯運動 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/019d45aa09f5ccfb61a9a90a417c2ee3/master.m3u8
+博斯高球 1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/882c48ae1a2728044601c49ba6e755bb/master.m3u8
+博斯高球 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/5cef935feadf9fdf705d3f3ca4f77c92/master.m3u8
+博斯網球,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/116c4db7892c076b0cf1a9395b9bcfe4/master.m3u8
+博斯魅力,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c1bc7b7a270585a2b75c204bb1dab313/master.m3u8
+博斯無限,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0715b263ffdd5b7935c4429c63af26ea/master.m3u8
+i-Fun 愛放動漫,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/def1ec4737a0cc5bd3a7997fa5f24f55/master.m3u8
+采昌影劇,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/96290e218aade391901db1fa5d9b9d55/master.m3u8
+Now Sports Prime,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/902de873f315904e11a86731ca9684b2/master.m3u8
+Channel 5,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/01a6b5927f824732a5a277a29c224752/master.m3u8
+Channel 8,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/18d72c721da6357241a4b189e0fbf981/master.m3u8
+Channel U,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a4982a32d0f4ba20f67e1219ccb080d4/master.m3u8
+Vasantham,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a6987b9690377fee554a5999c7ca74a0/master.m3u8
+Suria HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b359882c40f3ceee373caf5fb3f9ec22/master.m3u8
+CNA News,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9d49e929fbdf4c4a0ae1c8b89e42afc0/master.m3u8
+HBO HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/aa012ceb45fc37a4b0e0cccb8bab19e5/master.m3u8
+HBO-Family,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c3b7fdeda6b1ec34e2fec7fc9eaa7159/master.m3u8
+HBO-Hits,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a1c5dc40b08569c8a8dac01ee39b19f1/master.m3u8
+HBO-Signature,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9df4f9a658c0cdb48946163ed0ea1ac7/master.m3u8
+Cinemax,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/02a37ff81d8aa3f80c081758cc5d0625/master.m3u8
+Hub VV Drama,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/dad7cb8aafd9d7d1cb1fd808a618debc/master.m3u8
+Hub ECity,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c357d68f9c177793bb83375260aa5bf3/master.m3u8
+靖洋卡通,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8c09ce560d808ea8cbbba62999379364/master.m3u8
+Hub Sports 1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/42eb0e26a9b101bb03da9519938900b3/master.m3u8
+Hub Sports 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8c7586eeda6100c7075fe0a51596860f/master.m3u8
+Hub Sports 3,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/86c33d9cbf95321ae1939c06e40f9393/master.m3u8
+Hub Sports 4,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e2747de32acb1e6504131a57250269e2/master.m3u8
+Hub Sports 5,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/11a7d2cf767b2ab833e27320c3a92f12/master.m3u8
+Hub Premier 1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/faef2c162b433d8e1df2263cb48d0b66/master.m3u8
+Hub Premier 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/14621d84906ade44d92d6ec4a82a35a5/master.m3u8
+Hub Premier 3,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9fe4841e845a82151a1e9a65ff2fcb3a/master.m3u8
+Hub Premier 4,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/be0e7fd32780be8d4c41c0be05d2394f/master.m3u8
+Hub Premier 5,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/295e240cd069fdcd178fa56f90458fbb/master.m3u8
+TV1 ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f704d0668f0708f4da2ba6f5d4a39f25/master.m3u8
+TVB XingHe,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/bed5ad0ed17a563858bb793e3bbeec83/master.m3u8
+TV2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e9ba737296a159981ed51a7a523063d2/master.m3u8
+NTV7,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/702dd6a418516b4ec0ea154f50159f69/master.m3u8
+TV3,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9ec5fb1f6b363d5fdb405bb0ebf70621/master.m3u8
+八度空間,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/7975a0a581bf1f8ab03ebb108d5d2551/master.m3u8
+TV9,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/89b0608f605942f01448b050de49cb4d/master.m3u8
+Al-Hijrah,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c450d1e5f3d8198fbf0df346ca051508/master.m3u8
+TVS,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/328dbce81a0b9867cc6d8195c0d7280c/master.m3u8
+AwesomeTV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/523fc22e1820180c73a77345e63a2735/master.m3u8
+Adithya,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/6fdd6fdafc3fd2af7e44ad46585ca528/master.m3u8
+KTV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d58c3c58d11b05fa34b549a7fdf12d5d/master.m3u8
+astro Awani,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/60627beacc1982bee937f478e98d80b3/master.m3u8
+TV Okey,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b0beb1f5fc28010848a176db64abdd3c/master.m3u8
+Sun TV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b13811aac391bf01addeb714b1f812e3/master.m3u8
+Star Vijay,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c3d8a01e32936eb9d89b44a3e6510868/master.m3u8
+Sun Music,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c50c0fca46eb62427a47508a73f01b18/master.m3u8
+Sun Life,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f3b0c43f933696f9513e5916dd96543c/master.m3u8
+Sun News,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0ffafad596c16ff64b045601bbaba813/master.m3u8
+Zee Tamil,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c2735e5747364effe7292898b87cd355/master.m3u8
+Color Hindi,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/803a8f596321d7edf2430ea679e628b1/master.m3u8
+Colors Tamil,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/49963117d882ed4fb613e63d5b6d5727/master.m3u8
+Zee Cinema,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/58025623771eaf2ec8c57b7098222d3f/master.m3u8
+Zee Ction,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/11a03f54d0b3542038159ae12bed40e5/master.m3u8
+Zee HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/16829b0598ee324760e8624f9227498c/master.m3u8
+Global Trekker,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/548d1d57d0a0e800bd74b8447c58b78f/master.m3u8
+astro Ria,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/af95091577c1286ae31c3b3d50b960a5/master.m3u8
+astro Prima,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/3c00ab9ee5f47c8afc7ab4fc62342ef4/master.m3u8
+astro Oasis,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/acdcfbf3927d2e22db441b93f1c286b6/master.m3u8
+astro Warna,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a01b196d2e00839b95344f5bc4fe431c/master.m3u8
+astro Citra,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b6f071d64ae66c78e56785cb2da4c351/master.m3u8
+astro Rania,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c7429da12a9c8d3f646b0be8e4b8ec90/master.m3u8
+astro Aura,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c11807299e8ba167645c32f333dddbfd/master.m3u8
+astro Premier,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ec91ef19b231556e2125019c4e57e804/master.m3u8
+astro Ceria,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c2080cb75690ab595e9805df9ee67537/master.m3u8
+astro Tutor,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/841b966bd29cc2c232711f1838208f04/master.m3u8
+astro Vaanavil,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ea954a0db5ef9725357b898876823a13/master.m3u8
+astro Vellithiral,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9ec767a823858ed77ba6cc98eb384c85/master.m3u8
+astro Aod311,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b25229b73f380c2e00f183065154cb9a/master.m3u8
+astro Aec,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/bfdf9e166ef1a8acb579707f0abf4db9/master.m3u8
+astro QJ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b081b6c4b053413aac60b0a68d701bcf/master.m3u8
+iQIYl HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/477aac900be6641a3988aa746d31c380/master.m3u8
+astro HuaHee,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/cb42e130d1471239a27fca6228094f0e/master.m3u8
+TVB Jade,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/74b70b20083bbcb350c66725977c0358/master.m3u8
+TVB Classic,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c2670184854b999781bb9c24c7333828/master.m3u8
+TVB Xing He,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/81a50586dca72dc07ce166e17393c68e/master.m3u8
+TVB娛樂新聞,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/111e51bac95675f68819bf840419068e/master.m3u8
+Celestial Movies,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/92e11cd25c8373e8893e3630df2629fc/master.m3u8
+Celestial Classic Movies,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d48c96b20a29f84cb0b24480c35b365a/master.m3u8
+TVBS-Asia,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/aa3c9a71215025755dca7dcd7f6f4bee/master.m3u8
+HBO-HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ab7475c1cfcfc4584cfa55c3ee3ef0f8/master.m3u8
+HBO-Signature,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/11652a46e15f489e2f4ce38f60713d37/master.m3u8
+HBO-Hits,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d9a15a6cd6cae4f2e5003e01fc0f652e/master.m3u8
+HBO-Family,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/cc09df790c9d46f026525facc5bcad73/master.m3u8
+Cinemax,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a14a119be3d439ad33a99cb10c5e007c/master.m3u8
+axn HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b3dc755b0811fc1c27f139792ce5c788/master.m3u8
+Hits Movies,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c6bf5ab578604c83259241a886c6829c/master.m3u8
+Hits Now,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c2c6d2cf04efb6e8ad60b5aeebbbf757/master.m3u8
+HITS HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0311207e1b03e41905c3b82fcb7e3ecf/master.m3u8
+Showcase Movies,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/08efc9608882e3cee283e816f4cd1f13/master.m3u8
+Boo HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8aa506101434afc42aa290f57829f591/master.m3u8
+tvN Movies,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c244f71498a0dbfb70c9fc135fa75210/master.m3u8
+Warner TV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e40f4c8b590d5c58e8cfc3f2a5a26bfd/master.m3u8
+CCTV-4 中文國際,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/7d3f383ce4a6a8d8912aa5ddea9187e0/master.m3u8
+CGTN HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9a5d84098d5f466fb660126a1c1e413a/master.m3u8
+CNN News,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ad4ea004bee38ff324bab6a08a646ab7/master.m3u8
+BBC Wold News,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/158d7489ac73ee03540f06187d829648/master.m3u8
+AlJazeera,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/11cf6faab1fd3876cd627ee3e311c9db/master.m3u8
+Sky News,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/538ed16c24b72caa2a11f718f649186a/master.m3u8
+DW News,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/057583eb11a7e8ab17336095273be216/master.m3u8
+France24,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/3dd835da17017849816a5ef9de376a16/master.m3u8
+CNBC News,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/63af2e28b2f2d64807dbb9c2ed27e206/master.m3u8
+Bloomberg,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/22c37a74f81e457952ba7f5aef92dca8/master.m3u8
+astro Sports 1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/cd338e888579b7aa03aeafa2a8ec4d46/master.m3u8
+astro Sports 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/bbcce10bb29e80e09c090a992bf1a70c/master.m3u8
+astro Sports 3,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/04fa7cebfda9e5c252542590cd2742f2/master.m3u8
+astro Sports 4,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/57e87fb7cedfdc783c7134a5aa36a50c/master.m3u8
+W Sports,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/6ee12152c0cf7187c8eb94f8eb5180c1/master.m3u8
+astro Sports UHD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/08b1de0e6c467a1091152fc83ba0702b/master.m3u8
+astro Arena,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9b4a1c49b9f2f3e78e0423fca8f8d0ec/master.m3u8
+astro Arena 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8875271001e3108686a908c2743dd9fb/master.m3u8
+Astro Arena Bola,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/fb024832e51eb5f6da9113a745f1eb59/master.m3u8
+astro Arena Bola2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/3d56977b7f04c5764bc3c47fa997f543/master.m3u8
+astro Cricket,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/2d40b082b596ca4efe452a82dd484c68/master.m3u8
+Premier Sports,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/3780e0ca278caaf2cc45e9a6cd893b0f/master.m3u8
+WWE Network,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/44f6a607000e7bbe35d693d4e68cc46f/master.m3u8
+SPOTV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/023e3e11aeae9849d3cc742f73b512c2/master.m3u8
+SPOTV 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9b3c88ea5ecafebc28758af560250cc2/master.m3u8
+beIN Sports,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/82037cd6cf5b63054a6aac0c07a6fc34/master.m3u8
+beIN Sports 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8d7cab0a23ea933ba2ee23dd6973e970/master.m3u8
+beIN Sports 3,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/35b2e91c092079a78eb3226612165fa8/master.m3u8
+Golf Channel,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9f80ca510485eaa3ec2e91c819fd82e8/master.m3u8
+Euro Sports,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ab709d5683e36505b3fcab7434b9d621/master.m3u8
+Nickelodeon,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/76dc60c540f251cbd0dfc5622bfd43ba/master.m3u8
+Nick Jr,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/aaea61260abbb957eee73d947d1fafdf/master.m3u8
+Dreamwork,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/783148ea379af1ef463650a1f1d6a850/master.m3u8
+Moonbug,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/989165300b16d874d1e6108b68cc0135/master.m3u8
+Cbeebies,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/665bc340f8bf7f568bbdb291867120b5/master.m3u8
+Cartoon Network,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a8452e1b2ec701fa21774f70be6ceeae/master.m3u8
+tvN HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/edc2c7ba16dc3f862d1478e87101bea1/master.m3u8
+K-Plus HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/7445c50e6c60078b52030cd7d9ba0d33/master.m3u8
+One HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/3be43c7d4afc9798acfeae1512cce131/master.m3u8
+KBS World,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8896be3209be46db0bdbb09d79bfaf57/master.m3u8
+MTV Live,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/88eaac40b27c1b47df9a3f7b7d71e3e3/master.m3u8
+Discovery Asia,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/5c199234210e910129d3913b58bdc9d8/master.m3u8
+Discovery Channel,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/de98b70556891f32dc6d7ef19ad2637a/master.m3u8
+BBC Earth,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/33b8b643e44ad1deb0fe8c8050bc5834/master.m3u8
+BBC Lifestyle,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/4fe889c93ecfe8aa3956dc657e0f2078/master.m3u8
+Crime Investigation,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a268bb405ca323b3b8fe0f89ccd480dd/master.m3u8
+Dmax HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/4794285293a7b52f41697d01f2462953/master.m3u8
+Food Network,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f25a201812433aa88b05e142c965d8d4/master.m3u8
+Asian Food Network,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/dd3f24031c9ab7b8c685a8723db5f5d7/master.m3u8
+HGTV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/fbe91946fe45295a40217b5b68f9b9f7/master.m3u8
+Lifetime HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/6b76685945f4ecd0f94f9a6dff519e2a/master.m3u8
+Animal Planet,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/105526a18ca14ceb71169e5df3cb9129/master.m3u8
+History HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/4da0acc12b261338dcdf67d665bdad50/master.m3u8
+Love Nature,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ea12883f73c90206075c456e0c254e5a/master.m3u8
+TCL HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/96b946211028d5c32566ef3e89676f2d/master.m3u8
+NHK World ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/631698b2dfde009cd1ffe06261d1cd78/master.m3u8
+Ta Daa,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/77d1a9f59b04366bafb099b33c88afc1/master.m3u8
+ＮＨＫ総合東京,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/705705e1dadf1b01f2602718fd42dbcc/master.m3u8
+ＮＨＫＥテレ１東京,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a981130cd6ea8d6232b4085a7082d1f6/master.m3u8
+NHK BS1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0c1e32a8fd904a4c2b67521bf52932a9/master.m3u8
+ＮＨＫＥテレ１大阪,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d74d6a6346a975b5b15313f960c51f80/master.m3u8
+BSテレ東,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/343836d31ccd40b9d123e20f0acf9880/master.m3u8
+BS日テレ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/5381296911a43b9bdff7719baf16dbe7/master.m3u8
+BS朝日 Asahi,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d2021ae296b77c9a8eb971709f912179/master.m3u8
+BS-TBS,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/77048f806250befa4fe1d013716daf2c/master.m3u8
+BS 11,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ad8ac21a6ffac4599e90fafd7e587e5f/master.m3u8
+BS 12,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ab94ddce420f2ac1885e9ba4c449f8aa/master.m3u8
+BSフジ Fuji,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8f389886e499f990fd9ff4b5080a7270/master.m3u8
+BS釣りビジョン,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/17f24929ad4a02185262f7485b5e1922/master.m3u8
+日テレ NTV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/055c114b4ec6e9a24440d5a57e41096f/master.m3u8
+WOWOWプライム,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/483e0c8e000e78b2e542580cee0d8f40/master.m3u8
+WOWOWライブ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ebacd125e86710045a46a433df9dc997/master.m3u8
+WOWOWシネマ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/cee928cbd4c75e8ff71850aff23a9060/master.m3u8
+WOWOWプラス,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/faf1f1e7a1e862ce2dcc6f8d0595c479/master.m3u8
+テレ朝チャンネル1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/da04c1913539bf666db3aeea3735df72/master.m3u8
+テレ朝チャンネル２,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/080105180df6dcc59162ac18d65d1ffd/master.m3u8
+テレビ東京 TV TOKYO,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/bba217b779cb9274035b40a1f6160c33/master.m3u8
+TOKYO MX 1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f0dea8f4899b47e354af4151eca7acbe/master.m3u8
+TOKYO MX 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/639f46aaea664038993452c4b9f27d03/master.m3u8
+関西テレビ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/dec20c8a14296fe5a91d1380731b451e/master.m3u8
+MBC 每日放送,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/37e180f167adae7d78db0333f8ca4428/master.m3u8
+TBSチャンネル１,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/044d3de15284131bc1a6134ad1e3d453/master.m3u8
+TBSチャンネル２,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f311e7de1f04ee418902581fe18cb565/master.m3u8
+チャンネル銀河,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d135343e1efbfac19e8ea9ebd72b532a/master.m3u8
+スター・チャンネル Star 1 ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/44b4c10e78779f19feae25382afcb42a/master.m3u8
+スター・チャンネル Star 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/7cc0449a14df43ea61cc08304aa3a138/master.m3u8
+スター・チャンネル3,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a75442b83b8647a6120c3d8ea51fb53a/master.m3u8
+ABCテレビ Asahi BC,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/993d5099ad98967845d35aa2fb30cf16/master.m3u8
+読売テレビ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d89aeaa1c8a531dbd25f01452125e3cf/master.m3u8
+FIGHTING TV サムライ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0367381d4aa578d72648abf19f56774b/master.m3u8
+J SPORTS 1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/244b54b5b5bd8736ba7c95a5230694b6/master.m3u8
+J SPORTS 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/01133e06697f56776c2628dcefa723b8/master.m3u8
+J SPORTS 3 ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ab50e73356f54014affe0b3a58ca7908/master.m3u8
+J SPORTS 4,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a80c4c7ea05a2953e414748123766b53/master.m3u8
+ゴルフネットHD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0d42593598b0c9e12380f5e7fe7cf2ad/master.m3u8
+日本映画専門チャンネ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ed6c5f555acb134fc48e5ee423ad95c2/master.m3u8
+時代劇専門チャンネル,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/77314016c84e6ce58b06a49c66d751d3/master.m3u8
+衛星劇場 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/93b8fdd012c62f1e31602283591f51d6/master.m3u8
+BSアニマックス Animax,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/738dcfad87035248c1cf99ee1ff39e01/master.m3u8
+フジテレビＴＷＯ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/6ec8b5c88d7a44b6229ed1629b0abdc4/master.m3u8
+フシテレビONE,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/82fa90c317f7690387627401a0814c0d/master.m3u8
+フシテレビNEX,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/24d32fd9d90b97ef0dcd102dd3e36695/master.m3u8
+フジテレビ Fuji TV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0f3f61fb1bd5e28e1b1b06c8bff809fb/master.m3u8
+MusicJapan TV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9d224511bc49f4a099ad5d35be1b2b23/master.m3u8
+日テレNews24,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/072f826c4e937e8757f206c2e9cb6aed/master.m3u8
+松視1臺,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/3e978eca0b9be3c1c025047dd286d7d8/master.m3u8
+松視2 臺,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b0d463ef2d045e74afae2d41b9a9d2ef/master.m3u8
+松視3 臺,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/22eb157749194bfec31dcb8a9536a0b9/master.m3u8
+松視4 臺,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b83239991a6e146d5f0721c58cd6bc2b/master.m3u8
+LOOK HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/98bd006dc365815f24dd96536c0ee5e4/master.m3u8
+HAPPY HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/98dc69d2ef9bb6b08489ca50f93287dd/master.m3u8
+彩虹電影 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e20d759751c7ee463767abfb539be10c/master.m3u8
+彩虹 e臺,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e3130e8bd07a702f7d27c7a0ea69d748/master.m3u8
+彩虹 K臺,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/1a4e66d82062c1e8e754000c6c29d8d2/master.m3u8
+香蕉臺 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/2d69437a8fa39e5d3e54965ed5d506cb/master.m3u8
+驚艷臺 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e9988c7bd5262dc024014e36a9f13bce/master.m3u8
+潘多拉完美 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c0ee82934d5f5c5cbbbbcf0e2fea7e37/master.m3u8
+潘朵拉粉紅 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/13f85e6fe6905c350cd6fd0b4b270927/master.m3u8
+JStar極限電影,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c15b86eab625bd1d7e6bb9d2296cc2c8/master.m3u8
+Hi Play HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b1054957be8101de71a22a7dac18b737/master.m3u8
+Paly Boy HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/1bd538831baac7c145841745f6b20ee4/master.m3u8
+Tōk yō HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0d074cba5ba0782a9929b86804316f02/master.m3u8
+Nick Jr HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0b71259e2b44f85f57604a7313255390/master.m3u8
+Nickelodeon,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/74bf205bf4e388b9197ba5fbfcb5754e/master.m3u8
+Cbeebies HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/20362ba4d287750fc1ca2244d3ccc459/master.m3u8
+DaVinCi HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f0f7b88756efa8c2f82c6cce369f687c/master.m3u8
+廣東體育 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/37716cb0c972e978403e3223910c11bb/master.m3u8
+五星體育 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b402f578a707b9fb83363a0f154b5ad2/master.m3u8
+魅力足球 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f05f33e57ddf626f9dfd72b236056d0b/master.m3u8
+新視覺 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/2d182b4f100fece93b01cd89c28711af/master.m3u8
+Sky Sports F1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/46ae3e4b780a159c3d20046a21b322fb/master.m3u8
+Sky Sports Golf,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/5e7c53f0e96973e61d73d3e8e3bbccfa/master.m3u8
+Sky Sports Mix,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/847e20a80937b8dae0044775e0962350/master.m3u8
+Sky Sports Arena,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f934da0c7ed5ddf316ec09129d96aa7f/master.m3u8
+Sky Main Event,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/277f255555a1e4ff124bdacc528b815d/master.m3u8
+Sky Sports Cricket,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f852f4019b1d601e346cf4c3c01b9663/master.m3u8
+Sky Sports Football,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/7dc4755defd07fc94d13506653a5086c/master.m3u8
+Sky Sports Premier,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/2f5830e6e879c4307187f838964bd1d7/master.m3u8
+Sky Sports Tennis,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ebfe9ec770744dd1c91ee60c147dfba4/master.m3u8
+TNT Sports 1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/cbb26ccc02683c55e0e08b2819fb64d1/master.m3u8
+TNT Sports 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/311f3714d5dd9649e6615d7692257486/master.m3u8
+TNT Sports 3,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/13fc70c8f612ccf3c4f9cec9e68a752b/master.m3u8
+TNT Sports 4,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9d0decd4c9d1dbd00ce1ad16cc77fde9/master.m3u8
+MLB 體育,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ca8de7e81ce83e0f2cb1f0c74a1947f9/master.m3u8
+CCTV-1 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/acb5bccceb45633804405de97ead7d3b/master.m3u8
+CCTV-2 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/fe9d9cf4ea87932abc5457a5366f28c3/master.m3u8
+CCTV-3 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9c67d45b40421c53ce40c027da10d161/master.m3u8
+CCTV-5 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/4d7a04c034adc012ebb1a9ee53c8c387/master.m3u8
+CCTV-5 Plus,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/133c59f339ba51d2971db97df81362af/master.m3u8
+CCTV-6 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/2dbfab19eadf0bc16c5638958656c8c9/master.m3u8
+CCTV-7 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/bdc7e41ea29c08920aead57bedfda415/master.m3u8
+CCTV-8 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/486de0e598ef4babaa3cb5a993093eb3/master.m3u8
+CCTV-9 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/1278eac94210144cd7fea04b2bee345e/master.m3u8
+CCTV-10 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/700d6047b4ee2516812769c7375f647a/master.m3u8
+CCTV-11 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/da6764e3e4b17b4cc4491f5506a25439/master.m3u8
+CCTV-12 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9b722df548f02d951962a839350b340f/master.m3u8
+CCTV-13 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b436be97f63e570c1c082d1a7dbb12dc/master.m3u8
+CCTV-14 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8c4a77ad9c2eab39cf7e24f84f4cf33d/master.m3u8
+CCTV-15 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/565bd10adf10c3a748faf19496cafaa9/master.m3u8
+CCTV-16 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9e2e30033758422cb3f0a7b0f82bf580/master.m3u8
+CCTV-17 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/36184faaf595d9ddd4a04e0d5cf2637a/master.m3u8
+廣東衛視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/4fc4fb445c5a35bede6e412de41f9b71/master.m3u8
+江蘇衛視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/1f84745ffe36e0d961ef75014a7db4f5/master.m3u8
+東方衛視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c6a34acd6bb596a699ca879f62becf27/master.m3u8
+浙江衛視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/021cdb88a0938f57a126d463c2829092/master.m3u8
+湖南衛視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0ace182fa988cb87954a1ad88b9ec094/master.m3u8
+深圳衛視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/1a0e63d73ea960e846edbc8ef287d22b/master.m3u8
+北京衛視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/61c85f379d82da0a55517b8b452a5c76/master.m3u8
+天津衛視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8bcb70b4305ee6c0a255255635a19ad6/master.m3u8
+東南衛視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a1f272e0876f1cc83c22e68da9c9be11/master.m3u8
+湖北衛視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d78dca82adef373f41ffb4d75e68f8b4/master.m3u8
+四川衛視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/dba8c7ad30ef8c285e7c6a7af388fd44/master.m3u8
+廣西衛視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/829694e4a95ffa94a65e845d91f3f974/master.m3u8
+廣東珠江 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/82af81884e133d88ef4913abb4bdfc77/master.m3u8
+廣東影視 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/03d722323aca41dfae9040f35951d361/master.m3u8
+廣東新聞 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ccf344572ad9f6f69ad2efae02e76dc4/master.m3u8
+大灣區衛視,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/87b0199068bb80311573034bc9183947/master.m3u8
+TSN 1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/33d8b266882ded5f905e74466080f618/master.m3u8
+TSN 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b41df4ef0068d990f6ea2fae6c219e28/master.m3u8
+TSN 3,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8033f1603312499fce057f5fd3b5fd8e/master.m3u8
+TSN 4,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d403c1e3e07182b0f535b71f8f54d9f1/master.m3u8
+Now Sports 1(英超),http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/5ba702600b2506eaf192636265a0c513/master.m3u8
+Now Sports 3(西甲),http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ae953e2f8d0928ab9e1b282a3a2a5f7a/master.m3u8
+Now Sports 1(西甲),http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/5d0149e47843e8a6c5da0c6b9c6cf448/master.m3u8
+Now Sports 2(西甲),http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/79845cd26ef13c6a90949df02474d714/master.m3u8
+華藝MBC綜合,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/7fa2a289a7ea0b29fb3b7497d1f53281/master.m3u8
+テレビ朝日 TV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/fb4f54745e657031fadb0f0bea2d0d96/master.m3u8
+KBS 1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/4d249c5084b7f8afe5c05ec5888f7109/master.m3u8
+KBS 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8c363622bbbae4b99b777a3555b05b77/master.m3u8
+MBC ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e40558450360f747f2ce0d9f9c74bf24/master.m3u8
+SBS,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c3cb8a08cd526b96ae0f7f24a7cf65cb/master.m3u8
+JTBC,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b5ab0989bfc8c00b0f2a100c747f89e9/master.m3u8
+SBS Plus,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b2662f6ccff739ded6e2d8f48b3b3aa0/master.m3u8
+OCN,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/41c44d8a0490f69369f536ef27f79b2f/master.m3u8
+OCN Movies,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8509fb4baaebf8478e48d3fe6ac6211c/master.m3u8
+Channel A,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b013c3c94f4b8565cd996042a0b0cf8f/master.m3u8
+YTN,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/55fd1fc066ac2c8eeee81189e0fee045/master.m3u8
+TVN,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e8ac19a9ee8bdc3a2a7f97f11c9d9c7f/master.m3u8
+Mnet,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/207e0e9ac47cac1c478a7619b3c5e1b5/master.m3u8
+SBS Golf,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ade2be6436329e6601ec911942c494bf/master.m3u8
+SPOTV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8f4fa1b1ee5cd9e69df45553200efa31/master.m3u8
+JTBC Golf,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/1e35c1c9dba0914507a181ed6a62dfb8/master.m3u8
+SPOTV 2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a6b0912dcd18366b5373443b83444ede/master.m3u8
+TV Chosun2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/3b3fa941f83ec402d0d5fa7144d6f9d9/master.m3u8
+KBS Joy,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/7cba9645a31036dd348929be1fdf1732/master.m3u8
+KBS Drama,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f050f777602e968ec299c8f0e3b7cb2d/master.m3u8
+MBN ,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ff7d984c11ce2dab41f65a98758c6321/master.m3u8
+Inet,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9e81fe217ddca24487a72326cc5c9b18/master.m3u8
+SBS Biz,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/20b502008f8823c74c44318c4456fe93/master.m3u8
+CNTV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/00d8051a5573aef1021e2ecd600862f9/master.m3u8
+FTV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/7249451eef01995ab4a375ed714e8bd8/master.m3u8
+브레인티비,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f675e4d74dc19ddc1c7017137f866c76/master.m3u8
+The Movie,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/12bf14bc8a9bb47a78112d0eb20ba3bc/master.m3u8
+Catchon,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b99bf49bbfbec0ea9daa2d209350a4bd/master.m3u8
+KBS World,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/673a73f0d560877c06f4cb61667b20cb/master.m3u8
+뽀요TV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e3a22d9c5e2134a69cb66c1283388739/master.m3u8
+KCTV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/bea9df470d8825b605f72197809934c3/master.m3u8
+延邊衛視,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/70781ae13aa481872aa3d987775727f8/master.m3u8
+YBTV-1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8451a3f84655dafd6b43e050f21db93c/master.m3u8
+YBTV-2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/1b55c2bb4cbc695147087cccfe70691c/master.m3u8
+KoreaTV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/10bd3d72861141a02839becd37afb658/master.m3u8
+PBA&GOLF,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/5021d8507f52f481724d468cf26db48a/master.m3u8
+IB 스포츠,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/99e213a499b9a6ebf959d76235418dfd/master.m3u8
+부메랑TV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/83cf23ad3b3a122bbe40ee9d3c6dffc4/master.m3u8
+투니버즈,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c540724e61449528ad6ab292e86a070f/master.m3u8
+EBS1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/afbab1401e9bf8a5f14c461c740705fa/master.m3u8
+EBS2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/4a7c0ac27f2044acbea402c03b32cbcc/master.m3u8
+愛爾達日韓,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/055b0823b17fec204d9b57e53ed6cfc1/master.m3u8
+BBC Earth,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/1e56c4e437edb5d9dd13cc9ce732a26a/master.m3u8
+TVChosun,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/ed4f24c75ba784e79eef43c07cc08b17/master.m3u8
+MBC Sports,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/25237e196afe5a648134809a80e5cb9d/master.m3u8
+JTBC GOLF &SPORTS,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/284f5bd7327d120a93a8c1e8b4d05a26/master.m3u8
+tVN Show,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/654de0daa92a301265d9752857bec16e/master.m3u8
+SKY SPORTS,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f8fe637cd79049c8c66b0594b4170056/master.m3u8
+Now Sports 4(西甲),http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/9db8549000fbe9f698d9af28cf4f3319/master.m3u8
+Now Sports 5(西甲),http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/35bfd516101f324da76d225eb9c5acc5/master.m3u8
+Now Sports 6(西甲),http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/27753b6f3f393e16aa9692af23d03fee/master.m3u8
+Now Sports 7(西甲),http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e372fd9e6927884f63a864a817e09ab9/master.m3u8
+星空衛視,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0542cafe3ccfa5d99b36ecdc0e458a8e/master.m3u8
+POPC 電影,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/d3390751c826f45ae5f6198eed44aef8/master.m3u8
+Cartoonito 動畫,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/93e6a89162e1890840cd2b033d9ec16a/master.m3u8
+MezzoLive,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b978024ee8a4b4a8e7570dae20ffb871/master.m3u8
+古典音樂 HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/bfe54d929a740e93e5b399a8ca17b7f4/master.m3u8
+LUXE TV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/4cc245ca59c6dfd3bf30652217907eae/master.m3u8
+滾動力 rollor,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/1d3807e8ef5dc665e17b6e75c40aa403/master.m3u8
+Global Trekker,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/06786759bae8829be63438340dd076cc/master.m3u8
+民視影劇,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/7b9ae2798b08ac26ebfa679dba3e9411/master.m3u8
+民視綜藝,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/3a4249195e372465300851f776faf262/master.m3u8
+HITS HD,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/937fc43183e9848dbf74aa82b1fc2e6f/master.m3u8
+KLT 靖天國際,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0c1d915d2d8025be2dd3a2d6104d7315/master.m3u8
+Nice TV靖天歡樂,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/dca1520c1f11b8ec800b9112dd76d913/master.m3u8
+靖天映畫,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0f664a79d23033adc30a6c47b78f0603/master.m3u8
+靖天戲劇,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/a1e5a473f05329962d11f3b16a3c2ce7/master.m3u8
+Fox Sports1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/12e78d9d50eb3b72e9ab2e6f8f2f6a3a/master.m3u8
+Fox Sports2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/91b6f153dbd95b038908c82f350523c2/master.m3u8
+Fox Sports3,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/169299a4616490c448528c6982c95aa1/master.m3u8
+CBS News,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/5b10b1e03514c582c7ad0b82188ccbed/master.m3u8
+CBSN News,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/e724824d11b412795751ac75ce6e75a0/master.m3u8
+年代 MUCH TV,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/8fd76a886c4115bf9f5955ce29252dff/master.m3u8
+靖天綜合,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/b82bbf795aa15638bfada574bcd2ebe7/master.m3u8
+靖天卡通,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/f43f0cbf2499a07e088f0e4b5155dbe7/master.m3u8
+靖天育樂,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/c322072ad46ea8c851aab81a43469048/master.m3u8
+靖天資訊,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/0ddb35f1b64baaeeeb7337df706051be/master.m3u8
+Now Jelli,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/5fed6b1355f7b236de9ee76f18c78b38/master.m3u8
+SPOTV Stadia,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/1474edd5644c7d4b186940cc1ac7e30f/master.m3u8
+astro QLY1,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/82df6838afcd76270d2c2c8cbd7b6d45/master.m3u8
+astro QLY2,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/06473b99893012edae5224356c637e9d/master.m3u8
+astro QLY3,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/29ca61fbccdc86eb47ba16f9296ece9a/master.m3u8
+astro QYL4,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/3185d936545f8d009cb1b4d49e8ae164/master.m3u8
+astro QLY5,http://127.0.0.1:19395/172.96.160.90:16000/stream/{token}/3a21f4cf0f7a4e11b5baf566571b9498/master.m3u8
