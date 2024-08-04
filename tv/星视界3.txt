@@ -1,0 +1,483 @@
+﻿奥运2024,#genre#
+MyTVSuper奥运801,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly801&xl=0
+MyTVSuper奥运802,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly802&xl=0
+MyTVSuper奥运803,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly803&xl=0
+MyTVSuper奥运804,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly804&xl=0
+MyTVSuper奥运805,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly805&xl=0
+MyTVSuper奥运806,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly806&xl=0
+MyTVSuper奥运807,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly807&xl=0
+MyTVSuper奥运808,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly808&xl=0
+MyTVSuper奥运809,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly809&xl=0
+MyTVSuper奥运810,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly810&xl=0
+MyTVSuper奥运811,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly811&xl=0
+MyTVSuper奥运812,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly812&xl=0
+MyTVSuper奥运813,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly813&xl=0
+MyTVSuper奥运814,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly814&xl=0
+MyTVSuper奥运815,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly815&xl=0
+MyTVSuper奥运816,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly816&xl=0
+MyTVSuper奥运817,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-oly817&xl=0
+
+港澳频道,#genre#
+TVB 翡翠台,http://cdn9.1678520.xyz/xsj1.php?id=feicui&xl=0
+TVB 无线新闻台,http://cdn9.1678520.xyz/xsj1.php?id=tvb-news&xl=0
+TVB PLUS,http://cdn.1678520.xyz/xsj.php?id=tvb-plus&xl=0
+TVB 黄金翡翠台,http://cdn.1678520.xyz/xsj.php?id=golden-jade&xl=0
+TVB 黄金华剧台,http://cdn.1678520.xyz/xsj.php?id=golden-chinese-drama&xl=0
+TVB 千禧经典台,http://cdn.1678520.xyz/xsj.php?id=tvb-classic&xl=0
+TVB 粤语片台,http://cdn.1678520.xyz/xsj.php?id=tvb-yueyu&xl=0
+TVB 星河台,http://cdn.1678520.xyz/xsj.php?id=tvb-xinghe&xl=0
+TVB 亚洲剧台,http://cdn.1678520.xyz/xsj.php?id=tvb-asia-drama&xl=0
+TVB 娱乐新闻台,http://cdn.1678520.xyz/xsj.php?id=TVB ylxw&xl=0
+J2,http://cdn.1678520.xyz/xsj.php?id=j2&xl=0
+TVB 明珠台,http://cdn.1678520.xyz/xsj.php?id=pearl&xl=0
+TVB 华语剧台,http://cdn.1678520.xyz/xsj.php?id=tvb-drama&xl=0
+凤凰卫视 资讯台,http://cdn.1678520.xyz/xsj.php?id=phtv-info&xl=0
+凤凰卫视 中文台,http://cdn.1678520.xyz/xsj.php?id=phtv-cn&xl=0
+凤凰卫视 香港台,http://cdn.1678520.xyz/xsj.php?id=phtv-hk&xl=0
+HOY 资讯台,http://cdn.1678520.xyz/xsj.php?id=hoy-info&xl=0
+HOY TV,http://cdn.1678520.xyz/xsj.php?id=hoytv&xl=0
+HOY国际财经,http://cdn.1678520.xyz/xsj.php?id=hoy-ibc&xl=0
+ViuTV,http://cdn.1678520.xyz/xsj.php?id=viutv&xl=0
+ViuTV6,http://cdn.1678520.xyz/xsj.php?id=viutv6&xl=0
+天映频道,http://cdn.1678520.xyz/xsj.php?id=celestial&xl=0
+天映经典,http://cdn.1678520.xyz/xsj.php?id=cccm&xl=0
+Thrill,http://cdn.1678520.xyz/xsj.php?id=thrill&xl=0
+星空卫视,http://cdn.1678520.xyz/xsj.php?id=star-xing-kong&xl=0
+香港卫视,http://cdn.1678520.xyz/xsj.php?id=hks&xl=0
+澳亚卫视,http://cdn.1678520.xyz/xsj.php?id=mastv&xl=0
+澳门卫视,http://cdn.1678520.xyz/xsj.php?id=mstv&xl=0
+澳门莲花卫视,http://cdn.1678520.xyz/xsj.php?id=lotustv&xl=0
+澳门资讯,http://cdn.1678520.xyz/xsj.php?id=tdm-information&xl=0
+澳视澳门,http://cdn.1678520.xyz/xsj.php?id=tdm&xl=0
+HKC 18台,http://cdn.1678520.xyz/xsj.php?id=hkc18&xl=0
+港台电视 31,http://cdn.1678520.xyz/xsj.php?id=rthk31&xl=0
+港台电视 32,http://cdn.1678520.xyz/xsj.php?id=rthk32&xl=0
+香港Now系列,#genre#
+Now Sports 618 欧洲杯,http://cdn.1678520.xyz/xsj.php?id=now-sports-618&xl=0
+Now Sports 619 欧洲杯,http://cdn.1678520.xyz/xsj.php?id=now-sports-619&xl=0
+Now Lucky 688 欧洲杯,http://cdn.1678520.xyz/xsj.php?id=now-lucky-688&xl=0
+Now 财经台,http://cdn.1678520.xyz/xsj.php?id=now-finance&xl=0
+Now 爆谷台,http://cdn.1678520.xyz/xsj.php?id=baogu-movies&xl=0
+Now 星影台,http://cdn.1678520.xyz/xsj.php?id=now-baogu-superstars&xl=0
+Now 新闻台,http://cdn.1678520.xyz/xsj.php?id=now-news&xl=0
+Now 直播台,http://cdn.1678520.xyz/xsj.php?id=now-direct&xl=0
+Now报价台,http://cdn.1678520.xyz/xsj.php?id=now-data&xl=0
+Now jelli紫金国际台,http://cdn.1678520.xyz/xsj.php?id=now-jelli&xl=0
+Now华剧台,http://cdn.1678520.xyz/xsj.php?id=now-chinese-drama&xl=0
+HBO Now115,http://cdn.1678520.xyz/xsj.php?id=Now-HBO&xl=0
+Now HBO Hits,http://cdn.1678520.xyz/xsj.php?id=now-hbo-hits&xl=0
+Now HBO Family,http://cdn.1678520.xyz/xsj.php?id=now-hbof-amily&xl=0
+Now HBO Signature,http://cdn.1678520.xyz/xsj.php?id=now-hbo-signature&xl=0
+MovieMovie,http://cdn.1678520.xyz/xsj.php?id=moviemovie&xl=0
+NowViu剧集台,http://cdn.1678520.xyz/xsj.php?id=now-viu-drama&xl=0
+Now Sports 641,http://cdn.1678520.xyz/xsj.php?id=now-sports641&xl=0
+Now NBA,http://cdn.1678520.xyz/xsj.php?id=now-nba&xl=0
+Now Sports精选,http://cdn.1678520.xyz/xsj.php?id=now-sports-prime&xl=0
+Now Sports 1,http://cdn.1678520.xyz/xsj.php?id=now-sports-1&xl=0
+Now Sports 2,http://cdn.1678520.xyz/xsj.php?id=now-sports-2&xl=0
+Now Sports 3,http://cdn.1678520.xyz/xsj.php?id=now-sports-3&xl=0
+Now Sports 4,http://cdn.1678520.xyz/xsj.php?id=now-sports-4&xl=0
+Now Sports 5,http://cdn.1678520.xyz/xsj.php?id=now-sports-5&xl=0
+Now Sports 6,http://cdn.1678520.xyz/xsj.php?id=now-sports-6&xl=0
+Now Sports 7,http://cdn.1678520.xyz/xsj.php?id=now-sports-7&xl=0
+Now Sports Plus,http://cdn.1678520.xyz/xsj.php?id=now-sports-plus&xl=0
+Now Sports 英超1,http://cdn.1678520.xyz/xsj.php?id=now-sports-premier-league1&xl=0
+Now beIN SPORTS 1,http://cdn.1678520.xyz/xsj.php?id=now-bein-sports1&xl=0
+Now beIN SPORTS 2,http://cdn.1678520.xyz/xsj.php?id=now-bein-sports2&xl=0
+Now beIN SPORTS 3,http://cdn.1678520.xyz/xsj.php?id=now-bein-sports3&xl=0
+Now 668,http://cdn.1678520.xyz/xsj.php?id=now-668&xl=0
+Now Golf 2,http://cdn.1678520.xyz/xsj.php?id=now-golf2&xl=0
+Now Golf 3,http://cdn.1678520.xyz/xsj.php?id=now-golf3&xl=0
+台湾综合,#genre#
+民视,http://cdn.1678520.xyz/xsj.php?id=ftv&xl=0
+民视台湾台,http://cdn.1678520.xyz/xsj.php?id=ftv-tw&xl=0
+民视第一台,http://cdn.1678520.xyz/xsj.php?id=ftv-one&xl=0
+纬来日本,http://cdn.1678520.xyz/xsj.php?id=videoland-japan&xl=0
+纬来综合,http://cdn.1678520.xyz/xsj.php?id=videoland&xl=0
+八大综合,http://cdn.1678520.xyz/xsj.php?id=gtv28&xl=0
+八大第一,http://cdn.1678520.xyz/xsj.php?id=gtv27&xl=0
+TVBS 精采台,http://cdn.1678520.xyz/xsj.php?id=tvbs-jc&xl=0
+TVBS 欢乐台,http://cdn.1678520.xyz/xsj.php?id=tvbs-huanle&xl=0
+TVBS Asia,http://cdn.1678520.xyz/xsj.php?id=tvbs-asia&xl=0
+三立台湾台,http://cdn.1678520.xyz/xsj.php?id=settv-taiwan&xl=0
+三立综合台,http://cdn.1678520.xyz/xsj.php?id=settv-zonghe&xl=0
+台视,http://cdn.1678520.xyz/xsj.php?id=ttv&xl=0
+东森超视,http://cdn.1678520.xyz/xsj.php?id=ebc-super&xl=0
+东森综合台,http://cdn.1678520.xyz/xsj.php?id=ebc-ettv&xl=0
+中视,http://cdn.1678520.xyz/xsj.php?id=ctv&xl=0
+中视菁采台,http://cdn.1678520.xyz/xsj.php?id=bravo&xl=0
+中天亚洲,http://cdn.1678520.xyz/xsj.php?id=cti-asia&xl=0
+中天综合,http://cdn.1678520.xyz/xsj.php?id=ctitv36&xl=0
+华视,http://cdn.1678520.xyz/xsj.php?id=cts&xl=0
+LiveABC 互动英语频道,http://cdn.1678520.xyz/xsj.php?id=liveabc&xl=0
+好消息,http://cdn.1678520.xyz/xsj.php?id=goodtv&xl=0
+KLT-靖天国际台,http://cdn.1678520.xyz/xsj.php?id=jtgj&xl=0
+ELTA综合台,http://cdn.1678520.xyz/xsj.php?id=elta-zonghe&xl=0
+公视,http://cdn.1678520.xyz/xsj.php?id=pts&xl=0
+公视3台,http://cdn.1678520.xyz/xsj.php?id=pts-3&xl=0
+公视台语台,http://cdn.1678520.xyz/xsj.php?id=pts-ty&xl=0
+靖天综合台,http://cdn.1678520.xyz/xsj.php?id=jtzh&xl=0
+靖天日本台,http://cdn.1678520.xyz/xsj.php?id=jtrb&xl=0
+客家电视台,http://cdn.1678520.xyz/xsj.php?id=hakkatv&xl=0
+大爱一台,http://cdn.1678520.xyz/xsj.php?id=daai1&xl=0
+大爱二台,http://cdn.1678520.xyz/xsj.php?id=daai2&xl=0
+ARIRANG 阿里郎频道,http://cdn.1678520.xyz/xsj.php?id=arirang&xl=0
+台湾新闻财经,#genre#
+中天新闻,http://cdn.1678520.xyz/xsj.php?id=cti-news&xl=0
+TVBS 新闻台,http://cdn.1678520.xyz/xsj.php?id=tvbs-news&xl=0
+TVBS HD,http://cdn.1678520.xyz/xsj.php?id=tvbs-hd&xl=0
+东森新闻,http://cdn.1678520.xyz/xsj.php?id=ebc-news&xl=0
+东森财经新闻,http://cdn.1678520.xyz/xsj.php?id=ebc-finance&xl=0
+寰宇新闻台,http://cdn.1678520.xyz/xsj.php?id=global-news&xl=0
+寰宇财经台,http://cdn.1678520.xyz/xsj.php?id=global-finance&xl=0
+寰宇新闻台湾台,http://cdn.1678520.xyz/xsj.php?id=global-news-tw&xl=0
+壹新闻 HD,http://cdn.1678520.xyz/xsj.php?id=nexttv&xl=0
+三立新闻,http://cdn.1678520.xyz/xsj.php?id=settv-news&xl=0
+三立iNews,http://cdn.1678520.xyz/xsj.php?id=settv-inews&xl=0
+中视新闻,http://cdn.1678520.xyz/xsj.php?id=ctv-news&xl=0
+非凡新闻,http://cdn.1678520.xyz/xsj.php?id=unique-business-news&xl=0
+年代新闻,http://cdn.1678520.xyz/xsj.php?id=era-news&xl=0
+民视新闻台,http://cdn.1678520.xyz/xsj.php?id=ftv-news&xl=0
+台视新闻,http://cdn.1678520.xyz/xsj.php?id=ttv-news&xl=0
+镜电视新闻台,http://cdn.1678520.xyz/xsj.php?id=mnews&xl=0
+华视新闻,http://cdn.1678520.xyz/xsj.php?id=cts-news&xl=0
+半岛国际新闻台,http://cdn.1678520.xyz/xsj.php?id=aljazeera&xl=0
+SBN 全球财经台,http://cdn.1678520.xyz/xsj.php?id=sbn&xl=0
+靖天资讯台,http://cdn.1678520.xyz/xsj.php?id=jtzx&xl=0
+台湾影音娱乐,#genre#
+纬来电影台,http://cdn.1678520.xyz/xsj.php?id=videoland-movie&xl=0
+纬来戏剧,http://cdn.1678520.xyz/xsj.php?id=videoland-drama&xl=0
+TVBS综艺台,http://cdn.1678520.xyz/xsj.php?id=tvbs-zongyi&xl=0
+TVBS台剧台,http://cdn.1678520.xyz/xsj.php?id=tvbs-taiju&xl=0
+龙祥电影台,http://cdn.1678520.xyz/xsj.php?id=lstime&xl=0
+龙华电影台,http://cdn.1678520.xyz/xsj.php?id=ltv-movies&xl=0
+龙华戏剧台,http://cdn.1678520.xyz/xsj.php?id=ltv-xiju&xl=0
+龙华日韩台,http://cdn.1678520.xyz/xsj.php?id=ltv-rihan&xl=0
+东森电影,http://cdn.1678520.xyz/xsj.php?id=ebc-movie&xl=0
+东森戏剧,http://cdn.1678520.xyz/xsj.php?id=ebc-drama&xl=0
+东森洋片,http://cdn.1678520.xyz/xsj.php?id=ebc-emovie&xl=0
+八大精彩台,http://cdn.1678520.xyz/xsj.php?id=gtv-jct&xl=0
+八大戏剧,http://cdn.1678520.xyz/xsj.php?id=gtv-41&xl=0
+八大娱乐,http://cdn.1678520.xyz/xsj.php?id=gtv-86&xl=0
+八大综艺,http://cdn.1678520.xyz/xsj.php?id=grt&xl=0
+采昌影剧台,http://cdn.1678520.xyz/xsj.php?id=caichang&xl=0
+美亚电影台,http://cdn.1678520.xyz/xsj.php?id=meiah-movies&xl=0
+猪哥亮歌厅秀,http://cdn.1678520.xyz/xsj.php?id=zglgtx&xl=0
+民视综艺,http://cdn.1678520.xyz/xsj.php?id=ftv-reality&xl=0
+民视影剧,http://cdn.1678520.xyz/xsj.php?id=ftv-drama&xl=0
+三立都会台,http://cdn.1678520.xyz/xsj.php?id=settv-city&xl=0
+三立戏剧台,http://cdn.1678520.xyz/xsj.php?id=settv-drama&xl=0
+中视经典台,http://cdn.1678520.xyz/xsj.php?id=ctv-classic&xl=0
+中天娱乐,http://cdn.1678520.xyz/xsj.php?id=cti-yule&xl=0
+靖洋戏剧台,http://cdn.1678520.xyz/xsj.php?id=jyxj&xl=0
+靖天映画,http://cdn.1678520.xyz/xsj.php?id=jtyh&xl=0
+靖天电影台,http://cdn.1678520.xyz/xsj.php?id=jtdy&xl=0
+靖天戏剧台,http://cdn.1678520.xyz/xsj.php?id=jtxjt&xl=0
+韩国娱乐台 KMTV,http://cdn.1678520.xyz/xsj.php?id=kmtv&xl=0
+公视戏剧,http://cdn.1678520.xyz/xsj.php?id=gsxj&xl=0
+影迷数位纪实台,http://cdn.1678520.xyz/xsj.php?id=ymswjst&xl=0
+影迷数字电影台,http://cdn.1678520.xyz/xsj.php?id=fans-cinema&xl=0
+视纳华仁纪实频道,http://cdn.1678520.xyz/xsj.php?id=cnex&xl=0
+MTV Live HD 频道,http://cdn.1678520.xyz/xsj.php?id=mtv&xl=0
+ELTA 娱乐台,http://cdn.1678520.xyz/xsj.php?id=elta-ylt&xl=0
+新马频道,#genre#
+Channel 5,http://cdn.1678520.xyz/xsj.php?id=channel-5&xl=0
+Channel 8,http://cdn.1678520.xyz/xsj.php?id=channel8&xl=0
+Channel U,http://cdn.1678520.xyz/xsj.php?id=channel-u&xl=0
+8TV,http://cdn.1678520.xyz/xsj.php?id=8tv&xl=0
+TV9,http://cdn.1678520.xyz/xsj.php?id=tv9&xl=0
+CM+,http://cdn.1678520.xyz/xsj.php?id=cm-plus&xl=0
+E乐,http://cdn.1678520.xyz/xsj.php?id=singtel-tv&xl=0
+TV1,http://cdn.1678520.xyz/xsj.php?id=tv1-my&xl=0
+TV2,http://cdn.1678520.xyz/xsj.php?id=tv2-my&xl=0
+TV3,http://cdn.1678520.xyz/xsj.php?id=tv3-my&xl=0
+ChannelNewsAsia,http://cdn.1678520.xyz/xsj.php?id=channelnewsasia&xl=0
+OKEY,http://cdn.1678520.xyz/xsj.php?id=okey&xl=0
+TVB Magic,http://cdn.1678520.xyz/xsj.php?id=tvb-magic&xl=0
+tvN Movies,http://cdn.1678520.xyz/xsj.php?id=tvn-movies&xl=0
+AXN,http://cdn.1678520.xyz/xsj.php?id=axn&xl=0
+TV Alhijrah,http://cdn.1678520.xyz/xsj.php?id=tv-alhijrah&xl=0
+ColorsHindi,http://cdn.1678520.xyz/xsj.php?id=colorshindi&xl=0
+TVS,http://cdn.1678520.xyz/xsj.php?id=tvs&xl=0
+tvN,http://cdn.1678520.xyz/xsj.php?id=tvn&xl=0
+BeritaRTM,http://cdn.1678520.xyz/xsj.php?id=beritartm&xl=0
+SukanRTM,http://cdn.1678520.xyz/xsj.php?id=sukanrtm&xl=0
+HITSMovies,http://cdn.1678520.xyz/xsj.php?id=hitsmovies&xl=0
+ShowCase,http://cdn.1678520.xyz/xsj.php?id=showcase&xl=0
+BBCEarth,http://cdn.1678520.xyz/xsj.php?id=bbcearth&xl=0
+Mediacorp Suria,http://cdn.1678520.xyz/xsj.php?id=mediacorp-suria&xl=0
+Mediacorp Vasantham,http://cdn.1678520.xyz/xsj.php?id=mediacorp-vasantham&xl=0
+Gem,http://cdn.1678520.xyz/xsj.php?id=gem&xl=0
+GlobalTrekker,http://cdn.1678520.xyz/xsj.php?id=globaltrekker&xl=0
+DramaSangat,http://cdn.1678520.xyz/xsj.php?id=dramasangat&xl=0
+SunTV,http://cdn.1678520.xyz/xsj.php?id=suntv&xl=0
+SunMusic,http://cdn.1678520.xyz/xsj.php?id=sunmusic&xl=0
+SunNews,http://cdn.1678520.xyz/xsj.php?id=sunnews&xl=0
+AwesomeTV,http://cdn.1678520.xyz/xsj.php?id=awesometv&xl=0
+DidikTV7,http://cdn.1678520.xyz/xsj.php?id=didiktv7&xl=0
+Adithya,http://cdn.1678520.xyz/xsj.php?id=adithya&xl=0
+KTVHD,http://cdn.1678520.xyz/xsj.php?id=ktvhd&xl=0
+SunLife,http://cdn.1678520.xyz/xsj.php?id=sunlife&xl=0
+StarVijay,http://cdn.1678520.xyz/xsj.php?id=starvijay&xl=0
+ColorsTamil,http://cdn.1678520.xyz/xsj.php?id=colorstamil&xl=0
+ZeeTamil,http://cdn.1678520.xyz/xsj.php?id=zeetamil&xl=0
+ZeeCinemaHD,http://cdn.1678520.xyz/xsj.php?id=zeecinemahd&xl=0
+Boo,http://cdn.1678520.xyz/xsj.php?id=boo&xl=0
+MTVLive,http://cdn.1678520.xyz/xsj.php?id=mtvlive&xl=0
+Bernama,http://cdn.1678520.xyz/xsj.php?id=bernama&xl=0
+Moonbug,http://cdn.1678520.xyz/xsj.php?id=moonbug&xl=0
+新加坡StarHub系列,#genre#
+Hub都会,http://cdn.1678520.xyz/xsj.php?id=HubECity&xl=0
+Hub娱家,http://cdn.1678520.xyz/xsj.php?id=HubVVDrama&xl=0
+HubSports 1,http://cdn.1678520.xyz/xsj.php?id=hubsports1&xl=0
+HubSports2,http://cdn.1678520.xyz/xsj.php?id=hubsports2&xl=0
+HubSports3,http://cdn.1678520.xyz/xsj.php?id=hubsports3&xl=0
+HubSport4,http://cdn.1678520.xyz/xsj.php?id=hubsports4&xl=0
+HubSports Plus,http://cdn.1678520.xyz/xsj.php?id=hubsports-plus&xl=0
+Hub Premier 1,http://cdn.1678520.xyz/xsj.php?id=hubpremier1&xl=0
+HubPremier2,http://cdn.1678520.xyz/xsj.php?id=hubpremier2&xl=0
+HubPremier3,http://cdn.1678520.xyz/xsj.php?id=hubpremier3&xl=0
+HubPremier 4,http://cdn.1678520.xyz/xsj.php?id=hubpremier4&xl=0
+HubPremier 5,http://cdn.1678520.xyz/xsj.php?id=hubpremier5&xl=0
+Hub Sensasi,http://cdn.1678520.xyz/xsj.php?id=hub-sensasi&xl=0
+tvn HD,http://cdn.1678520.xyz/xsj.php?id=tvnhd&xl=0
+AstroWarna Hub版,http://cdn.1678520.xyz/xsj.php?id=astro-warna-hub&xl=0
+ONEMalay,http://cdn.1678520.xyz/xsj.php?id=one-malay&xl=0
+马来西亚Astro系列,#genre#
+Astro AEC,http://cdn.1678520.xyz/xsj.php?id=astro-aec&xl=0
+Astro 欢喜台,http://cdn.1678520.xyz/xsj.php?id=astro-huaheedai&xl=0
+Astro SuperSport,http://cdn.1678520.xyz/xsj.php?id=super-sports1&xl=0
+Astro SuperSport 2,http://cdn.1678520.xyz/xsj.php?id=super-sports2&xl=0
+Astro SuperSport 3,http://cdn.1678520.xyz/xsj.php?id=super-sports3&xl=0
+Astro SuperSport 4,http://cdn.1678520.xyz/xsj.php?id=super-sports4&xl=0
+Arena Bola,http://cdn.1678520.xyz/xsj.php?id=arena-bola&xl=0
+Arena Bola2,http://cdn.1678520.xyz/xsj.php?id=arena-bola2&xl=0
+Astro 爱奇艺,http://cdn.1678520.xyz/xsj.php?id=astro-iqiyi&xl=0
+Astro AOD 311 国语,http://cdn.1678520.xyz/xsj.php?id=astro-aod&xl=0
+Astro AOD 311 粤语,http://cdn.1678520.xyz/xsj.php?id=astro-aod-311-hk&xl=0
+Astro QJ,http://cdn.1678520.xyz/xsj.php?id=astro-quanjia&xl=0
+Astro Awani,http://cdn.1678520.xyz/xsj.php?id=astro-awani&xl=0
+Astro Arena HD,http://cdn.1678520.xyz/xsj.php?id=astro-arena-hd&xl=0
+Astro Arena 2,http://cdn.1678520.xyz/xsj.php?id=astro-arena2&xl=0
+Astro Citra,http://cdn.1678520.xyz/xsj.php?id=astro-citra&xl=0
+Astro Prima,http://cdn.1678520.xyz/xsj.php?id=astro-prima&xl=0
+Astro Aura,http://cdn.1678520.xyz/xsj.php?id=astro-aura&xl=0
+Astro RIA,http://cdn.1678520.xyz/xsj.php?id=astro-ria&xl=0
+Astro ONE,http://cdn.1678520.xyz/xsj.php?id=astro-one&xl=0
+AstroPremier,http://cdn.1678520.xyz/xsj.php?id=astropremier&xl=0
+Astro Ceria,http://cdn.1678520.xyz/xsj.php?id=astro-ceria&xl=0
+Astro Vaanavil,http://cdn.1678520.xyz/xsj.php?id=astro-vaanavil&xl=0
+Astro Vinmeen,http://cdn.1678520.xyz/xsj.php?id=astro-vinmeen&xl=0
+Astro Warna,http://cdn.1678520.xyz/xsj.php?id=astro-warna&xl=0
+Astro Vellithirai,http://cdn.1678520.xyz/xsj.php?id=astro-vellithirai&xl=0
+Astro Rania,http://cdn.1678520.xyz/xsj.php?id=astro-rania&xl=0
+Astro Oasis,http://cdn.1678520.xyz/xsj.php?id=astro-oasis&xl=0
+Astro TUTOR TV,http://cdn.1678520.xyz/xsj.php?id=astro-tutor-tv&xl=0
+Astro GolfChannel,http://cdn.1678520.xyz/xsj.php?id=astro-golfchannel&xl=0
+体育竞技,#genre#
+beIN Sports,http://cdn.1678520.xyz/xsj.php?id=beinsports&xl=0
+beIN Sports 2,http://cdn.1678520.xyz/xsj.php?id=beinsports2&xl=0
+beIN Sports 3,http://cdn.1678520.xyz/xsj.php?id=beinsports3&xl=0
+ELTA 体育-1,http://cdn.1678520.xyz/xsj.php?id=elta-sport1&xl=0
+ELTA 体育-2,http://cdn.1678520.xyz/xsj.php?id=elta-sport2&xl=0
+ELTA 体育-3,http://cdn.1678520.xyz/xsj.php?id=elta-sport3&xl=0
+ELTA体育4台,http://cdn.1678520.xyz/xsj.php?id=elta-sport4&xl=0
+博斯网球,http://cdn.1678520.xyz/xsj.php?id=sportcast-tennis&xl=0
+博斯运动-1,http://cdn.1678520.xyz/xsj.php?id=sportcast1&xl=0
+博斯运动-2,http://cdn.1678520.xyz/xsj.php?id=sportcast2&xl=0
+博斯无限,http://cdn.1678520.xyz/xsj.php?id=sportcast-wx&xl=0
+博斯高球-1,http://cdn.1678520.xyz/xsj.php?id=sportcast-golf1&xl=0
+博斯高球-2,http://cdn.1678520.xyz/xsj.php?id=sportcast-golf2&xl=0
+博斯魅力,http://cdn.1678520.xyz/xsj.php?id=sportcast-meili&xl=0
+ESPN,http://cdn.1678520.xyz/xsj.php?id=espn&xl=0
+ESPN 2,http://cdn.1678520.xyz/xsj.php?id=espn2&xl=0
+ESPN 3,http://cdn.1678520.xyz/xsj.php?id=espn3&xl=0
+ESPN 4,http://cdn.1678520.xyz/xsj.php?id=espn4&xl=0
+myTV SUPER直播足球1台,http://cdn.1678520.xyz/xsj.php?id=mytv-super-soccer1
+myTV SUPER直播足球2台,http://cdn.1678520.xyz/xsj.php?id=mytv-super-soccer2
+myTV SUPER直播足球3台,http://cdn.1678520.xyz/xsj.php?id=mytv-super-soccer3
+myTV SUPER直播足球4台,http://cdn.1678520.xyz/xsj.php?id=mytv-super-soccer4
+myTV SUPER 18,http://cdn.1678520.xyz/xsj.php?id=mytvsuper-18&xl=0
+纬来体育,http://cdn.1678520.xyz/xsj.php?id=videoland-sport&xl=0
+NBA,http://cdn.1678520.xyz/xsj.php?id=nba&xl=0
+WWE,http://cdn.1678520.xyz/xsj.php?id=wwe&xl=0
+DAZN 1,http://cdn.1678520.xyz/xsj.php?id=eleven-sport1&xl=0
+DAZN 2,http://cdn.1678520.xyz/xsj.php?id=eleven-sport2&xl=0
+Eurosports-1,http://cdn.1678520.xyz/xsj.php?id=eurosports-1&xl=0
+SPOTV,http://cdn.1678520.xyz/xsj.php?id=spotv&xl=0
+SPOTV-2,http://cdn.1678520.xyz/xsj.php?id=spotv2&xl=0
+时尚运动 X,http://cdn.1678520.xyz/xsj.php?id=ssydx&xl=0
+GINX Esports TV,http://cdn.1678520.xyz/xsj.php?id=ginx-esports&xl=0
+Tech Storm,http://cdn.1678520.xyz/xsj.php?id=tech-storm&xl=0
+TRACE Sport Stars,http://cdn.1678520.xyz/xsj.php?id=trace-sport-stars&xl=0
+W-Sport,http://cdn.1678520.xyz/xsj.php?id=w-sport&xl=0
+PremierSports,http://cdn.1678520.xyz/xsj.php?id=premiersports&xl=0
+智林体育台,http://cdn.1678520.xyz/xsj.php?id=zl-sports&xl=0
+欧美频道,#genre#
+新时代电视,http://cdn.1678520.xyz/xsj.php?id=fairchildtv&xl=0
+新时代电视二台,http://cdn.1678520.xyz/xsj.php?id=fairchildtv2&xl=0
+城市电视,http://cdn.1678520.xyz/xsj.php?id=talentvisiontv&xl=0
+HBO HD,http://cdn.1678520.xyz/xsj.php?id=hbo-hd&xl=0
+HBO Hits HD,http://cdn.1678520.xyz/xsj.php?id=hbo-hits-hd&xl=0
+HBO Family HD,http://cdn.1678520.xyz/xsj.php?id=hbo-family&xl=0
+HBO Signature HD,http://cdn.1678520.xyz/xsj.php?id=hbo-signature&xl=0
+Cinemax,http://cdn.1678520.xyz/xsj.php?id=cinemax&xl=0
+CNN International,http://cdn.1678520.xyz/xsj.php?id=cnn-international&xl=0
+好莱坞电影,http://cdn.1678520.xyz/xsj.php?id=hollywood-movie&xl=0
+ROCK Action,http://cdn.1678520.xyz/xsj.php?id=rock-action&xl=0
+ROCK Entertainment,http://cdn.1678520.xyz/xsj.php?id=rock-entertaiment&xl=0
+Bloomberg,http://cdn.1678520.xyz/xsj.php?id=bloomberg&xl=0
+amc 最爱电影,http://cdn.1678520.xyz/xsj.php?id=amc-movie&xl=0
+美国中文电视,http://cdn.1678520.xyz/xsj.php?id=sinovision&xl=0
+Lifetime 娱乐频道,http://cdn.1678520.xyz/xsj.php?id=lifetime&xl=0
+HLN,http://cdn.1678520.xyz/xsj.php?id=cnn-hln&xl=0
+fun 探索娱乐台,http://cdn.1678520.xyz/xsj.php?id=festival4k&xl=0
+Euronews,http://cdn.1678520.xyz/xsj.php?id=euronews&xl=0
+MyCinema Europe HD,http://cdn.1678520.xyz/xsj.php?id=mycinema-europe&xl=0
+VOA 美国之音,http://cdn.1678520.xyz/xsj.php?id=voa&xl=0
+DW 德国之声,http://cdn.1678520.xyz/xsj.php?id=dw&xl=0
+CNN,http://cdn.1678520.xyz/xsj.php?id=cnn&xl=0
+ABC News,http://cdn.1678520.xyz/xsj.php?id=abc-news&xl=0
+BBC World News,http://cdn.1678520.xyz/xsj.php?id=bbc-world-news&xl=0
+CNBC,http://cdn.1678520.xyz/xsj.php?id=cnbc&xl=0
+大陆地方,#genre#
+上海都市,http://cdn.1678520.xyz/xsj.php?id=shds&xl=0
+上海新闻,http://cdn.1678520.xyz/xsj.php?id=shxw&xl=0
+五星体育,http://cdn.1678520.xyz/xsj.php?id=wxty&xl=0
+劲爆体育,http://cdn.1678520.xyz/xsj.php?id=jbty&xl=0
+广东体育,http://cdn.1678520.xyz/xsj.php?id=gdty&xl=0
+第一财经,http://cdn.1678520.xyz/xsj.php?id=yicai&xl=0
+辽宁体育,http://cdn.1678520.xyz/xsj.php?id=lnty&xl=0
+天津体育,http://cdn.1678520.xyz/xsj.php?id=tjty&xl=0
+广东珠江,http://cdn.1678520.xyz/xsj.php?id=gdzj&xl=0
+河南梨园,http://cdn.1678520.xyz/xsj.php?id=hnly&xl=0
+辽宁都市,http://cdn.1678520.xyz/xsj.php?id=lnds&xl=0
+辽宁影视,http://cdn.1678520.xyz/xsj.php?id=lnys&xl=0
+黑龙江都市,http://cdn.1678520.xyz/xsj.php?id=hljds&xl=0
+广州综合,http://cdn.1678520.xyz/xsj.php?id=gzzh&xl=0
+广州影视,http://cdn.1678520.xyz/xsj.php?id=gzys&xl=0
+广州竞赛,http://cdn.1678520.xyz/xsj.php?id=gzjs&xl=0
+广东影视,http://cdn.1678520.xyz/xsj.php?id=gdys&xl=0
+广东新闻,http://cdn.1678520.xyz/xsj.php?id=gdxw&xl=0
+广东民生,http://cdn.1678520.xyz/xsj.php?id=gdms&xl=0
+广东少儿,http://cdn.1678520.xyz/xsj.php?id=gdse&xl=0
+少儿动画,#genre#
+迪士尼频道,http://cdn.1678520.xyz/xsj.php?id=disney&xl=0
+Animax 卡通,http://cdn.1678520.xyz/xsj.php?id=animax-cartoon&xl=0
+DreamWorks 梦工厂动画,http://cdn.1678520.xyz/xsj.php?id=dreamworks&xl=0
+小尼克频道,http://cdn.1678520.xyz/xsj.php?id=nick-jr&xl=0
+尼克儿童频道,http://cdn.1678520.xyz/xsj.php?id=nickelodeon&xl=0
+MOMO 亲子台,http://cdn.1678520.xyz/xsj.php?id=momo-kids&xl=0
+东森幼幼台,http://cdn.1678520.xyz/xsj.php?id=ebc-yoyo&xl=0
+CN卡通,http://cdn.1678520.xyz/xsj.php?id=cn-cartoon&xl=0
+靖天卡通台,http://cdn.1678520.xyz/xsj.php?id=jtkt&xl=0
+靖天育乐台,http://cdn.1678520.xyz/xsj.php?id=jtyl&xl=0
+i-Fun 动漫台,http://cdn.1678520.xyz/xsj.php?id=i-fun&xl=0
+ELTV生活英語台,http://cdn.1678520.xyz/xsj.php?id=eltv&xl=0
+Boomerang HD,http://cdn.1678520.xyz/xsj.php?id=boomerang-hd&xl=0
+靖洋卡通 NiceBingo,http://cdn.1678520.xyz/xsj.php?id=nice-bingo&xl=0
+达文西频道,http://cdn.1678520.xyz/xsj.php?id=da-vinci&xl=0
+人文旅游自然,#genre#
+探索频道,http://cdn.1678520.xyz/xsj.php?id=discovery&xl=0
+探索科学频道,http://cdn.1678520.xyz/xsj.php?id=discovery-sci&xl=0
+探索亚洲频道,http://cdn.1678520.xyz/xsj.php?id=discovery-asia&xl=0
+DMAX,http://cdn.1678520.xyz/xsj.php?id=dmax&xl=0
+History 频道,http://cdn.1678520.xyz/xsj.php?id=history&xl=0
+History-2 频道,http://cdn.1678520.xyz/xsj.php?id=history-2&xl=0
+Love Nature,http://cdn.1678520.xyz/xsj.php?id=love-nature&xl=0
+国家地理 野生频道,http://cdn.1678520.xyz/xsj.php?id=natgeo-wild&xl=0
+民视旅游,http://cdn.1678520.xyz/xsj.php?id=ftv-travel&xl=0
+美食星球频道,http://cdn.1678520.xyz/xsj.php?id=food-planet&xl=0
+EYE 旅游台,http://cdn.1678520.xyz/xsj.php?id=eye-travel&xl=0
+ELTA 生活旅游台,http://cdn.1678520.xyz/xsj.php?id=elta-lifetravel&xl=0
+车迷TV,http://cdn.1678520.xyz/xsj.php?id=motorvision&xl=0
+动物星球频道,http://cdn.1678520.xyz/xsj.php?id=animal-planet&xl=0
+TLC 旅游生活頻道,http://cdn.1678520.xyz/xsj.php?id=tlc&xl=0
+亚洲旅游台,http://cdn.1678520.xyz/xsj.php?id=asia-travel&xl=0
+Asian Food Network,http://cdn.1678520.xyz/xsj.php?id=asian-food-network&xl=0
+CI 罪案侦查频道,http://cdn.1678520.xyz/xsj.php?id=ci&xl=0
+滚动力 rollor,http://cdn.1678520.xyz/xsj.php?id=rollor&xl=0
+LUXE TV Channel,http://cdn.1678520.xyz/xsj.php?id=luxe-tv&xl=0
+日韩频道,#genre#
+NHK General,http://cdn.1678520.xyz/xsj.php?id=nhk-g&xl=0
+NHK Education,http://cdn.1678520.xyz/xsj.php?id=nhk-e&xl=0
+日本电视台,http://cdn.1678520.xyz/xsj.php?id=nippon-tv&xl=0
+TBS TV,http://cdn.1678520.xyz/xsj.php?id=tbs-tv&xl=0
+富士电视台,http://cdn.1678520.xyz/xsj.php?id=fujitv&xl=0
+朝日电视台,http://cdn.1678520.xyz/xsj.php?id=tv-asahi&xl=0
+东京电视台,http://cdn.1678520.xyz/xsj.php?id=tv-tokyo&xl=0
+JSPORTS 1,http://cdn.1678520.xyz/xsj.php?id=jsports1&xl=0
+JSPORTS 2,http://cdn.1678520.xyz/xsj.php?id=jsports2&xl=0
+JSPORTS 3,http://cdn.1678520.xyz/xsj.php?id=jsports3&xl=0
+JSPORTS 4,http://cdn.1678520.xyz/xsj.php?id=jsports4&xl=0
+KBS 1,http://cdn.1678520.xyz/xsj.php?id=kbs-1&xl=0
+KBS 2,http://cdn.1678520.xyz/xsj.php?id=kbs-2&xl=0
+KBS Drama,http://cdn.1678520.xyz/xsj.php?id=kbs-drama&xl=0
+KBS Story,http://cdn.1678520.xyz/xsj.php?id=kbs-story&xl=0
+KBS Life,http://cdn.1678520.xyz/xsj.php?id=kbs-life&xl=0
+KBS Joy,http://cdn.1678520.xyz/xsj.php?id=kbs-joy&xl=0
+KBS Kids,http://cdn.1678520.xyz/xsj.php?id=kbs-kids&xl=0
+KBSWorld,http://cdn.1678520.xyz/xsj.php?id=kbsworld&xl=0
+KBS NEWS,http://cdn.1678520.xyz/xsj.php?id=kbs-news&xl=0
+SBS,http://cdn.1678520.xyz/xsj.php?id=sbs&xl=0
+SBS Plus,http://cdn.1678520.xyz/xsj.php?id=sbs-plus
+SBS funE,http://cdn.1678520.xyz/xsj.php?id=sbs-fune
+SBS M,http://cdn.1678520.xyz/xsj.php?id=sbs-m&xl=0
+大陆央视,#genre#
+CCTV-1 综合,http://cdn.1678520.xyz/xsj.php?id=cctv1&xl=0
+CCTV-2 财经,http://cdn.1678520.xyz/xsj.php?id=cctv2&xl=0
+CCTV-3 综艺,http://cdn.1678520.xyz/xsj.php?id=cctv3&xl=0
+CCTV-4 中文国际,http://cdn.1678520.xyz/xsj.php?id=cctv4&xl=0
+CCTV-5 体育,http://cdn.1678520.xyz/xsj.php?id=cctv5&xl=0
+CCTV-5+ 体育赛事,http://cdn.1678520.xyz/xsj.php?id=cctv5plus&xl=0
+CCTV-6 电影,http://cdn.1678520.xyz/xsj.php?id=cctv6&xl=0
+CCTV-7 国防军事,http://cdn.1678520.xyz/xsj.php?id=cctv7&xl=0
+CCTV-8 电视剧,http://cdn.1678520.xyz/xsj.php?id=cctv8&xl=0
+CCTV-9 纪录,http://cdn.1678520.xyz/xsj.php?id=cctv9&xl=0
+CCTV-10 科教,http://cdn.1678520.xyz/xsj.php?id=cctv10&xl=0
+CCTV-11 戏曲,http://cdn.1678520.xyz/xsj.php?id=cctv11&xl=0
+CCTV-12 社会与法,http://cdn.1678520.xyz/xsj.php?id=cctv12&xl=0
+CCTV-13 新闻,http://cdn.1678520.xyz/xsj.php?id=cctv13&xl=0
+CCTV-14 少儿,http://cdn.1678520.xyz/xsj.php?id=cctv14&xl=0
+CCTV-15 音乐,http://cdn.1678520.xyz/xsj.php?id=cctv15&xl=0
+CCTV-16 奥林匹克,http://cdn.1678520.xyz/xsj.php?id=cctv16&xl=0
+CCTV-17 农业农村,http://cdn.1678520.xyz/xsj.php?id=cctv17&xl=0
+CHC家庭影院,http://cdn.1678520.xyz/xsj.php?id=chc-jtyy&xl=0
+CHC动作电影,http://cdn.1678520.xyz/xsj.php?id=chc-dzdy&xl=0
+CHC高清电影,http://cdn.1678520.xyz/xsj.php?id=chc-gqdy&xl=0
+重温经典,http://cdn.1678520.xyz/xsj.php?id=cwjd&xl=0
+大陆卫视,#genre#
+湖南卫视,http://cdn.1678520.xyz/xsj.php?id=hunan&xl=0
+浙江卫视,http://cdn.1678520.xyz/xsj.php?id=zhejiang&xl=0
+东方卫视,http://cdn.1678520.xyz/xsj.php?id=dongfang&xl=0
+江苏卫视,http://cdn.1678520.xyz/xsj.php?id=jiangsu&xl=0
+北京卫视,http://cdn.1678520.xyz/xsj.php?id=beijing&xl=0
+深圳卫视,http://cdn.1678520.xyz/xsj.php?id=shenzhen&xl=0
+广东卫视,http://cdn.1678520.xyz/xsj.php?id=guangdong&xl=0
+大湾区卫视,http://cdn.1678520.xyz/xsj.php?id=gdwqws&xl=0
+重庆卫视,http://cdn.1678520.xyz/xsj.php?id=chongqing&xl=0
+东南卫视,http://cdn.1678520.xyz/xsj.php?id=dongnan&xl=0
+广西卫视,http://cdn.1678520.xyz/xsj.php?id=guangxi&xl=0
+贵州卫视,http://cdn.1678520.xyz/xsj.php?id=guizhou&xl=0
+海南卫视,http://cdn.1678520.xyz/xsj.php?id=hainan&xl=0
+河北卫视,http://cdn.1678520.xyz/xsj.php?id=hebei&xl=0
+黑龙江卫视,http://cdn.1678520.xyz/xsj.php?id=heilongjiang&xl=0
+湖北卫视,http://cdn.1678520.xyz/xsj.php?id=hubei&xl=0
+江西卫视,http://cdn.1678520.xyz/xsj.php?id=jiangxi&xl=0
+吉林卫视,http://cdn.1678520.xyz/xsj.php?id=jilin&xl=0
+辽宁卫视,http://cdn.1678520.xyz/xsj.php?id=liaoning&xl=0
+内蒙古卫视,http://cdn.1678520.xyz/xsj.php?id=neimenggu&xl=0
+宁夏卫视,http://cdn.1678520.xyz/xsj.php?id=ningxia&xl=0
+陕西卫视,http://cdn.1678520.xyz/xsj.php?id=shaanxi&xl=0
+山东卫视,http://cdn.1678520.xyz/xsj.php?id=shandong&xl=0
+山西卫视,http://cdn.1678520.xyz/xsj.php?id=shanxi&xl=0
+四川卫视,http://cdn.1678520.xyz/xsj.php?id=sichuan&xl=0
+天津卫视,http://cdn.1678520.xyz/xsj.php?id=tianjin&xl=0
+厦门卫视,http://cdn.1678520.xyz/xsj.php?id=xiamen&xl=0
+新疆卫视,http://cdn.1678520.xyz/xsj.php?id=xinjiang&xl=0
+西藏卫视,http://cdn.1678520.xyz/xsj.php?id=xizang&xl=0
+云南卫视,http://cdn.1678520.xyz/xsj.php?id=yunnan&xl=0
+安徽卫视,http://cdn.1678520.xyz/xsj.php?id=anhui&xl=0
+河南卫视,http://cdn.1678520.xyz/xsj.php?id=henan&xl=0
+青海卫视,http://cdn.1678520.xyz/xsj.php?id=qinghai&xl=0
+甘肃卫视,http://cdn.1678520.xyz/xsj.php?id=gansu&xl=0
