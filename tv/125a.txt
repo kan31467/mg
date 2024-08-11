@@ -1,0 +1,37 @@
+﻿台灣電視特,#genre#
+CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
+Cnbc new,http://125.227.210.55:8152/VideoInput/play.ts
+HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
+Discovery,http://125.227.210.55:8154/VideoInput/play.ts
+緯來體育臺,http://125.227.210.55:8155/VideoInput/play.ts
+🈲驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
+民視新聞台,http://125.227.210.55:8157/VideoInput/play.ts
+台視HD,http://125.227.210.55:8158/VideoInput/play.ts
+🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
+三立臺灣臺,http://125.227.210.55:8160/VideoInput/play.ts
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+華視HD,http://125.227.210.55:8163/VideoInput/play.ts
+公視,http://125.227.210.55:8164/VideoInput/play.ts
+BBC new,http://125.227.210.55:8165/VideoInput/play.ts
+CNN new,http://125.227.210.55:8166/VideoInput/play.ts
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+TVRI,http://125.227.210.55:8172/VideoInput/play.ts
+NET,http://125.227.210.55:8173/VideoInput/play.ts
+中視HD,http://125.227.210.55:8174/VideoInput/play.ts
+CCTV4,http://125.227.210.55:8175/VideoInput/play.ts
+TVBS新聞臺,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS歡樂臺,http://125.227.210.55:8187/VideoInput/play.ts
+TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
+日本A,http://125.227.210.55:8201/VideoInput/play.ts
+👅奧視🔞3,http://125.227.210.55:8203/VideoInput/play.ts
+日本B,http://125.227.210.55:8205/VideoInput/play.ts
+💖TV5臺,http://125.227.210.55:15533/VideoInput/play.ts
+💖YTN臺,http://125.227.210.55:17478/VideoInput/play.ts
+💖NHK JAPAN臺,http://125.227.210.55:35802/VideoInput/play.ts
+💖PBS臺,http://125.227.210.55:36950/VideoInput/play.ts
+💖鳳凰HD臺🍒,http://125.227.210.55:39004/VideoInput/play.ts
+💖DW臺,http://125.227.210.55:42534/VideoInput/play.ts
+💖KOREA臺,http://125.227.210.55:48553/VideoInput/play.ts
+💖Mainu臺,http://125.227.210.55:51359/VideoInput/play.ts
+💖NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
